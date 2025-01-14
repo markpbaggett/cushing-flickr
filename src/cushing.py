@@ -1,6 +1,7 @@
 import flickrapi
 import os
 import json
+from tqdm import tqdm
 
 
 class FlickrConnection:
@@ -17,9 +18,10 @@ class FlickrConnection:
 
 
 class CushingImage:
-    def __init__(self, photo_id, connection):
+    def __init__(self, photo_id, connection, output="output"):
         self.photo_id = photo_id
         self.connection = connection
+        self.output = output
 
     def get_info(self):
         all_metadata = self.connection.photos.getInfo(photo_id=self.photo_id)
@@ -53,6 +55,25 @@ class CushingImage:
     def get_all_as_json(self):
         return json.dumps(self.get_all(), indent=4)
 
+    def write_to_file(self):
+        with open(f"{self.output}/{self.photo_id}.json", 'w') as f:
+            f.write(self.get_all_as_json())
+
+
+class FindImages:
+    def __init__(self, user_id, connection):
+        self.user_id = user_id
+        self.connection = connection
+
+    def get_pages(self, until, per_page=500, start=3):
+        while start <= until:
+            response = self.connection.photos.search(user_id=self.user_id, page=start, per_page=per_page)
+            for photo in tqdm(response['photos']['photo']):
+                data = CushingImage(photo_id=photo['id'], connection=self.connection)
+                data.write_to_file()
+            start += 1
+        return
+
 
 def main():
     flickr_key = os.getenv('FLICKR_KEY')
@@ -62,8 +83,8 @@ def main():
         raise ValueError("FLICKR_KEY and FLICKR_SECRET environment variables must be set")
 
     connection = FlickrConnection(flickr_key, flickr_secret).connect
-    sample = CushingImage(photo_id='6220298977', connection=connection)
-    print(sample.get_all_as_json())
+    x = FindImages(user_id="29072716@N04", connection=connection)
+    x.get_pages(until=10)
 
 
 if __name__ == '__main__':
