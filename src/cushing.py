@@ -66,14 +66,15 @@ class FindImages:
         self.connection = connection
 
     def get_pages(self, until, per_page=500, start=3):
-        with tqdm(total=until - start + 1, desc="Processing pages") as pbar:
+        total_items = (until - start + 1) * per_page
+        with tqdm(total=total_items, desc="Processing items") as pbar:
             while start <= until:
                 response = self.connection.photos.search(user_id=self.user_id, page=start, per_page=per_page)
                 for photo in response['photos']['photo']:
                     data = CushingImage(photo_id=photo['id'], connection=self.connection)
                     data.write_to_file()
+                    pbar.update(1)
                 start += 1
-                pbar.update(1)
         return
 
 
@@ -86,7 +87,7 @@ def main():
 
     connection = FlickrConnection(flickr_key, flickr_secret).connect
     x = FindImages(user_id="29072716@N04", connection=connection)
-    x.get_pages(until=10)
+    x.get_pages(start=16, until=25)
 
 
 if __name__ == '__main__':
