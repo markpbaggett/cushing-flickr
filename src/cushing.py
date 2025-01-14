@@ -66,12 +66,14 @@ class FindImages:
         self.connection = connection
 
     def get_pages(self, until, per_page=500, start=3):
-        while start <= until:
-            response = self.connection.photos.search(user_id=self.user_id, page=start, per_page=per_page)
-            for photo in tqdm(response['photos']['photo']):
-                data = CushingImage(photo_id=photo['id'], connection=self.connection)
-                data.write_to_file()
-            start += 1
+        with tqdm(total=until - start + 1, desc="Processing pages") as pbar:
+            while start <= until:
+                response = self.connection.photos.search(user_id=self.user_id, page=start, per_page=per_page)
+                for photo in response['photos']['photo']:
+                    data = CushingImage(photo_id=photo['id'], connection=self.connection)
+                    data.write_to_file()
+                start += 1
+                pbar.update(1)
         return
 
 
