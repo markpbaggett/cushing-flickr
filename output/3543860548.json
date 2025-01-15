@@ -1,0 +1,267 @@
+{
+    "metadata": {
+        "photo": {
+            "id": "3543860548",
+            "secret": "49e685a655",
+            "server": "2100",
+            "farm": 3,
+            "dateuploaded": "1242679100",
+            "isfavorite": 0,
+            "license": "3",
+            "safety_level": "0",
+            "rotation": 0,
+            "originalsecret": "a690f77306",
+            "originalformat": "jpg",
+            "owner": {
+                "nsid": "29072716@N04",
+                "username": "Cushing Memorial Library and Archives, Texas A&M",
+                "realname": "",
+                "location": "",
+                "iconserver": "3100",
+                "iconfarm": 4,
+                "path_alias": "cushinglibrary",
+                "gift": {
+                    "gift_eligible": true,
+                    "eligible_durations": [
+                        "year",
+                        "month",
+                        "week"
+                    ],
+                    "new_flow": true
+                }
+            },
+            "title": {
+                "_content": "Box 1- 153c"
+            },
+            "description": {
+                "_content": "No digital info"
+            },
+            "visibility": {
+                "ispublic": 1,
+                "isfriend": 0,
+                "isfamily": 0
+            },
+            "dates": {
+                "posted": "1242679100",
+                "taken": "2009-05-18 13:38:20",
+                "takengranularity": 0,
+                "takenunknown": 0,
+                "lastupdate": "1421775722"
+            },
+            "views": "195",
+            "editability": {
+                "cancomment": 0,
+                "canaddmeta": 0
+            },
+            "publiceditability": {
+                "cancomment": 1,
+                "canaddmeta": 1
+            },
+            "usage": {
+                "candownload": 1,
+                "canblog": 0,
+                "canprint": 0,
+                "canshare": 1
+            },
+            "comments": {
+                "_content": "0"
+            },
+            "notes": {
+                "note": []
+            },
+            "people": {
+                "haspeople": 0
+            },
+            "tags": {
+                "tag": []
+            },
+            "urls": {
+                "url": [
+                    {
+                        "type": "photopage",
+                        "_content": "https://www.flickr.com/photos/cushinglibrary/3543860548/"
+                    }
+                ]
+            },
+            "media": "photo",
+            "descriptive_metadata": {
+                "No digital info": ""
+            }
+        },
+        "stat": "ok"
+    },
+    "exif": {
+        "photo": {
+            "id": "3543860548",
+            "secret": "49e685a655",
+            "server": "2100",
+            "farm": 3,
+            "camera": "",
+            "exif": [
+                {
+                    "tagspace": "JFIF",
+                    "tagspaceid": 0,
+                    "tag": "JFIFVersion",
+                    "label": "JFIFVersion",
+                    "raw": {
+                        "_content": "1.02"
+                    }
+                },
+                {
+                    "tagspace": "JFIF",
+                    "tagspaceid": 0,
+                    "tag": "ResolutionUnit",
+                    "label": "Resolution Unit",
+                    "raw": {
+                        "_content": "inches"
+                    }
+                },
+                {
+                    "tagspace": "JFIF",
+                    "tagspaceid": 0,
+                    "tag": "XResolution",
+                    "label": "X-Resolution",
+                    "raw": {
+                        "_content": "400"
+                    },
+                    "clean": {
+                        "_content": "400 dpi"
+                    }
+                },
+                {
+                    "tagspace": "JFIF",
+                    "tagspaceid": 0,
+                    "tag": "YResolution",
+                    "label": "Y-Resolution",
+                    "raw": {
+                        "_content": "400"
+                    },
+                    "clean": {
+                        "_content": "400 dpi"
+                    }
+                }
+            ]
+        },
+        "stat": "ok"
+    },
+    "comments": {
+        "comments": {
+            "photo_id": "3543860548"
+        },
+        "stat": "ok"
+    },
+    "sizes": {
+        "sizes": {
+            "canblog": 0,
+            "canprint": 0,
+            "candownload": 1,
+            "size": [
+                {
+                    "label": "Square",
+                    "width": 75,
+                    "height": 75,
+                    "source": "https://live.staticflickr.com/2100/3543860548_49e685a655_s.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3543860548/sizes/sq/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Large Square",
+                    "width": 150,
+                    "height": 150,
+                    "source": "https://live.staticflickr.com/2100/3543860548_49e685a655_q.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3543860548/sizes/q/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Thumbnail",
+                    "width": 65,
+                    "height": 100,
+                    "source": "https://live.staticflickr.com/2100/3543860548_49e685a655_t.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3543860548/sizes/t/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Small",
+                    "width": 157,
+                    "height": 240,
+                    "source": "https://live.staticflickr.com/2100/3543860548_49e685a655_m.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3543860548/sizes/s/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Small 320",
+                    "width": 209,
+                    "height": 320,
+                    "source": "https://live.staticflickr.com/2100/3543860548_49e685a655_n.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3543860548/sizes/n/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Small 400",
+                    "width": 261,
+                    "height": 400,
+                    "source": "https://live.staticflickr.com/2100/3543860548_49e685a655_w.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3543860548/sizes/w/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Medium",
+                    "width": 326,
+                    "height": 500,
+                    "source": "https://live.staticflickr.com/2100/3543860548_49e685a655.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3543860548/sizes/m/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Medium 640",
+                    "width": 418,
+                    "height": 640,
+                    "source": "https://live.staticflickr.com/2100/3543860548_49e685a655_z.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3543860548/sizes/z/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Medium 800",
+                    "width": 522,
+                    "height": 800,
+                    "source": "https://live.staticflickr.com/2100/3543860548_49e685a655_c.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3543860548/sizes/c/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Large",
+                    "width": 668,
+                    "height": 1024,
+                    "source": "https://live.staticflickr.com/2100/3543860548_49e685a655_b.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3543860548/sizes/l/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Large 1600",
+                    "width": 1044,
+                    "height": 1600,
+                    "source": "https://live.staticflickr.com/2100/3543860548_52ed0203fa_h.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3543860548/sizes/h/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Large 2048",
+                    "width": 1337,
+                    "height": 2048,
+                    "source": "https://live.staticflickr.com/2100/3543860548_1a07ed5f93_k.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3543860548/sizes/k/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Original",
+                    "width": 1716,
+                    "height": 2629,
+                    "source": "https://live.staticflickr.com/2100/3543860548_a690f77306_o.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3543860548/sizes/o/",
+                    "media": "photo"
+                }
+            ]
+        },
+        "stat": "ok"
+    }
+}

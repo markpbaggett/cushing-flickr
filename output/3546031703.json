@@ -1,0 +1,275 @@
+{
+    "metadata": {
+        "photo": {
+            "id": "3546031703",
+            "secret": "5728fbc602",
+            "server": "2434",
+            "farm": 3,
+            "dateuploaded": "1242761102",
+            "isfavorite": 0,
+            "license": "3",
+            "safety_level": "0",
+            "rotation": 0,
+            "originalsecret": "789356fa0d",
+            "originalformat": "jpg",
+            "owner": {
+                "nsid": "29072716@N04",
+                "username": "Cushing Memorial Library and Archives, Texas A&M",
+                "realname": "",
+                "location": "",
+                "iconserver": "3100",
+                "iconfarm": 4,
+                "path_alias": "cushinglibrary",
+                "gift": {
+                    "gift_eligible": true,
+                    "eligible_durations": [
+                        "year",
+                        "month",
+                        "week"
+                    ],
+                    "new_flow": true
+                }
+            },
+            "title": {
+                "_content": "Outfits - Company F - 17"
+            },
+            "description": {
+                "_content": "<b>Title: </b>Outfits - Company F - 17 \n<b>Digital Publisher: </b>Digital: Cushing Memorial Library and Archives, Texas A&amp;M University, College Station, Texas \n<b>Physical Publisher: </b>Physical: Cushing Memorial Library and Archives, Texas A&amp;M University \n<b>Description:</b> photograph date: ca. 198; Corps of Cadets: Outfits - Company F \n<b>Date Issued:</b> 2006 \n<b>Dimensions: </b>4 x 5 inches \n<b>Type: </b>image \n<b>Identifier:</b> Photograph Location: Pictures: COC- Outfits - Company F-2 Officers - ; Reference Number: 6992 \n<b>Rights: </b>It is the users responsibility to secure permission from the copyright holders for publication of any materials. Permission must be obtained in writing prior to publication. Please contact the Cushing Memorial Library for further information \n"
+            },
+            "visibility": {
+                "ispublic": 1,
+                "isfriend": 0,
+                "isfamily": 0
+            },
+            "dates": {
+                "posted": "1242761102",
+                "taken": "2009-05-19 12:25:02",
+                "takengranularity": 0,
+                "takenunknown": 0,
+                "lastupdate": "1567803826"
+            },
+            "views": "1708",
+            "editability": {
+                "cancomment": 0,
+                "canaddmeta": 0
+            },
+            "publiceditability": {
+                "cancomment": 1,
+                "canaddmeta": 1
+            },
+            "usage": {
+                "candownload": 1,
+                "canblog": 0,
+                "canprint": 0,
+                "canshare": 1
+            },
+            "comments": {
+                "_content": "0"
+            },
+            "notes": {
+                "note": []
+            },
+            "people": {
+                "haspeople": 0
+            },
+            "tags": {
+                "tag": []
+            },
+            "urls": {
+                "url": [
+                    {
+                        "type": "photopage",
+                        "_content": "https://www.flickr.com/photos/cushinglibrary/3546031703/"
+                    }
+                ]
+            },
+            "media": "photo",
+            "descriptive_metadata": {
+                "Title": "Outfits - Company F - 17",
+                "Digital Publisher": "Digital: Cushing Memorial Library and Archives, Texas A&amp;M University, College Station, Texas",
+                "Physical Publisher": "Physical: Cushing Memorial Library and Archives, Texas A&amp;M University",
+                "Description": "photograph date: ca. 198; Corps of Cadets: Outfits - Company F",
+                "Date Issued": "2006",
+                "Dimensions": "4 x 5 inches",
+                "Type": "image",
+                "Identifier": "Photograph Location: Pictures: COC- Outfits - Company F-2 Officers - ; Reference Number: 6992",
+                "Rights": "It is the users responsibility to secure permission from the copyright holders for publication of any materials. Permission must be obtained in writing prior to publication. Please contact the Cushing Memorial Library for further information"
+            }
+        },
+        "stat": "ok"
+    },
+    "exif": {
+        "photo": {
+            "id": "3546031703",
+            "secret": "5728fbc602",
+            "server": "2434",
+            "farm": 3,
+            "camera": "",
+            "exif": [
+                {
+                    "tagspace": "JFIF",
+                    "tagspaceid": 0,
+                    "tag": "JFIFVersion",
+                    "label": "JFIFVersion",
+                    "raw": {
+                        "_content": "1.02"
+                    }
+                },
+                {
+                    "tagspace": "JFIF",
+                    "tagspaceid": 0,
+                    "tag": "ResolutionUnit",
+                    "label": "Resolution Unit",
+                    "raw": {
+                        "_content": "inches"
+                    }
+                },
+                {
+                    "tagspace": "JFIF",
+                    "tagspaceid": 0,
+                    "tag": "XResolution",
+                    "label": "X-Resolution",
+                    "raw": {
+                        "_content": "400"
+                    },
+                    "clean": {
+                        "_content": "400 dpi"
+                    }
+                },
+                {
+                    "tagspace": "JFIF",
+                    "tagspaceid": 0,
+                    "tag": "YResolution",
+                    "label": "Y-Resolution",
+                    "raw": {
+                        "_content": "400"
+                    },
+                    "clean": {
+                        "_content": "400 dpi"
+                    }
+                }
+            ]
+        },
+        "stat": "ok"
+    },
+    "comments": {
+        "comments": {
+            "photo_id": "3546031703"
+        },
+        "stat": "ok"
+    },
+    "sizes": {
+        "sizes": {
+            "canblog": 0,
+            "canprint": 0,
+            "candownload": 1,
+            "size": [
+                {
+                    "label": "Square",
+                    "width": 75,
+                    "height": 75,
+                    "source": "https://live.staticflickr.com/2434/3546031703_5728fbc602_s.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3546031703/sizes/sq/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Large Square",
+                    "width": 150,
+                    "height": 150,
+                    "source": "https://live.staticflickr.com/2434/3546031703_5728fbc602_q.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3546031703/sizes/q/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Thumbnail",
+                    "width": 100,
+                    "height": 78,
+                    "source": "https://live.staticflickr.com/2434/3546031703_5728fbc602_t.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3546031703/sizes/t/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Small",
+                    "width": 240,
+                    "height": 187,
+                    "source": "https://live.staticflickr.com/2434/3546031703_5728fbc602_m.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3546031703/sizes/s/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Small 320",
+                    "width": 320,
+                    "height": 249,
+                    "source": "https://live.staticflickr.com/2434/3546031703_5728fbc602_n.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3546031703/sizes/n/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Small 400",
+                    "width": 400,
+                    "height": 311,
+                    "source": "https://live.staticflickr.com/2434/3546031703_5728fbc602_w.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3546031703/sizes/w/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Medium",
+                    "width": 500,
+                    "height": 389,
+                    "source": "https://live.staticflickr.com/2434/3546031703_5728fbc602.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3546031703/sizes/m/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Medium 640",
+                    "width": 640,
+                    "height": 498,
+                    "source": "https://live.staticflickr.com/2434/3546031703_5728fbc602_z.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3546031703/sizes/z/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Medium 800",
+                    "width": 800,
+                    "height": 622,
+                    "source": "https://live.staticflickr.com/2434/3546031703_5728fbc602_c.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3546031703/sizes/c/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Large",
+                    "width": 1024,
+                    "height": 797,
+                    "source": "https://live.staticflickr.com/2434/3546031703_5728fbc602_b.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3546031703/sizes/l/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Large 1600",
+                    "width": 1600,
+                    "height": 1245,
+                    "source": "https://live.staticflickr.com/2434/3546031703_ae1c2a4f31_h.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3546031703/sizes/h/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Large 2048",
+                    "width": 1983,
+                    "height": 1543,
+                    "source": "https://live.staticflickr.com/2434/3546031703_351d8ea333_k.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3546031703/sizes/k/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Original",
+                    "width": 1983,
+                    "height": 1543,
+                    "source": "https://live.staticflickr.com/2434/3546031703_789356fa0d_o.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3546031703/sizes/o/",
+                    "media": "photo"
+                }
+            ]
+        },
+        "stat": "ok"
+    }
+}

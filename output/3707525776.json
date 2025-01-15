@@ -1,0 +1,304 @@
+{
+    "metadata": {
+        "photo": {
+            "id": "3707525776",
+            "secret": "7a30717c0f",
+            "server": "3447",
+            "farm": 4,
+            "dateuploaded": "1247240937",
+            "isfavorite": 0,
+            "license": "3",
+            "safety_level": "0",
+            "rotation": 0,
+            "originalsecret": "8b7fbbd7b4",
+            "originalformat": "jpg",
+            "owner": {
+                "nsid": "29072716@N04",
+                "username": "Cushing Memorial Library and Archives, Texas A&M",
+                "realname": "",
+                "location": "",
+                "iconserver": "3100",
+                "iconfarm": 4,
+                "path_alias": "cushinglibrary",
+                "gift": {
+                    "gift_eligible": true,
+                    "eligible_durations": [
+                        "year",
+                        "month",
+                        "week"
+                    ],
+                    "new_flow": true
+                }
+            },
+            "title": {
+                "_content": "Garland B. Whisenhunt & Student"
+            },
+            "description": {
+                "_content": "<b>Title : Garland B. Whisenhunt &amp; Student\n\n<b>Creator (Photographer) : Unknown\n\n<b>Publisher : Agricultural Communications Office of the Texas Agricultural Extension Service\n\n<b>Place of Publication :   College Station, Texas\n\n<b>Year (Coverage) : 1967\n\n<b>Document Type : Image\n\n<b>Format : Photographic negative\n\n<b>Dimensions :   4 x 5 inches  \n\n<b>Digitization Date : June2009 \n\n<b>Description : Unknown\n\n<b>Note :    Brazos County, Texas\n\n<b>Collection :    Texas A&amp;M University Archives   \n   \n<b>Resource Identifier :   Graphic Services Photos, Box 38, File 38-200\n\n<b>Institution : Texas A&amp;M University, College Station, Texas\n\n<b>Repository : Cushing Memorial Library and Archives </b>    \n\n<b>Contact Information :    Email: <a href=\"mailto:cushing-library@tamu.edu\" rel=\"noreferrer nofollow\">cushing-library@tamu.edu</a>   Phone: 979-845-1951    \n\n<b>Copyright : It is the users responsibility to secure permission from the copyright holders for publication of any materials. Permission must be obtained in writing prior to publication. Please contact the Cushing Memorial Library for further information\n</b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b>"
+            },
+            "visibility": {
+                "ispublic": 1,
+                "isfriend": 0,
+                "isfamily": 0
+            },
+            "dates": {
+                "posted": "1247240937",
+                "taken": "2009-07-10 08:48:57",
+                "takengranularity": 0,
+                "takenunknown": 0,
+                "lastupdate": "1421775960"
+            },
+            "views": "286",
+            "editability": {
+                "cancomment": 0,
+                "canaddmeta": 0
+            },
+            "publiceditability": {
+                "cancomment": 1,
+                "canaddmeta": 1
+            },
+            "usage": {
+                "candownload": 1,
+                "canblog": 0,
+                "canprint": 0,
+                "canshare": 1
+            },
+            "comments": {
+                "_content": "2"
+            },
+            "notes": {
+                "note": []
+            },
+            "people": {
+                "haspeople": 0
+            },
+            "tags": {
+                "tag": []
+            },
+            "urls": {
+                "url": [
+                    {
+                        "type": "photopage",
+                        "_content": "https://www.flickr.com/photos/cushinglibrary/3707525776/"
+                    }
+                ]
+            },
+            "media": "photo",
+            "descriptive_metadata": {
+                "Title ": "Garland B. Whisenhunt &amp; Student",
+                "Creator (Photographer) ": "Unknown",
+                "Publisher ": "Agricultural Communications Office of the Texas Agricultural Extension Service",
+                "Place of Publication ": "College Station, Texas",
+                "Year (Coverage) ": "1967",
+                "Document Type ": "Image",
+                "Format ": "Photographic negative",
+                "Dimensions ": "4 x 5 inches",
+                "Digitization Date ": "June2009",
+                "Description ": "Unknown",
+                "Note ": "Brazos County, Texas",
+                "Collection ": "Texas A&amp;M University Archives",
+                "   ": "",
+                "Resource Identifier ": "Graphic Services Photos, Box 38, File 38-200",
+                "Institution ": "Texas A&amp;M University, College Station, Texas",
+                "Repository ": "Cushing Memorial Library and Archives",
+                "Contact Information ": "Email: <a href=\"mailto:cushing-library@tamu.edu\" rel=\"noreferrer nofollow\">cushing-library@tamu.edu</a>   Phone: 979-845-1951",
+                "Copyright ": "It is the users responsibility to secure permission from the copyright holders for publication of any materials. Permission must be obtained in writing prior to publication. Please contact the Cushing Memorial Library for further information"
+            }
+        },
+        "stat": "ok"
+    },
+    "exif": {
+        "photo": {
+            "id": "3707525776",
+            "secret": "7a30717c0f",
+            "server": "3447",
+            "farm": 4,
+            "camera": "",
+            "exif": [
+                {
+                    "tagspace": "JFIF",
+                    "tagspaceid": 0,
+                    "tag": "JFIFVersion",
+                    "label": "JFIFVersion",
+                    "raw": {
+                        "_content": "1.02"
+                    }
+                },
+                {
+                    "tagspace": "JFIF",
+                    "tagspaceid": 0,
+                    "tag": "ResolutionUnit",
+                    "label": "Resolution Unit",
+                    "raw": {
+                        "_content": "inches"
+                    }
+                },
+                {
+                    "tagspace": "JFIF",
+                    "tagspaceid": 0,
+                    "tag": "XResolution",
+                    "label": "X-Resolution",
+                    "raw": {
+                        "_content": "400"
+                    },
+                    "clean": {
+                        "_content": "400 dpi"
+                    }
+                },
+                {
+                    "tagspace": "JFIF",
+                    "tagspaceid": 0,
+                    "tag": "YResolution",
+                    "label": "Y-Resolution",
+                    "raw": {
+                        "_content": "400"
+                    },
+                    "clean": {
+                        "_content": "400 dpi"
+                    }
+                }
+            ]
+        },
+        "stat": "ok"
+    },
+    "comments": {
+        "comments": {
+            "photo_id": "3707525776",
+            "comment": [
+                {
+                    "id": "29040577-3707525776-72157621311440322",
+                    "author": "9341577@N08",
+                    "author_is_deleted": 0,
+                    "authorname": "flickr4jazz",
+                    "iconserver": "344",
+                    "iconfarm": 1,
+                    "datecreate": "1247366933",
+                    "permalink": "https://www.flickr.com/photos/cushinglibrary/3707525776/#comment72157621311440322",
+                    "path_alias": "flickr4jazz",
+                    "realname": "Jazz Guy",
+                    "_content": "Even though A&amp;M had air conditioning (except in some dorms) while I was there in the 80s, I remember how miserably hot it was in that part of Texas. \n\nYou can see from the armpit sweat on the civilian in the left of the photo that it was even worse in the 60s."
+                },
+                {
+                    "id": "29040577-3707525776-72157630885945520",
+                    "author": "38105986@N05",
+                    "author_is_deleted": 0,
+                    "authorname": "johnwhiz",
+                    "iconserver": "3385",
+                    "iconfarm": 4,
+                    "datecreate": "1344012588",
+                    "permalink": "https://www.flickr.com/photos/cushinglibrary/3707525776/#comment72157630885945520",
+                    "path_alias": "jwhiz",
+                    "realname": "John Whiz",
+                    "_content": "As of June 11, 2012 i'm a young 57 year old grand-pa of 4. I've got 2 &quot;knock out&quot; daughters, probably why I've got 4 grand kids now. \nI met my sweet wife skydiving when I first moved from Dallas to a Detroit suburb in 1984 she has 80 parachute jumps and I kinda left her as a skydivers widow. She quit jumping when we started having kids and me, well, every pretty weekend day in Michigan summers I would be trying to get on a load at one of the local drop zones. Anna and I celebrated our 25th. April a year ago she took me to Hawaii. Told you I was married to a sweetheart. She took me to Connecticut and Can\ncun this year. I think she likes to travel.\nAs a child I grew up in a affluent neighborhoodin Dallas, I mean these people had more money than, well you no what I mean all old oil money. My father was a rocket scientist, litterly, during the cold war there were 1000's of rocket scientists all across the nation. What they worked on was classified so I had to keep my mouth shut about it. Not that &quot;I&quot; knew much anyway. I remember once Dad coming home one evening and my father this tall 6ft. 6in. man with this booming voice announcing, &quot; son, were not going to be working on the Apollo or Lunar Excursion Module any longer.&quot; I thought he lost his job and with this Texas accent and deep concern said, &quot;Dad what are you going to do now.&quot;  He said, and you always had to look way up at him, &quot;Son were going to build something we can use and reuse.&quot; Thats when Shuttle program started. Is kinda funny last fall Shuttle flew for the last time. I didn't no it was taking off for the last time, that morning I woke up at my usually 5am EST to watch the news, then realized it was flying that morning. That night before my oldest grandson who is 4 now, he looked down at my desktop of my laptop computer in the garage and says, &quot;grand-pa whats that&quot; he was looking at a picture taken from the space station of the Shuttle getting ready to renter the earths atmosphere.\nI said to him, &quot; a rocket ship, Austen !!! &quot; Then I snatched him up took him to the basement to show him the pictures of patches they used on each mission. Lockheed Martin sent these to all the employs that worked on those launches and missions.\n\nmaybe more to come,\nJohn"
+                }
+            ]
+        },
+        "stat": "ok"
+    },
+    "sizes": {
+        "sizes": {
+            "canblog": 0,
+            "canprint": 0,
+            "candownload": 1,
+            "size": [
+                {
+                    "label": "Square",
+                    "width": 75,
+                    "height": 75,
+                    "source": "https://live.staticflickr.com/3447/3707525776_7a30717c0f_s.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3707525776/sizes/sq/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Large Square",
+                    "width": 150,
+                    "height": 150,
+                    "source": "https://live.staticflickr.com/3447/3707525776_7a30717c0f_q.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3707525776/sizes/q/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Thumbnail",
+                    "width": 100,
+                    "height": 82,
+                    "source": "https://live.staticflickr.com/3447/3707525776_7a30717c0f_t.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3707525776/sizes/t/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Small",
+                    "width": 240,
+                    "height": 198,
+                    "source": "https://live.staticflickr.com/3447/3707525776_7a30717c0f_m.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3707525776/sizes/s/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Small 320",
+                    "width": 320,
+                    "height": 264,
+                    "source": "https://live.staticflickr.com/3447/3707525776_7a30717c0f_n.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3707525776/sizes/n/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Small 400",
+                    "width": 400,
+                    "height": 330,
+                    "source": "https://live.staticflickr.com/3447/3707525776_7a30717c0f_w.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3707525776/sizes/w/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Medium",
+                    "width": 500,
+                    "height": 412,
+                    "source": "https://live.staticflickr.com/3447/3707525776_7a30717c0f.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3707525776/sizes/m/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Medium 640",
+                    "width": 640,
+                    "height": 528,
+                    "source": "https://live.staticflickr.com/3447/3707525776_7a30717c0f_z.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3707525776/sizes/z/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Medium 800",
+                    "width": 800,
+                    "height": 660,
+                    "source": "https://live.staticflickr.com/3447/3707525776_7a30717c0f_c.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3707525776/sizes/c/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Large",
+                    "width": 1024,
+                    "height": 844,
+                    "source": "https://live.staticflickr.com/3447/3707525776_7a30717c0f_b.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3707525776/sizes/l/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Large 1600",
+                    "width": 1600,
+                    "height": 1319,
+                    "source": "https://live.staticflickr.com/3447/3707525776_e5464ef027_h.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3707525776/sizes/h/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Original",
+                    "width": 1800,
+                    "height": 1484,
+                    "source": "https://live.staticflickr.com/3447/3707525776_8b7fbbd7b4_o.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3707525776/sizes/o/",
+                    "media": "photo"
+                }
+            ]
+        },
+        "stat": "ok"
+    }
+}

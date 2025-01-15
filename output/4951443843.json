@@ -1,0 +1,275 @@
+{
+    "metadata": {
+        "photo": {
+            "id": "4951443843",
+            "secret": "77198710e7",
+            "server": "4089",
+            "farm": 5,
+            "dateuploaded": "1283450580",
+            "isfavorite": 0,
+            "license": "3",
+            "safety_level": "0",
+            "rotation": 0,
+            "originalsecret": "e8c5d144fa",
+            "originalformat": "jpg",
+            "owner": {
+                "nsid": "29072716@N04",
+                "username": "Cushing Memorial Library and Archives, Texas A&M",
+                "realname": "",
+                "location": "",
+                "iconserver": "3100",
+                "iconfarm": 4,
+                "path_alias": "cushinglibrary",
+                "gift": {
+                    "gift_eligible": true,
+                    "eligible_durations": [
+                        "year",
+                        "month",
+                        "week"
+                    ],
+                    "new_flow": true
+                }
+            },
+            "title": {
+                "_content": "Dan Russell Receives Award From Huffman"
+            },
+            "description": {
+                "_content": "Title: Dan Russell Receives Award From Huffman\nCreator (Photographer) : Unknown\n\nPublisher : Graphic Services\n\nPlace of Publication : College Station, Texas\n\nYear (Coverage) : 1964\n\nDocument Type : Image\n\nFormat : Photographic negative\n\nDimensions : 4 x 5 inches \n\nDigitization Date : August2010\n\nDescription : Unknown\n\nNote : Brazos County, Texas\n\nCollection : Texas A&amp;M University Archives \n\nResource Identifier : Graphic Services Photos, Box 21, File 21-888\n\nInstitution : Texas A&amp;M University, College Station, Texas\n\nRepository : Cushing Memorial Library and Archives \n\nContact Information : Email: cushing-library@tamu.edu Phone: 979-845-1951 \n\nCopyright : It is the users responsibility to secure permission from the copyright holders for publication of any materials. Permission must be obtained in writing prior to publication. Please contact the Cushing Memorial Library for further information\n"
+            },
+            "visibility": {
+                "ispublic": 1,
+                "isfriend": 0,
+                "isfamily": 0
+            },
+            "dates": {
+                "posted": "1283450580",
+                "taken": "2010-09-02 11:03:00",
+                "takengranularity": 0,
+                "takenunknown": 0,
+                "lastupdate": "1421776603"
+            },
+            "views": "994",
+            "editability": {
+                "cancomment": 0,
+                "canaddmeta": 0
+            },
+            "publiceditability": {
+                "cancomment": 1,
+                "canaddmeta": 1
+            },
+            "usage": {
+                "candownload": 1,
+                "canblog": 0,
+                "canprint": 0,
+                "canshare": 1
+            },
+            "comments": {
+                "_content": "0"
+            },
+            "notes": {
+                "note": []
+            },
+            "people": {
+                "haspeople": 0
+            },
+            "tags": {
+                "tag": []
+            },
+            "urls": {
+                "url": [
+                    {
+                        "type": "photopage",
+                        "_content": "https://www.flickr.com/photos/cushinglibrary/4951443843/"
+                    }
+                ]
+            },
+            "media": "photo",
+            "descriptive_metadata": {
+                "Title": "Dan Russell Receives Award From Huffman",
+                "Creator (Photographer) ": "Unknown",
+                "Publisher ": "Graphic Services",
+                "Place of Publication ": "College Station, Texas",
+                "Year (Coverage) ": "1964",
+                "Document Type ": "Image",
+                "Format ": "Photographic negative",
+                "Dimensions ": "4 x 5 inches",
+                "Digitization Date ": "August2010",
+                "Description ": "Unknown",
+                "Note ": "Brazos County, Texas",
+                "Collection ": "Texas A&amp;M University Archives",
+                "Resource Identifier ": "Graphic Services Photos, Box 21, File 21-888",
+                "Institution ": "Texas A&amp;M University, College Station, Texas",
+                "Repository ": "Cushing Memorial Library and Archives",
+                "Contact Information ": "Email: cushing-library@tamu.edu Phone: 979-845-1951",
+                "Copyright ": "It is the users responsibility to secure permission from the copyright holders for publication of any materials. Permission must be obtained in writing prior to publication. Please contact the Cushing Memorial Library for further information"
+            }
+        },
+        "stat": "ok"
+    },
+    "exif": {
+        "photo": {
+            "id": "4951443843",
+            "secret": "77198710e7",
+            "server": "4089",
+            "farm": 5,
+            "camera": "",
+            "exif": [
+                {
+                    "tagspace": "JFIF",
+                    "tagspaceid": 0,
+                    "tag": "JFIFVersion",
+                    "label": "JFIFVersion",
+                    "raw": {
+                        "_content": "1.02"
+                    }
+                },
+                {
+                    "tagspace": "JFIF",
+                    "tagspaceid": 0,
+                    "tag": "ResolutionUnit",
+                    "label": "Resolution Unit",
+                    "raw": {
+                        "_content": "inches"
+                    }
+                },
+                {
+                    "tagspace": "JFIF",
+                    "tagspaceid": 0,
+                    "tag": "XResolution",
+                    "label": "X-Resolution",
+                    "raw": {
+                        "_content": "300"
+                    },
+                    "clean": {
+                        "_content": "300 dpi"
+                    }
+                },
+                {
+                    "tagspace": "JFIF",
+                    "tagspaceid": 0,
+                    "tag": "YResolution",
+                    "label": "Y-Resolution",
+                    "raw": {
+                        "_content": "300"
+                    },
+                    "clean": {
+                        "_content": "300 dpi"
+                    }
+                }
+            ]
+        },
+        "stat": "ok"
+    },
+    "comments": {
+        "comments": {
+            "photo_id": "4951443843"
+        },
+        "stat": "ok"
+    },
+    "sizes": {
+        "sizes": {
+            "canblog": 0,
+            "canprint": 0,
+            "candownload": 1,
+            "size": [
+                {
+                    "label": "Square",
+                    "width": 75,
+                    "height": 75,
+                    "source": "https://live.staticflickr.com/4089/4951443843_77198710e7_s.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/4951443843/sizes/sq/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Large Square",
+                    "width": 150,
+                    "height": 150,
+                    "source": "https://live.staticflickr.com/4089/4951443843_77198710e7_q.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/4951443843/sizes/q/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Thumbnail",
+                    "width": 100,
+                    "height": 83,
+                    "source": "https://live.staticflickr.com/4089/4951443843_77198710e7_t.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/4951443843/sizes/t/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Small",
+                    "width": 240,
+                    "height": 199,
+                    "source": "https://live.staticflickr.com/4089/4951443843_77198710e7_m.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/4951443843/sizes/s/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Small 320",
+                    "width": 320,
+                    "height": 265,
+                    "source": "https://live.staticflickr.com/4089/4951443843_77198710e7_n.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/4951443843/sizes/n/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Small 400",
+                    "width": 400,
+                    "height": 331,
+                    "source": "https://live.staticflickr.com/4089/4951443843_77198710e7_w.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/4951443843/sizes/w/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Medium",
+                    "width": 500,
+                    "height": 414,
+                    "source": "https://live.staticflickr.com/4089/4951443843_77198710e7.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/4951443843/sizes/m/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Medium 640",
+                    "width": 640,
+                    "height": 530,
+                    "source": "https://live.staticflickr.com/4089/4951443843_77198710e7_z.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/4951443843/sizes/z/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Medium 800",
+                    "width": 800,
+                    "height": 662,
+                    "source": "https://live.staticflickr.com/4089/4951443843_77198710e7_c.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/4951443843/sizes/c/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Large",
+                    "width": 1024,
+                    "height": 847,
+                    "source": "https://live.staticflickr.com/4089/4951443843_77198710e7_b.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/4951443843/sizes/l/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Large 1600",
+                    "width": 1338,
+                    "height": 1107,
+                    "source": "https://live.staticflickr.com/4089/4951443843_3d1550443f_h.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/4951443843/sizes/h/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Original",
+                    "width": 1338,
+                    "height": 1107,
+                    "source": "https://live.staticflickr.com/4089/4951443843_e8c5d144fa_o.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/4951443843/sizes/o/",
+                    "media": "photo"
+                }
+            ]
+        },
+        "stat": "ok"
+    }
+}

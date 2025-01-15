@@ -1,0 +1,279 @@
+{
+    "metadata": {
+        "photo": {
+            "id": "3471021531",
+            "secret": "71aca2f66c",
+            "server": "3395",
+            "farm": 4,
+            "dateuploaded": "1240603839",
+            "isfavorite": 0,
+            "license": "3",
+            "safety_level": "0",
+            "rotation": 0,
+            "originalsecret": "15b9a7a94f",
+            "originalformat": "jpg",
+            "owner": {
+                "nsid": "29072716@N04",
+                "username": "Cushing Memorial Library and Archives, Texas A&M",
+                "realname": "",
+                "location": "",
+                "iconserver": "3100",
+                "iconfarm": 4,
+                "path_alias": "cushinglibrary",
+                "gift": {
+                    "gift_eligible": true,
+                    "eligible_durations": [
+                        "year",
+                        "month",
+                        "week"
+                    ],
+                    "new_flow": true
+                }
+            },
+            "title": {
+                "_content": "Page - 022"
+            },
+            "description": {
+                "_content": "<b>Title:</b>  1917 University of Texas v Texas A&amp;M football program  \n\n<b>Publisher Name:</b>  Texas A&amp;M University\n\n<b>Place of Publication:</b>  College Station, Texas\n\n<b>Original Creation Date:</b>  1917\n\n<b>Event:</b>  1917 University of Texas v Texas A&amp;M football game, College Station, Texas \n\n<b>Note:</b>   \n\n<b>Physical Description:</b>  6 x 8.75  inches\n\n<b>Language:</b>  English\n\n<b>Institution:</b>  Cushing Memorial Library and Archives, Texas A&amp;M University, College Station, Texas\n\n<b>Collection:</b>  Texas A&amp;M University Archives  \n\n<b>Collection:</b>  TAMU Athletics, Football Programs\n\n<b>Resource Type:</b>  Program\n\n<b>Format:</b>  Text\n\n<b> Copyright :</b>  It is the users responsibility to secure permission from the copyright holders for publication of any materials. Permission must be obtained in writing prior to publication. Please contact the Cushing Library for further information.  Email: <a href=\"mailto:cushing-library@tamu.edu\" rel=\"noreferrer nofollow\">cushing-library@tamu.edu</a> Phone: 979-845-1951   \n\n"
+            },
+            "visibility": {
+                "ispublic": 1,
+                "isfriend": 0,
+                "isfamily": 0
+            },
+            "dates": {
+                "posted": "1240603839",
+                "taken": "2009-04-24 13:10:39",
+                "takengranularity": 0,
+                "takenunknown": 0,
+                "lastupdate": "1421775606"
+            },
+            "views": "302",
+            "editability": {
+                "cancomment": 0,
+                "canaddmeta": 0
+            },
+            "publiceditability": {
+                "cancomment": 1,
+                "canaddmeta": 1
+            },
+            "usage": {
+                "candownload": 1,
+                "canblog": 0,
+                "canprint": 0,
+                "canshare": 1
+            },
+            "comments": {
+                "_content": "0"
+            },
+            "notes": {
+                "note": []
+            },
+            "people": {
+                "haspeople": 0
+            },
+            "tags": {
+                "tag": []
+            },
+            "urls": {
+                "url": [
+                    {
+                        "type": "photopage",
+                        "_content": "https://www.flickr.com/photos/cushinglibrary/3471021531/"
+                    }
+                ]
+            },
+            "media": "photo",
+            "descriptive_metadata": {
+                "Title": "1917 University of Texas v Texas A&amp;M football program",
+                "Publisher Name": "Texas A&amp;M University",
+                "Place of Publication": "College Station, Texas",
+                "Original Creation Date": "1917",
+                "Event": "1917 University of Texas v Texas A&amp;M football game, College Station, Texas",
+                "Note": "",
+                "Physical Description": "6 x 8.75  inches",
+                "Language": "English",
+                "Institution": "Cushing Memorial Library and Archives, Texas A&amp;M University, College Station, Texas",
+                "Collection": "TAMU Athletics, Football Programs",
+                "Resource Type": "Program",
+                "Format": "Text",
+                " Copyright ": "It is the users responsibility to secure permission from the copyright holders for publication of any materials. Permission must be obtained in writing prior to publication. Please contact the Cushing Library for further information.  Email: <a href=\"mailto:cushing-library@tamu.edu\" rel=\"noreferrer nofollow\">cushing-library@tamu.edu</a> Phone: 979-845-1951"
+            }
+        },
+        "stat": "ok"
+    },
+    "exif": {
+        "photo": {
+            "id": "3471021531",
+            "secret": "71aca2f66c",
+            "server": "3395",
+            "farm": 4,
+            "camera": "",
+            "exif": [
+                {
+                    "tagspace": "JFIF",
+                    "tagspaceid": 0,
+                    "tag": "JFIFVersion",
+                    "label": "JFIFVersion",
+                    "raw": {
+                        "_content": "1.02"
+                    }
+                },
+                {
+                    "tagspace": "JFIF",
+                    "tagspaceid": 0,
+                    "tag": "ResolutionUnit",
+                    "label": "Resolution Unit",
+                    "raw": {
+                        "_content": "inches"
+                    }
+                },
+                {
+                    "tagspace": "JFIF",
+                    "tagspaceid": 0,
+                    "tag": "XResolution",
+                    "label": "X-Resolution",
+                    "raw": {
+                        "_content": "400"
+                    },
+                    "clean": {
+                        "_content": "400 dpi"
+                    }
+                },
+                {
+                    "tagspace": "JFIF",
+                    "tagspaceid": 0,
+                    "tag": "YResolution",
+                    "label": "Y-Resolution",
+                    "raw": {
+                        "_content": "400"
+                    },
+                    "clean": {
+                        "_content": "400 dpi"
+                    }
+                }
+            ]
+        },
+        "stat": "ok"
+    },
+    "comments": {
+        "comments": {
+            "photo_id": "3471021531"
+        },
+        "stat": "ok"
+    },
+    "sizes": {
+        "sizes": {
+            "canblog": 0,
+            "canprint": 0,
+            "candownload": 1,
+            "size": [
+                {
+                    "label": "Square",
+                    "width": 75,
+                    "height": 75,
+                    "source": "https://live.staticflickr.com/3395/3471021531_71aca2f66c_s.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3471021531/sizes/sq/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Large Square",
+                    "width": 150,
+                    "height": 150,
+                    "source": "https://live.staticflickr.com/3395/3471021531_71aca2f66c_q.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3471021531/sizes/q/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Thumbnail",
+                    "width": 100,
+                    "height": 70,
+                    "source": "https://live.staticflickr.com/3395/3471021531_71aca2f66c_t.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3471021531/sizes/t/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Small",
+                    "width": 240,
+                    "height": 168,
+                    "source": "https://live.staticflickr.com/3395/3471021531_71aca2f66c_m.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3471021531/sizes/s/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Small 320",
+                    "width": 320,
+                    "height": 224,
+                    "source": "https://live.staticflickr.com/3395/3471021531_71aca2f66c_n.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3471021531/sizes/n/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Small 400",
+                    "width": 400,
+                    "height": 280,
+                    "source": "https://live.staticflickr.com/3395/3471021531_71aca2f66c_w.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3471021531/sizes/w/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Medium",
+                    "width": 500,
+                    "height": 350,
+                    "source": "https://live.staticflickr.com/3395/3471021531_71aca2f66c.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3471021531/sizes/m/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Medium 640",
+                    "width": 640,
+                    "height": 448,
+                    "source": "https://live.staticflickr.com/3395/3471021531_71aca2f66c_z.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3471021531/sizes/z/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Medium 800",
+                    "width": 800,
+                    "height": 559,
+                    "source": "https://live.staticflickr.com/3395/3471021531_71aca2f66c_c.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3471021531/sizes/c/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Large",
+                    "width": 1024,
+                    "height": 716,
+                    "source": "https://live.staticflickr.com/3395/3471021531_71aca2f66c_b.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3471021531/sizes/l/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Large 1600",
+                    "width": 1600,
+                    "height": 1119,
+                    "source": "https://live.staticflickr.com/3395/3471021531_d44f27326c_h.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3471021531/sizes/h/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Large 2048",
+                    "width": 2048,
+                    "height": 1432,
+                    "source": "https://live.staticflickr.com/3395/3471021531_a4bd80a083_k.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3471021531/sizes/k/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Original",
+                    "width": 3628,
+                    "height": 2537,
+                    "source": "https://live.staticflickr.com/3395/3471021531_15b9a7a94f_o.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3471021531/sizes/o/",
+                    "media": "photo"
+                }
+            ]
+        },
+        "stat": "ok"
+    }
+}

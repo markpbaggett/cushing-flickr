@@ -1,0 +1,283 @@
+{
+    "metadata": {
+        "photo": {
+            "id": "4679059446",
+            "secret": "ec4e5d1158",
+            "server": "4030",
+            "farm": 5,
+            "dateuploaded": "1275923115",
+            "isfavorite": 0,
+            "license": "3",
+            "safety_level": "0",
+            "rotation": 0,
+            "originalsecret": "5e26ccc6b3",
+            "originalformat": "jpg",
+            "owner": {
+                "nsid": "29072716@N04",
+                "username": "Cushing Memorial Library and Archives, Texas A&M",
+                "realname": "",
+                "location": "",
+                "iconserver": "3100",
+                "iconfarm": 4,
+                "path_alias": "cushinglibrary",
+                "gift": {
+                    "gift_eligible": true,
+                    "eligible_durations": [
+                        "year",
+                        "month",
+                        "week"
+                    ],
+                    "new_flow": true
+                }
+            },
+            "title": {
+                "_content": "Cadets in Uniform"
+            },
+            "description": {
+                "_content": "<b>Title: </b>Cadets in Uniform \n<b>Digital Publisher: </b>Digital: Cushing Memorial Library and Archives, Texas A&amp;M University, College Station, Texas \n<b>Physical Publisher: </b>Physical: Graphic Services, Texas A&amp;M University \n<b>Date Issued:</b> 2011-08-17 \n<b>Date Created:</b> 1910 \n<b>Dimensions: </b>4 x 5 inches \n<b>Format Medium: </b>Photographic negative \n<b>Type: </b>image \n<b>Identifier:</b> Photograph Location: Graphic Services Photos, Box 24, File 24-739 \n<b>Rights: </b>It is the users responsibility to secure permission from the copyright holders for publication of any materials. Permission must be obtained in writing prior to publication. Please contact the Cushing Memorial Library for further information \n"
+            },
+            "visibility": {
+                "ispublic": 1,
+                "isfriend": 0,
+                "isfamily": 0
+            },
+            "dates": {
+                "posted": "1275923115",
+                "taken": "2010-06-07 08:05:15",
+                "takengranularity": 0,
+                "takenunknown": 0,
+                "lastupdate": "1562895471"
+            },
+            "views": "2161",
+            "editability": {
+                "cancomment": 0,
+                "canaddmeta": 0
+            },
+            "publiceditability": {
+                "cancomment": 1,
+                "canaddmeta": 1
+            },
+            "usage": {
+                "candownload": 1,
+                "canblog": 0,
+                "canprint": 0,
+                "canshare": 1
+            },
+            "comments": {
+                "_content": "1"
+            },
+            "notes": {
+                "note": []
+            },
+            "people": {
+                "haspeople": 0
+            },
+            "tags": {
+                "tag": []
+            },
+            "urls": {
+                "url": [
+                    {
+                        "type": "photopage",
+                        "_content": "https://www.flickr.com/photos/cushinglibrary/4679059446/"
+                    }
+                ]
+            },
+            "media": "photo",
+            "descriptive_metadata": {
+                "Title": "Cadets in Uniform",
+                "Digital Publisher": "Digital: Cushing Memorial Library and Archives, Texas A&amp;M University, College Station, Texas",
+                "Physical Publisher": "Physical: Graphic Services, Texas A&amp;M University",
+                "Date Issued": "2011-08-17",
+                "Date Created": "1910",
+                "Dimensions": "4 x 5 inches",
+                "Format Medium": "Photographic negative",
+                "Type": "image",
+                "Identifier": "Photograph Location: Graphic Services Photos, Box 24, File 24-739",
+                "Rights": "It is the users responsibility to secure permission from the copyright holders for publication of any materials. Permission must be obtained in writing prior to publication. Please contact the Cushing Memorial Library for further information"
+            }
+        },
+        "stat": "ok"
+    },
+    "exif": {
+        "photo": {
+            "id": "4679059446",
+            "secret": "ec4e5d1158",
+            "server": "4030",
+            "farm": 5,
+            "camera": "",
+            "exif": [
+                {
+                    "tagspace": "JFIF",
+                    "tagspaceid": 0,
+                    "tag": "JFIFVersion",
+                    "label": "JFIFVersion",
+                    "raw": {
+                        "_content": "1.02"
+                    }
+                },
+                {
+                    "tagspace": "JFIF",
+                    "tagspaceid": 0,
+                    "tag": "ResolutionUnit",
+                    "label": "Resolution Unit",
+                    "raw": {
+                        "_content": "inches"
+                    }
+                },
+                {
+                    "tagspace": "JFIF",
+                    "tagspaceid": 0,
+                    "tag": "XResolution",
+                    "label": "X-Resolution",
+                    "raw": {
+                        "_content": "400"
+                    },
+                    "clean": {
+                        "_content": "400 dpi"
+                    }
+                },
+                {
+                    "tagspace": "JFIF",
+                    "tagspaceid": 0,
+                    "tag": "YResolution",
+                    "label": "Y-Resolution",
+                    "raw": {
+                        "_content": "400"
+                    },
+                    "clean": {
+                        "_content": "400 dpi"
+                    }
+                }
+            ]
+        },
+        "stat": "ok"
+    },
+    "comments": {
+        "comments": {
+            "photo_id": "4679059446",
+            "comment": [
+                {
+                    "id": "29040577-4679059446-72157709587750061",
+                    "author": "40120805@N03",
+                    "author_is_deleted": 0,
+                    "authorname": "rmlowry4",
+                    "iconserver": "0",
+                    "iconfarm": 0,
+                    "datecreate": "1562895471",
+                    "permalink": "https://www.flickr.com/photos/cushinglibrary/4679059446/#comment72157709587750061",
+                    "path_alias": null,
+                    "realname": "",
+                    "_content": "Corps Sgt-Maj likely in front, Color-Sgt in back probably. &quot;star&quot; in sgt-maj rank did not appear in Corps until about 1965, but 1Sgts always had the diamond"
+                }
+            ]
+        },
+        "stat": "ok"
+    },
+    "sizes": {
+        "sizes": {
+            "canblog": 0,
+            "canprint": 0,
+            "candownload": 1,
+            "size": [
+                {
+                    "label": "Square",
+                    "width": 75,
+                    "height": 75,
+                    "source": "https://live.staticflickr.com/4030/4679059446_ec4e5d1158_s.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/4679059446/sizes/sq/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Large Square",
+                    "width": 150,
+                    "height": 150,
+                    "source": "https://live.staticflickr.com/4030/4679059446_ec4e5d1158_q.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/4679059446/sizes/q/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Thumbnail",
+                    "width": 100,
+                    "height": 94,
+                    "source": "https://live.staticflickr.com/4030/4679059446_ec4e5d1158_t.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/4679059446/sizes/t/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Small",
+                    "width": 240,
+                    "height": 227,
+                    "source": "https://live.staticflickr.com/4030/4679059446_ec4e5d1158_m.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/4679059446/sizes/s/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Small 320",
+                    "width": 320,
+                    "height": 302,
+                    "source": "https://live.staticflickr.com/4030/4679059446_ec4e5d1158_n.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/4679059446/sizes/n/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Small 400",
+                    "width": 400,
+                    "height": 378,
+                    "source": "https://live.staticflickr.com/4030/4679059446_ec4e5d1158_w.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/4679059446/sizes/w/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Medium",
+                    "width": 500,
+                    "height": 472,
+                    "source": "https://live.staticflickr.com/4030/4679059446_ec4e5d1158.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/4679059446/sizes/m/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Medium 640",
+                    "width": 640,
+                    "height": 605,
+                    "source": "https://live.staticflickr.com/4030/4679059446_ec4e5d1158_z.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/4679059446/sizes/z/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Medium 800",
+                    "width": 800,
+                    "height": 756,
+                    "source": "https://live.staticflickr.com/4030/4679059446_ec4e5d1158_c.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/4679059446/sizes/c/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Large",
+                    "width": 1024,
+                    "height": 967,
+                    "source": "https://live.staticflickr.com/4030/4679059446_ec4e5d1158_b.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/4679059446/sizes/l/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Large 1600",
+                    "width": 1376,
+                    "height": 1300,
+                    "source": "https://live.staticflickr.com/4030/4679059446_ddfa9f604e_h.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/4679059446/sizes/h/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Original",
+                    "width": 1376,
+                    "height": 1300,
+                    "source": "https://live.staticflickr.com/4030/4679059446_5e26ccc6b3_o.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/4679059446/sizes/o/",
+                    "media": "photo"
+                }
+            ]
+        },
+        "stat": "ok"
+    }
+}

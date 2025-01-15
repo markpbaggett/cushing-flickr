@@ -1,0 +1,275 @@
+{
+    "metadata": {
+        "photo": {
+            "id": "4112507963",
+            "secret": "ac787a589f",
+            "server": "2506",
+            "farm": 3,
+            "dateuploaded": "1258490824",
+            "isfavorite": 0,
+            "license": "3",
+            "safety_level": "0",
+            "rotation": 0,
+            "originalsecret": "de27b2b09f",
+            "originalformat": "jpg",
+            "owner": {
+                "nsid": "29072716@N04",
+                "username": "Cushing Memorial Library and Archives, Texas A&M",
+                "realname": "",
+                "location": "",
+                "iconserver": "3100",
+                "iconfarm": 4,
+                "path_alias": "cushinglibrary",
+                "gift": {
+                    "gift_eligible": true,
+                    "eligible_durations": [
+                        "year",
+                        "month",
+                        "week"
+                    ],
+                    "new_flow": true
+                }
+            },
+            "title": {
+                "_content": "Easterwood Airport - 28"
+            },
+            "description": {
+                "_content": "<b>Title: </b>Easterwood Airport - 28 \n<b>Digital Publisher: </b>Digital: Cushing Memorial Library and Archives, Texas A&amp;M University, College Station, Texas \n<b>Physical Publisher: </b>Physical: Cushing Memorial Library and Archives, Texas A&amp;M University \n<b>Description:</b> photograph date: Unknow; Easterwood Airport \n<b>Date Issued:</b> 2009-10 \n<b>Format Medium: </b>8x10 \n<b>Type: </b>image \n<b>Identifier:</b> Photograph Location: Easterwood Airport -28 \n<b>Rights: </b>It is the users responsibility to secure permission from the copyright holders for publication of any materials. Permission must be obtained in writing prior to publication. Please contact the Cushing Memorial Library for further information \n"
+            },
+            "visibility": {
+                "ispublic": 1,
+                "isfriend": 0,
+                "isfamily": 0
+            },
+            "dates": {
+                "posted": "1258490824",
+                "taken": "2009-11-17 12:47:04",
+                "takengranularity": 0,
+                "takenunknown": 0,
+                "lastupdate": "1421776266"
+            },
+            "views": "350",
+            "editability": {
+                "cancomment": 0,
+                "canaddmeta": 0
+            },
+            "publiceditability": {
+                "cancomment": 1,
+                "canaddmeta": 1
+            },
+            "usage": {
+                "candownload": 1,
+                "canblog": 0,
+                "canprint": 0,
+                "canshare": 1
+            },
+            "comments": {
+                "_content": "0"
+            },
+            "notes": {
+                "note": []
+            },
+            "people": {
+                "haspeople": 0
+            },
+            "tags": {
+                "tag": []
+            },
+            "urls": {
+                "url": [
+                    {
+                        "type": "photopage",
+                        "_content": "https://www.flickr.com/photos/cushinglibrary/4112507963/"
+                    }
+                ]
+            },
+            "media": "photo",
+            "descriptive_metadata": {
+                "Title": "Easterwood Airport - 28",
+                "Digital Publisher": "Digital: Cushing Memorial Library and Archives, Texas A&amp;M University, College Station, Texas",
+                "Physical Publisher": "Physical: Cushing Memorial Library and Archives, Texas A&amp;M University",
+                "Description": "photograph date: Unknow; Easterwood Airport",
+                "Date Issued": "2009-10",
+                "Format Medium": "8x10",
+                "Type": "image",
+                "Identifier": "Photograph Location: Easterwood Airport -28",
+                "Rights": "It is the users responsibility to secure permission from the copyright holders for publication of any materials. Permission must be obtained in writing prior to publication. Please contact the Cushing Memorial Library for further information"
+            }
+        },
+        "stat": "ok"
+    },
+    "exif": {
+        "photo": {
+            "id": "4112507963",
+            "secret": "ac787a589f",
+            "server": "2506",
+            "farm": 3,
+            "camera": "",
+            "exif": [
+                {
+                    "tagspace": "JFIF",
+                    "tagspaceid": 0,
+                    "tag": "JFIFVersion",
+                    "label": "JFIFVersion",
+                    "raw": {
+                        "_content": "1.02"
+                    }
+                },
+                {
+                    "tagspace": "JFIF",
+                    "tagspaceid": 0,
+                    "tag": "ResolutionUnit",
+                    "label": "Resolution Unit",
+                    "raw": {
+                        "_content": "inches"
+                    }
+                },
+                {
+                    "tagspace": "JFIF",
+                    "tagspaceid": 0,
+                    "tag": "XResolution",
+                    "label": "X-Resolution",
+                    "raw": {
+                        "_content": "300"
+                    },
+                    "clean": {
+                        "_content": "300 dpi"
+                    }
+                },
+                {
+                    "tagspace": "JFIF",
+                    "tagspaceid": 0,
+                    "tag": "YResolution",
+                    "label": "Y-Resolution",
+                    "raw": {
+                        "_content": "300"
+                    },
+                    "clean": {
+                        "_content": "300 dpi"
+                    }
+                }
+            ]
+        },
+        "stat": "ok"
+    },
+    "comments": {
+        "comments": {
+            "photo_id": "4112507963"
+        },
+        "stat": "ok"
+    },
+    "sizes": {
+        "sizes": {
+            "canblog": 0,
+            "canprint": 0,
+            "candownload": 1,
+            "size": [
+                {
+                    "label": "Square",
+                    "width": 75,
+                    "height": 75,
+                    "source": "https://live.staticflickr.com/2506/4112507963_ac787a589f_s.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/4112507963/sizes/sq/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Large Square",
+                    "width": 150,
+                    "height": 150,
+                    "source": "https://live.staticflickr.com/2506/4112507963_ac787a589f_q.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/4112507963/sizes/q/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Thumbnail",
+                    "width": 67,
+                    "height": 100,
+                    "source": "https://live.staticflickr.com/2506/4112507963_ac787a589f_t.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/4112507963/sizes/t/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Small",
+                    "width": 162,
+                    "height": 240,
+                    "source": "https://live.staticflickr.com/2506/4112507963_ac787a589f_m.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/4112507963/sizes/s/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Small 320",
+                    "width": 215,
+                    "height": 320,
+                    "source": "https://live.staticflickr.com/2506/4112507963_ac787a589f_n.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/4112507963/sizes/n/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Small 400",
+                    "width": 269,
+                    "height": 400,
+                    "source": "https://live.staticflickr.com/2506/4112507963_ac787a589f_w.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/4112507963/sizes/w/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Medium",
+                    "width": 336,
+                    "height": 500,
+                    "source": "https://live.staticflickr.com/2506/4112507963_ac787a589f.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/4112507963/sizes/m/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Medium 640",
+                    "width": 431,
+                    "height": 640,
+                    "source": "https://live.staticflickr.com/2506/4112507963_ac787a589f_z.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/4112507963/sizes/z/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Medium 800",
+                    "width": 538,
+                    "height": 800,
+                    "source": "https://live.staticflickr.com/2506/4112507963_ac787a589f_c.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/4112507963/sizes/c/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Large",
+                    "width": 689,
+                    "height": 1024,
+                    "source": "https://live.staticflickr.com/2506/4112507963_ac787a589f_b.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/4112507963/sizes/l/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Large 1600",
+                    "width": 1077,
+                    "height": 1600,
+                    "source": "https://live.staticflickr.com/2506/4112507963_f2e48035b2_h.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/4112507963/sizes/h/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Large 2048",
+                    "width": 1378,
+                    "height": 2048,
+                    "source": "https://live.staticflickr.com/2506/4112507963_f7d4b9bdc6_k.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/4112507963/sizes/k/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Original",
+                    "width": 1866,
+                    "height": 2773,
+                    "source": "https://live.staticflickr.com/2506/4112507963_de27b2b09f_o.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/4112507963/sizes/o/",
+                    "media": "photo"
+                }
+            ]
+        },
+        "stat": "ok"
+    }
+}

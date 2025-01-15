@@ -1,0 +1,283 @@
+{
+    "metadata": {
+        "photo": {
+            "id": "3993295341",
+            "secret": "0968046610",
+            "server": "2594",
+            "farm": 3,
+            "dateuploaded": "1255036086",
+            "isfavorite": 0,
+            "license": "3",
+            "safety_level": "0",
+            "rotation": 0,
+            "originalsecret": "5de0ecbde4",
+            "originalformat": "jpg",
+            "owner": {
+                "nsid": "29072716@N04",
+                "username": "Cushing Memorial Library and Archives, Texas A&M",
+                "realname": "",
+                "location": "",
+                "iconserver": "3100",
+                "iconfarm": 4,
+                "path_alias": "cushinglibrary",
+                "gift": {
+                    "gift_eligible": true,
+                    "eligible_durations": [
+                        "year",
+                        "month",
+                        "week"
+                    ],
+                    "new_flow": true
+                }
+            },
+            "title": {
+                "_content": "Mid-Season Meeting of The Mothers Club"
+            },
+            "description": {
+                "_content": "<b>Title: </b>Mid-Season Meeting of The Mothers Club \n<b>Digital Publisher: </b>Digital: Cushing Memorial Library and Archives, Texas A&amp;M University, College Station, Texas \n<b>Physical Publisher: </b>Physical: Graphic Services, Texas A&amp;M University \n<b>Date Issued:</b> 2011-08-17 \n<b>Date Created:</b> 1969 \n<b>Dimensions: </b>4 x 5 inches \n<b>Format Medium: </b>Photographic negative \n<b>Type: </b>image \n<b>Identifier:</b> Photograph Location: Graphic Services Photos, Box 34, File 33-383 \n<b>Rights: </b>It is the users responsibility to secure permission from the copyright holders for publication of any materials. Permission must be obtained in writing prior to publication. Please contact the Cushing Memorial Library for further information \n"
+            },
+            "visibility": {
+                "ispublic": 1,
+                "isfriend": 0,
+                "isfamily": 0
+            },
+            "dates": {
+                "posted": "1255036086",
+                "taken": "2009-10-08 14:08:06",
+                "takengranularity": 0,
+                "takenunknown": 0,
+                "lastupdate": "1459540689"
+            },
+            "views": "525",
+            "editability": {
+                "cancomment": 0,
+                "canaddmeta": 0
+            },
+            "publiceditability": {
+                "cancomment": 1,
+                "canaddmeta": 1
+            },
+            "usage": {
+                "candownload": 1,
+                "canblog": 0,
+                "canprint": 0,
+                "canshare": 1
+            },
+            "comments": {
+                "_content": "1"
+            },
+            "notes": {
+                "note": []
+            },
+            "people": {
+                "haspeople": 0
+            },
+            "tags": {
+                "tag": []
+            },
+            "urls": {
+                "url": [
+                    {
+                        "type": "photopage",
+                        "_content": "https://www.flickr.com/photos/cushinglibrary/3993295341/"
+                    }
+                ]
+            },
+            "media": "photo",
+            "descriptive_metadata": {
+                "Title": "Mid-Season Meeting of The Mothers Club",
+                "Digital Publisher": "Digital: Cushing Memorial Library and Archives, Texas A&amp;M University, College Station, Texas",
+                "Physical Publisher": "Physical: Graphic Services, Texas A&amp;M University",
+                "Date Issued": "2011-08-17",
+                "Date Created": "1969",
+                "Dimensions": "4 x 5 inches",
+                "Format Medium": "Photographic negative",
+                "Type": "image",
+                "Identifier": "Photograph Location: Graphic Services Photos, Box 34, File 33-383",
+                "Rights": "It is the users responsibility to secure permission from the copyright holders for publication of any materials. Permission must be obtained in writing prior to publication. Please contact the Cushing Memorial Library for further information"
+            }
+        },
+        "stat": "ok"
+    },
+    "exif": {
+        "photo": {
+            "id": "3993295341",
+            "secret": "0968046610",
+            "server": "2594",
+            "farm": 3,
+            "camera": "",
+            "exif": [
+                {
+                    "tagspace": "JFIF",
+                    "tagspaceid": 0,
+                    "tag": "JFIFVersion",
+                    "label": "JFIFVersion",
+                    "raw": {
+                        "_content": "1.02"
+                    }
+                },
+                {
+                    "tagspace": "JFIF",
+                    "tagspaceid": 0,
+                    "tag": "ResolutionUnit",
+                    "label": "Resolution Unit",
+                    "raw": {
+                        "_content": "inches"
+                    }
+                },
+                {
+                    "tagspace": "JFIF",
+                    "tagspaceid": 0,
+                    "tag": "XResolution",
+                    "label": "X-Resolution",
+                    "raw": {
+                        "_content": "400"
+                    },
+                    "clean": {
+                        "_content": "400 dpi"
+                    }
+                },
+                {
+                    "tagspace": "JFIF",
+                    "tagspaceid": 0,
+                    "tag": "YResolution",
+                    "label": "Y-Resolution",
+                    "raw": {
+                        "_content": "400"
+                    },
+                    "clean": {
+                        "_content": "400 dpi"
+                    }
+                }
+            ]
+        },
+        "stat": "ok"
+    },
+    "comments": {
+        "comments": {
+            "photo_id": "3993295341",
+            "comment": [
+                {
+                    "id": "29040577-3993295341-72157664351744434",
+                    "author": "21166851@N08",
+                    "author_is_deleted": 0,
+                    "authorname": "T E E X",
+                    "iconserver": "3747",
+                    "iconfarm": 4,
+                    "datecreate": "1459540481",
+                    "permalink": "https://www.flickr.com/photos/cushinglibrary/3993295341/#comment72157664351744434",
+                    "path_alias": "teex",
+                    "realname": "",
+                    "_content": "A&amp;M President Earl Rudder (left) and Mrs. Earl Rudder (third from left). The Birch Room was at the Memorial Student Center."
+                }
+            ]
+        },
+        "stat": "ok"
+    },
+    "sizes": {
+        "sizes": {
+            "canblog": 0,
+            "canprint": 0,
+            "candownload": 1,
+            "size": [
+                {
+                    "label": "Square",
+                    "width": 75,
+                    "height": 75,
+                    "source": "https://live.staticflickr.com/2594/3993295341_0968046610_s.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3993295341/sizes/sq/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Large Square",
+                    "width": 150,
+                    "height": 150,
+                    "source": "https://live.staticflickr.com/2594/3993295341_0968046610_q.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3993295341/sizes/q/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Thumbnail",
+                    "width": 100,
+                    "height": 84,
+                    "source": "https://live.staticflickr.com/2594/3993295341_0968046610_t.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3993295341/sizes/t/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Small",
+                    "width": 240,
+                    "height": 201,
+                    "source": "https://live.staticflickr.com/2594/3993295341_0968046610_m.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3993295341/sizes/s/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Small 320",
+                    "width": 320,
+                    "height": 268,
+                    "source": "https://live.staticflickr.com/2594/3993295341_0968046610_n.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3993295341/sizes/n/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Small 400",
+                    "width": 400,
+                    "height": 335,
+                    "source": "https://live.staticflickr.com/2594/3993295341_0968046610_w.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3993295341/sizes/w/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Medium",
+                    "width": 500,
+                    "height": 419,
+                    "source": "https://live.staticflickr.com/2594/3993295341_0968046610.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3993295341/sizes/m/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Medium 640",
+                    "width": 640,
+                    "height": 536,
+                    "source": "https://live.staticflickr.com/2594/3993295341_0968046610_z.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3993295341/sizes/z/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Medium 800",
+                    "width": 800,
+                    "height": 671,
+                    "source": "https://live.staticflickr.com/2594/3993295341_0968046610_c.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3993295341/sizes/c/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Large",
+                    "width": 1024,
+                    "height": 858,
+                    "source": "https://live.staticflickr.com/2594/3993295341_0968046610_b.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3993295341/sizes/l/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Large 1600",
+                    "width": 1600,
+                    "height": 1341,
+                    "source": "https://live.staticflickr.com/2594/3993295341_2bdd111627_h.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3993295341/sizes/h/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Original",
+                    "width": 1761,
+                    "height": 1476,
+                    "source": "https://live.staticflickr.com/2594/3993295341_5de0ecbde4_o.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3993295341/sizes/o/",
+                    "media": "photo"
+                }
+            ]
+        },
+        "stat": "ok"
+    }
+}

@@ -1,0 +1,281 @@
+{
+    "metadata": {
+        "photo": {
+            "id": "3533479427",
+            "secret": "d640331500",
+            "server": "2083",
+            "farm": 3,
+            "dateuploaded": "1242413091",
+            "isfavorite": 0,
+            "license": "3",
+            "safety_level": "0",
+            "rotation": 0,
+            "originalsecret": "af75b25aec",
+            "originalformat": "jpg",
+            "owner": {
+                "nsid": "29072716@N04",
+                "username": "Cushing Memorial Library and Archives, Texas A&M",
+                "realname": "",
+                "location": "",
+                "iconserver": "3100",
+                "iconfarm": 4,
+                "path_alias": "cushinglibrary",
+                "gift": {
+                    "gift_eligible": true,
+                    "eligible_durations": [
+                        "year",
+                        "month",
+                        "week"
+                    ],
+                    "new_flow": true
+                }
+            },
+            "title": {
+                "_content": "image-5655"
+            },
+            "description": {
+                "_content": "<b>Creator:</b>Unknown\n <b>Reference Number:</b>    5655    \n <b>Publisher:</b>    Cushing Memorial Library and Archives, Texas A&amp;M University    \n <b>Document Type:</b>    Photograph    \n <b>Category:</b>    Athletics: Basketball - Mens - 1931-1940    \n <b>Digitization Date:</b>    2006-04-14    \n <b>Photograph Date:</b>    1933    \n <b>Dimensions:</b>    5 x 7 inches    \n <b>Location:</b>    Pictures: Men's Basketball 1931-1940 - 4    \n <b>Caption:</b>    Texas Aggies 1933, Joe Merka, Bryan, letterman at center.    \n <b>Collection:</b>    Texas A&amp;M University Archives Photograph Collection    \n <b>Contact Information:</b>    Email: <a href=\"mailto:cushing-library@tamu.edu\" rel=\"noreferrer nofollow\">cushing-library@tamu.edu</a>   Phone: 979-845-1951    \n <b>Repository:&lt;/b    Cushing Memorial Library and Archives, Texas A&amp;M University, College Station, Texas</b>    \n <b>Restrictions:&lt;/b    It is the users responsibility to secure permission from the copyright holders for publication of any materials. Permission must be obtained in writing prior to publication. Please contact the Cushing Library for further information.</b>    \n <b>Keywords:&lt;/b    Athletics; Basketball; Sports </b>    \n"
+            },
+            "visibility": {
+                "ispublic": 1,
+                "isfriend": 0,
+                "isfamily": 0
+            },
+            "dates": {
+                "posted": "1242413091",
+                "taken": "2009-05-15 11:44:51",
+                "takengranularity": 0,
+                "takenunknown": 0,
+                "lastupdate": "1421775646"
+            },
+            "views": "2375",
+            "editability": {
+                "cancomment": 0,
+                "canaddmeta": 0
+            },
+            "publiceditability": {
+                "cancomment": 1,
+                "canaddmeta": 1
+            },
+            "usage": {
+                "candownload": 1,
+                "canblog": 0,
+                "canprint": 0,
+                "canshare": 1
+            },
+            "comments": {
+                "_content": "0"
+            },
+            "notes": {
+                "note": []
+            },
+            "people": {
+                "haspeople": 0
+            },
+            "tags": {
+                "tag": []
+            },
+            "urls": {
+                "url": [
+                    {
+                        "type": "photopage",
+                        "_content": "https://www.flickr.com/photos/cushinglibrary/3533479427/"
+                    }
+                ]
+            },
+            "media": "photo",
+            "descriptive_metadata": {
+                "Creator": "Unknown",
+                " Reference Number": "5655",
+                " Publisher": "Cushing Memorial Library and Archives, Texas A&amp;M University",
+                " Document Type": "Photograph",
+                " Category": "Athletics: Basketball - Mens - 1931-1940",
+                " Digitization Date": "2006-04-14",
+                " Photograph Date": "1933",
+                " Dimensions": "5 x 7 inches",
+                " Location": "Pictures: Men's Basketball 1931-1940 - 4",
+                " Caption": "Texas Aggies 1933, Joe Merka, Bryan, letterman at center.",
+                " Collection": "Texas A&amp;M University Archives Photograph Collection",
+                " Contact Information": "Email: <a href=\"mailto:cushing-library@tamu.edu\" rel=\"noreferrer nofollow\">cushing-library@tamu.edu</a>   Phone: 979-845-1951",
+                " Repository": "&lt;/b    Cushing Memorial Library and Archives, Texas A&amp;M University, College Station, Texas",
+                " Restrictions": "&lt;/b    It is the users responsibility to secure permission from the copyright holders for publication of any materials. Permission must be obtained in writing prior to publication. Please contact the Cushing Library for further information.",
+                " Keywords": "&lt;/b    Athletics; Basketball; Sports"
+            }
+        },
+        "stat": "ok"
+    },
+    "exif": {
+        "photo": {
+            "id": "3533479427",
+            "secret": "d640331500",
+            "server": "2083",
+            "farm": 3,
+            "camera": "",
+            "exif": [
+                {
+                    "tagspace": "JFIF",
+                    "tagspaceid": 0,
+                    "tag": "JFIFVersion",
+                    "label": "JFIFVersion",
+                    "raw": {
+                        "_content": "1.02"
+                    }
+                },
+                {
+                    "tagspace": "JFIF",
+                    "tagspaceid": 0,
+                    "tag": "ResolutionUnit",
+                    "label": "Resolution Unit",
+                    "raw": {
+                        "_content": "inches"
+                    }
+                },
+                {
+                    "tagspace": "JFIF",
+                    "tagspaceid": 0,
+                    "tag": "XResolution",
+                    "label": "X-Resolution",
+                    "raw": {
+                        "_content": "400"
+                    },
+                    "clean": {
+                        "_content": "400 dpi"
+                    }
+                },
+                {
+                    "tagspace": "JFIF",
+                    "tagspaceid": 0,
+                    "tag": "YResolution",
+                    "label": "Y-Resolution",
+                    "raw": {
+                        "_content": "400"
+                    },
+                    "clean": {
+                        "_content": "400 dpi"
+                    }
+                }
+            ]
+        },
+        "stat": "ok"
+    },
+    "comments": {
+        "comments": {
+            "photo_id": "3533479427"
+        },
+        "stat": "ok"
+    },
+    "sizes": {
+        "sizes": {
+            "canblog": 0,
+            "canprint": 0,
+            "candownload": 1,
+            "size": [
+                {
+                    "label": "Square",
+                    "width": 75,
+                    "height": 75,
+                    "source": "https://live.staticflickr.com/2083/3533479427_d640331500_s.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3533479427/sizes/sq/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Large Square",
+                    "width": 150,
+                    "height": 150,
+                    "source": "https://live.staticflickr.com/2083/3533479427_d640331500_q.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3533479427/sizes/q/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Thumbnail",
+                    "width": 68,
+                    "height": 100,
+                    "source": "https://live.staticflickr.com/2083/3533479427_d640331500_t.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3533479427/sizes/t/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Small",
+                    "width": 162,
+                    "height": 240,
+                    "source": "https://live.staticflickr.com/2083/3533479427_d640331500_m.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3533479427/sizes/s/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Small 320",
+                    "width": 217,
+                    "height": 320,
+                    "source": "https://live.staticflickr.com/2083/3533479427_d640331500_n.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3533479427/sizes/n/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Small 400",
+                    "width": 271,
+                    "height": 400,
+                    "source": "https://live.staticflickr.com/2083/3533479427_d640331500_w.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3533479427/sizes/w/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Medium",
+                    "width": 338,
+                    "height": 500,
+                    "source": "https://live.staticflickr.com/2083/3533479427_d640331500.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3533479427/sizes/m/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Medium 640",
+                    "width": 433,
+                    "height": 640,
+                    "source": "https://live.staticflickr.com/2083/3533479427_d640331500_z.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3533479427/sizes/z/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Medium 800",
+                    "width": 541,
+                    "height": 800,
+                    "source": "https://live.staticflickr.com/2083/3533479427_d640331500_c.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3533479427/sizes/c/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Large",
+                    "width": 693,
+                    "height": 1024,
+                    "source": "https://live.staticflickr.com/2083/3533479427_d640331500_b.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3533479427/sizes/l/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Large 1600",
+                    "width": 1083,
+                    "height": 1600,
+                    "source": "https://live.staticflickr.com/2083/3533479427_ddde7ef2e9_h.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3533479427/sizes/h/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Large 2048",
+                    "width": 1386,
+                    "height": 2048,
+                    "source": "https://live.staticflickr.com/2083/3533479427_84e46b30e7_k.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3533479427/sizes/k/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Original",
+                    "width": 1767,
+                    "height": 2611,
+                    "source": "https://live.staticflickr.com/2083/3533479427_af75b25aec_o.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3533479427/sizes/o/",
+                    "media": "photo"
+                }
+            ]
+        },
+        "stat": "ok"
+    }
+}

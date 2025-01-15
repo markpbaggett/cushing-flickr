@@ -1,0 +1,283 @@
+{
+    "metadata": {
+        "photo": {
+            "id": "3445941134",
+            "secret": "7b0dd55793",
+            "server": "3631",
+            "farm": 4,
+            "dateuploaded": "1239831167",
+            "isfavorite": 0,
+            "license": "3",
+            "safety_level": "0",
+            "rotation": 0,
+            "originalsecret": "9b5dcc9824",
+            "originalformat": "jpg",
+            "owner": {
+                "nsid": "29072716@N04",
+                "username": "Cushing Memorial Library and Archives, Texas A&M",
+                "realname": "",
+                "location": "",
+                "iconserver": "3100",
+                "iconfarm": 4,
+                "path_alias": "cushinglibrary",
+                "gift": {
+                    "gift_eligible": true,
+                    "eligible_durations": [
+                        "year",
+                        "month",
+                        "week"
+                    ],
+                    "new_flow": true
+                }
+            },
+            "title": {
+                "_content": "image-3506"
+            },
+            "description": {
+                "_content": "<b>Creator:</b>Unknown\n    <b>Reference Number:</b>    3506    \n    <b>Publisher:</b>    Cushing Memorial Library and Archives, Texas A&amp;M University    \n\n    <b>Document Type:</b>    Photograph    \n    <b>Category:</b>    Student Activities: Mascots: Miscellaneous    \n\n    <b>Digitization Date:</b>    2006    \n    <b>Photograph Date:</b>    No date    \n    <b>Dimensions:</b>    3.5 x 5 inches    \n    <b>Location:</b>    Pictures: Mascots- General - 44    \n\n    <b>Collection:</b>    Texas A&amp;M University Archives Photograph Collection    \n\n    <b>Contact Information:</b>    Email: <a href=\"mailto:cushing-library@tamu.edu\" rel=\"noreferrer nofollow\">cushing-library@tamu.edu</a>   Phone: 979-845-1951    \n\n    <b>Repository:</b>\n    Cushing Memorial Library and Archives, Texas A&amp;M University, College Station, Texas    \n\n    <b>Restrictions:</b>\n    It is the users responsibility to secure permission from the copyright holders for publication of any materials. Permission must be obtained in writing prior to publication. Please contact the Cushing Library for further information.    \n\n    <b>Keywords:</b>\n    Mascots; Animals"
+            },
+            "visibility": {
+                "ispublic": 1,
+                "isfriend": 0,
+                "isfamily": 0
+            },
+            "dates": {
+                "posted": "1239831167",
+                "taken": "2009-04-15 14:32:47",
+                "takengranularity": 0,
+                "takenunknown": 0,
+                "lastupdate": "1421775569"
+            },
+            "views": "201",
+            "editability": {
+                "cancomment": 0,
+                "canaddmeta": 0
+            },
+            "publiceditability": {
+                "cancomment": 1,
+                "canaddmeta": 1
+            },
+            "usage": {
+                "candownload": 1,
+                "canblog": 0,
+                "canprint": 0,
+                "canshare": 1
+            },
+            "comments": {
+                "_content": "0"
+            },
+            "notes": {
+                "note": []
+            },
+            "people": {
+                "haspeople": 0
+            },
+            "tags": {
+                "tag": []
+            },
+            "urls": {
+                "url": [
+                    {
+                        "type": "photopage",
+                        "_content": "https://www.flickr.com/photos/cushinglibrary/3445941134/"
+                    }
+                ]
+            },
+            "media": "photo",
+            "descriptive_metadata": {
+                "Creator": "Unknown",
+                "    Reference Number": "3506",
+                "    Publisher": "Cushing Memorial Library and Archives, Texas A&amp;M University",
+                "    Document Type": "Photograph",
+                "    Category": "Student Activities: Mascots: Miscellaneous",
+                "    Digitization Date": "2006",
+                "    Photograph Date": "No date",
+                "    Dimensions": "3.5 x 5 inches",
+                "    Location": "Pictures: Mascots- General - 44",
+                "    Collection": "Texas A&amp;M University Archives Photograph Collection",
+                "    Contact Information": "Email: <a href=\"mailto:cushing-library@tamu.edu\" rel=\"noreferrer nofollow\">cushing-library@tamu.edu</a>   Phone: 979-845-1951",
+                "    Repository": "",
+                "    Cushing Memorial Library and Archives, Texas A&amp;M University, College Station, Texas    ": "",
+                "    Restrictions": "",
+                "    It is the users responsibility to secure permission from the copyright holders for publication of any materials. Permission must be obtained in writing prior to publication. Please contact the Cushing Library for further information.    ": "",
+                "    Keywords": "",
+                "    Mascots; Animals": ""
+            }
+        },
+        "stat": "ok"
+    },
+    "exif": {
+        "photo": {
+            "id": "3445941134",
+            "secret": "7b0dd55793",
+            "server": "3631",
+            "farm": 4,
+            "camera": "",
+            "exif": [
+                {
+                    "tagspace": "JFIF",
+                    "tagspaceid": 0,
+                    "tag": "JFIFVersion",
+                    "label": "JFIFVersion",
+                    "raw": {
+                        "_content": "1.02"
+                    }
+                },
+                {
+                    "tagspace": "JFIF",
+                    "tagspaceid": 0,
+                    "tag": "ResolutionUnit",
+                    "label": "Resolution Unit",
+                    "raw": {
+                        "_content": "inches"
+                    }
+                },
+                {
+                    "tagspace": "JFIF",
+                    "tagspaceid": 0,
+                    "tag": "XResolution",
+                    "label": "X-Resolution",
+                    "raw": {
+                        "_content": "400"
+                    },
+                    "clean": {
+                        "_content": "400 dpi"
+                    }
+                },
+                {
+                    "tagspace": "JFIF",
+                    "tagspaceid": 0,
+                    "tag": "YResolution",
+                    "label": "Y-Resolution",
+                    "raw": {
+                        "_content": "400"
+                    },
+                    "clean": {
+                        "_content": "400 dpi"
+                    }
+                }
+            ]
+        },
+        "stat": "ok"
+    },
+    "comments": {
+        "comments": {
+            "photo_id": "3445941134"
+        },
+        "stat": "ok"
+    },
+    "sizes": {
+        "sizes": {
+            "canblog": 0,
+            "canprint": 0,
+            "candownload": 1,
+            "size": [
+                {
+                    "label": "Square",
+                    "width": 75,
+                    "height": 75,
+                    "source": "https://live.staticflickr.com/3631/3445941134_7b0dd55793_s.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3445941134/sizes/sq/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Large Square",
+                    "width": 150,
+                    "height": 150,
+                    "source": "https://live.staticflickr.com/3631/3445941134_7b0dd55793_q.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3445941134/sizes/q/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Thumbnail",
+                    "width": 100,
+                    "height": 69,
+                    "source": "https://live.staticflickr.com/3631/3445941134_7b0dd55793_t.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3445941134/sizes/t/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Small",
+                    "width": 240,
+                    "height": 166,
+                    "source": "https://live.staticflickr.com/3631/3445941134_7b0dd55793_m.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3445941134/sizes/s/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Small 320",
+                    "width": 320,
+                    "height": 221,
+                    "source": "https://live.staticflickr.com/3631/3445941134_7b0dd55793_n.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3445941134/sizes/n/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Small 400",
+                    "width": 400,
+                    "height": 276,
+                    "source": "https://live.staticflickr.com/3631/3445941134_7b0dd55793_w.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3445941134/sizes/w/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Medium",
+                    "width": 500,
+                    "height": 345,
+                    "source": "https://live.staticflickr.com/3631/3445941134_7b0dd55793.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3445941134/sizes/m/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Medium 640",
+                    "width": 640,
+                    "height": 441,
+                    "source": "https://live.staticflickr.com/3631/3445941134_7b0dd55793_z.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3445941134/sizes/z/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Medium 800",
+                    "width": 800,
+                    "height": 552,
+                    "source": "https://live.staticflickr.com/3631/3445941134_7b0dd55793_c.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3445941134/sizes/c/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Large",
+                    "width": 1024,
+                    "height": 706,
+                    "source": "https://live.staticflickr.com/3631/3445941134_7b0dd55793_b.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3445941134/sizes/l/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Large 1600",
+                    "width": 1600,
+                    "height": 1103,
+                    "source": "https://live.staticflickr.com/3631/3445941134_dc614dfb20_h.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3445941134/sizes/h/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Large 2048",
+                    "width": 2048,
+                    "height": 1412,
+                    "source": "https://live.staticflickr.com/3631/3445941134_f91a27c5ac_k.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3445941134/sizes/k/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Original",
+                    "width": 2146,
+                    "height": 1480,
+                    "source": "https://live.staticflickr.com/3631/3445941134_9b5dcc9824_o.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3445941134/sizes/o/",
+                    "media": "photo"
+                }
+            ]
+        },
+        "stat": "ok"
+    }
+}

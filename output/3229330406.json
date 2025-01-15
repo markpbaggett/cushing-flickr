@@ -1,0 +1,275 @@
+{
+    "metadata": {
+        "photo": {
+            "id": "3229330406",
+            "secret": "b4a3aeb267",
+            "server": "3124",
+            "farm": 4,
+            "dateuploaded": "1232993313",
+            "isfavorite": 0,
+            "license": "3",
+            "safety_level": "0",
+            "rotation": 0,
+            "originalsecret": "856016ee95",
+            "originalformat": "jpg",
+            "owner": {
+                "nsid": "29072716@N04",
+                "username": "Cushing Memorial Library and Archives, Texas A&M",
+                "realname": "",
+                "location": "",
+                "iconserver": "3100",
+                "iconfarm": 4,
+                "path_alias": "cushinglibrary",
+                "gift": {
+                    "gift_eligible": true,
+                    "eligible_durations": [
+                        "year",
+                        "month",
+                        "week"
+                    ],
+                    "new_flow": true
+                }
+            },
+            "title": {
+                "_content": "Albritton Bell Tower - 36"
+            },
+            "description": {
+                "_content": "<b>Title: </b>Albritton Bell Tower - 36 \n<b>Digital Publisher: </b>Digital: Cushing Memorial Library and Archives, Texas A&amp;M University, College Station, Texas \n<b>Physical Publisher: </b>Physical: Cushing Memorial Library and Archives, Texas A&amp;M University \n<b>Description:</b> photograph date: Unknow; Buildings: Albritton Bell Tower \n<b>Date Issued:</b> 2006-03-24 \n<b>Dimensions: </b>4 x 6 inches \n<b>Type: </b>image \n<b>Identifier:</b> Photograph Location: Building File: Albritton Bell Tower- 4; Reference Number: 6257 \n<b>Rights: </b>It is the users responsibility to secure permission from the copyright holders for publication of any materials. Permission must be obtained in writing prior to publication. Please contact the Cushing Memorial Library for further information \n"
+            },
+            "visibility": {
+                "ispublic": 1,
+                "isfriend": 0,
+                "isfamily": 0
+            },
+            "dates": {
+                "posted": "1232993313",
+                "taken": "2009-01-26 10:08:33",
+                "takengranularity": 0,
+                "takenunknown": 0,
+                "lastupdate": "1421775455"
+            },
+            "views": "420",
+            "editability": {
+                "cancomment": 0,
+                "canaddmeta": 0
+            },
+            "publiceditability": {
+                "cancomment": 1,
+                "canaddmeta": 1
+            },
+            "usage": {
+                "candownload": 1,
+                "canblog": 0,
+                "canprint": 0,
+                "canshare": 1
+            },
+            "comments": {
+                "_content": "0"
+            },
+            "notes": {
+                "note": []
+            },
+            "people": {
+                "haspeople": 0
+            },
+            "tags": {
+                "tag": []
+            },
+            "urls": {
+                "url": [
+                    {
+                        "type": "photopage",
+                        "_content": "https://www.flickr.com/photos/cushinglibrary/3229330406/"
+                    }
+                ]
+            },
+            "media": "photo",
+            "descriptive_metadata": {
+                "Title": "Albritton Bell Tower - 36",
+                "Digital Publisher": "Digital: Cushing Memorial Library and Archives, Texas A&amp;M University, College Station, Texas",
+                "Physical Publisher": "Physical: Cushing Memorial Library and Archives, Texas A&amp;M University",
+                "Description": "photograph date: Unknow; Buildings: Albritton Bell Tower",
+                "Date Issued": "2006-03-24",
+                "Dimensions": "4 x 6 inches",
+                "Type": "image",
+                "Identifier": "Photograph Location: Building File: Albritton Bell Tower- 4; Reference Number: 6257",
+                "Rights": "It is the users responsibility to secure permission from the copyright holders for publication of any materials. Permission must be obtained in writing prior to publication. Please contact the Cushing Memorial Library for further information"
+            }
+        },
+        "stat": "ok"
+    },
+    "exif": {
+        "photo": {
+            "id": "3229330406",
+            "secret": "b4a3aeb267",
+            "server": "3124",
+            "farm": 4,
+            "camera": "",
+            "exif": [
+                {
+                    "tagspace": "JFIF",
+                    "tagspaceid": 0,
+                    "tag": "JFIFVersion",
+                    "label": "JFIFVersion",
+                    "raw": {
+                        "_content": "1.02"
+                    }
+                },
+                {
+                    "tagspace": "JFIF",
+                    "tagspaceid": 0,
+                    "tag": "ResolutionUnit",
+                    "label": "Resolution Unit",
+                    "raw": {
+                        "_content": "inches"
+                    }
+                },
+                {
+                    "tagspace": "JFIF",
+                    "tagspaceid": 0,
+                    "tag": "XResolution",
+                    "label": "X-Resolution",
+                    "raw": {
+                        "_content": "400"
+                    },
+                    "clean": {
+                        "_content": "400 dpi"
+                    }
+                },
+                {
+                    "tagspace": "JFIF",
+                    "tagspaceid": 0,
+                    "tag": "YResolution",
+                    "label": "Y-Resolution",
+                    "raw": {
+                        "_content": "400"
+                    },
+                    "clean": {
+                        "_content": "400 dpi"
+                    }
+                }
+            ]
+        },
+        "stat": "ok"
+    },
+    "comments": {
+        "comments": {
+            "photo_id": "3229330406"
+        },
+        "stat": "ok"
+    },
+    "sizes": {
+        "sizes": {
+            "canblog": 0,
+            "canprint": 0,
+            "candownload": 1,
+            "size": [
+                {
+                    "label": "Square",
+                    "width": 75,
+                    "height": 75,
+                    "source": "https://live.staticflickr.com/3124/3229330406_b4a3aeb267_s.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3229330406/sizes/sq/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Large Square",
+                    "width": 150,
+                    "height": 150,
+                    "source": "https://live.staticflickr.com/3124/3229330406_b4a3aeb267_q.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3229330406/sizes/q/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Thumbnail",
+                    "width": 67,
+                    "height": 100,
+                    "source": "https://live.staticflickr.com/3124/3229330406_b4a3aeb267_t.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3229330406/sizes/t/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Small",
+                    "width": 162,
+                    "height": 240,
+                    "source": "https://live.staticflickr.com/3124/3229330406_b4a3aeb267_m.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3229330406/sizes/s/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Small 320",
+                    "width": 216,
+                    "height": 320,
+                    "source": "https://live.staticflickr.com/3124/3229330406_b4a3aeb267_n.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3229330406/sizes/n/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Small 400",
+                    "width": 270,
+                    "height": 400,
+                    "source": "https://live.staticflickr.com/3124/3229330406_b4a3aeb267_w.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3229330406/sizes/w/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Medium",
+                    "width": 337,
+                    "height": 500,
+                    "source": "https://live.staticflickr.com/3124/3229330406_b4a3aeb267.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3229330406/sizes/m/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Medium 640",
+                    "width": 432,
+                    "height": 640,
+                    "source": "https://live.staticflickr.com/3124/3229330406_b4a3aeb267_z.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3229330406/sizes/z/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Medium 800",
+                    "width": 540,
+                    "height": 800,
+                    "source": "https://live.staticflickr.com/3124/3229330406_b4a3aeb267_c.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3229330406/sizes/c/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Large",
+                    "width": 691,
+                    "height": 1024,
+                    "source": "https://live.staticflickr.com/3124/3229330406_b4a3aeb267_b.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3229330406/sizes/l/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Large 1600",
+                    "width": 1079,
+                    "height": 1600,
+                    "source": "https://live.staticflickr.com/3124/3229330406_634b812d74_h.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3229330406/sizes/h/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Large 2048",
+                    "width": 1382,
+                    "height": 2048,
+                    "source": "https://live.staticflickr.com/3124/3229330406_5a794b1b43_k.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3229330406/sizes/k/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Original",
+                    "width": 1609,
+                    "height": 2385,
+                    "source": "https://live.staticflickr.com/3124/3229330406_856016ee95_o.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3229330406/sizes/o/",
+                    "media": "photo"
+                }
+            ]
+        },
+        "stat": "ok"
+    }
+}

@@ -1,0 +1,258 @@
+{
+    "metadata": {
+        "photo": {
+            "id": "2899904454",
+            "secret": "fc910a9741",
+            "server": "3078",
+            "farm": 4,
+            "dateuploaded": "1222717606",
+            "isfavorite": 0,
+            "license": "3",
+            "safety_level": "0",
+            "rotation": 0,
+            "originalsecret": "3723775502",
+            "originalformat": "jpg",
+            "owner": {
+                "nsid": "29072716@N04",
+                "username": "Cushing Memorial Library and Archives, Texas A&M",
+                "realname": "",
+                "location": "",
+                "iconserver": "3100",
+                "iconfarm": 4,
+                "path_alias": "cushinglibrary",
+                "gift": {
+                    "gift_eligible": true,
+                    "eligible_durations": [
+                        "year",
+                        "month",
+                        "week"
+                    ],
+                    "new_flow": true
+                }
+            },
+            "title": {
+                "_content": "Walton Hall - 4"
+            },
+            "description": {
+                "_content": "<b>Title: </b>Walton Hall - 4 \n<b>Digital Publisher: </b>Digital: Cushing Memorial Library and Archives, Texas A&amp;M University, College Station, Texas \n<b>Physical Publisher: </b>Physical: Cushing Memorial Library and Archives, Texas A&amp;M University \n<b>Description:</b> Buildings: Walton Hall \n<b>Date Issued:</b> 2005-06-30 \n<b>Dimensions: </b>1.502 x 1.113 inches \n<b>Type: </b>image \n<b>Identifier:</b> Walton Hall ; Photograph Location: Building Photo; Reference Number: 864 \n<b>Rights: </b>It is the users responsibility to secure permission from the copyright holders for publication of any materials. Permission must be obtained in writing prior to publication. Please contact the Cushing Memorial Library for further information \n"
+            },
+            "visibility": {
+                "ispublic": 1,
+                "isfriend": 0,
+                "isfamily": 0
+            },
+            "dates": {
+                "posted": "1222717606",
+                "taken": "2008-09-29 12:46:46",
+                "takengranularity": 0,
+                "takenunknown": 0,
+                "lastupdate": "1458146046"
+            },
+            "views": "532",
+            "editability": {
+                "cancomment": 0,
+                "canaddmeta": 0
+            },
+            "publiceditability": {
+                "cancomment": 1,
+                "canaddmeta": 1
+            },
+            "usage": {
+                "candownload": 1,
+                "canblog": 0,
+                "canprint": 0,
+                "canshare": 1
+            },
+            "comments": {
+                "_content": "1"
+            },
+            "notes": {
+                "note": []
+            },
+            "people": {
+                "haspeople": 0
+            },
+            "tags": {
+                "tag": []
+            },
+            "urls": {
+                "url": [
+                    {
+                        "type": "photopage",
+                        "_content": "https://www.flickr.com/photos/cushinglibrary/2899904454/"
+                    }
+                ]
+            },
+            "media": "photo",
+            "descriptive_metadata": {
+                "Title": "Walton Hall - 4",
+                "Digital Publisher": "Digital: Cushing Memorial Library and Archives, Texas A&amp;M University, College Station, Texas",
+                "Physical Publisher": "Physical: Cushing Memorial Library and Archives, Texas A&amp;M University",
+                "Description": "Buildings: Walton Hall",
+                "Date Issued": "2005-06-30",
+                "Dimensions": "1.502 x 1.113 inches",
+                "Type": "image",
+                "Identifier": "Walton Hall ; Photograph Location: Building Photo; Reference Number: 864",
+                "Rights": "It is the users responsibility to secure permission from the copyright holders for publication of any materials. Permission must be obtained in writing prior to publication. Please contact the Cushing Memorial Library for further information"
+            }
+        },
+        "stat": "ok"
+    },
+    "exif": {
+        "photo": {
+            "id": "2899904454",
+            "secret": "fc910a9741",
+            "server": "3078",
+            "farm": 4,
+            "camera": "",
+            "exif": [
+                {
+                    "tagspace": "JFIF",
+                    "tagspaceid": 0,
+                    "tag": "JFIFVersion",
+                    "label": "JFIFVersion",
+                    "raw": {
+                        "_content": "1.02"
+                    }
+                },
+                {
+                    "tagspace": "JFIF",
+                    "tagspaceid": 0,
+                    "tag": "ResolutionUnit",
+                    "label": "Resolution Unit",
+                    "raw": {
+                        "_content": "inches"
+                    }
+                },
+                {
+                    "tagspace": "JFIF",
+                    "tagspaceid": 0,
+                    "tag": "XResolution",
+                    "label": "X-Resolution",
+                    "raw": {
+                        "_content": "400"
+                    },
+                    "clean": {
+                        "_content": "400 dpi"
+                    }
+                },
+                {
+                    "tagspace": "JFIF",
+                    "tagspaceid": 0,
+                    "tag": "YResolution",
+                    "label": "Y-Resolution",
+                    "raw": {
+                        "_content": "400"
+                    },
+                    "clean": {
+                        "_content": "400 dpi"
+                    }
+                }
+            ]
+        },
+        "stat": "ok"
+    },
+    "comments": {
+        "comments": {
+            "photo_id": "2899904454",
+            "comment": [
+                {
+                    "id": "29040577-2899904454-72157665854438011",
+                    "author": "95652583@N00",
+                    "author_is_deleted": 0,
+                    "authorname": "bradzone",
+                    "iconserver": "68",
+                    "iconfarm": 1,
+                    "datecreate": "1458146046",
+                    "permalink": "https://www.flickr.com/photos/cushinglibrary/2899904454/#comment72157665854438011",
+                    "path_alias": "bradzone",
+                    "realname": "",
+                    "_content": "That looks to be the west corner of Law Hall, which was demolished circa 1994/1995. Maybe this can be confirmed and the photo can be moved from the Walton Hall directory to the &quot;Law and Puryear Halls&quot; directory."
+                }
+            ]
+        },
+        "stat": "ok"
+    },
+    "sizes": {
+        "sizes": {
+            "canblog": 0,
+            "canprint": 0,
+            "candownload": 1,
+            "size": [
+                {
+                    "label": "Square",
+                    "width": 75,
+                    "height": 75,
+                    "source": "https://live.staticflickr.com/3078/2899904454_fc910a9741_s.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/2899904454/sizes/sq/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Large Square",
+                    "width": 150,
+                    "height": 150,
+                    "source": "https://live.staticflickr.com/3078/2899904454_fc910a9741_q.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/2899904454/sizes/q/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Thumbnail",
+                    "width": 100,
+                    "height": 74,
+                    "source": "https://live.staticflickr.com/3078/2899904454_fc910a9741_t.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/2899904454/sizes/t/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Small",
+                    "width": 240,
+                    "height": 178,
+                    "source": "https://live.staticflickr.com/3078/2899904454_fc910a9741_m.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/2899904454/sizes/s/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Small 320",
+                    "width": 320,
+                    "height": 237,
+                    "source": "https://live.staticflickr.com/3078/2899904454_fc910a9741_n.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/2899904454/sizes/n/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Small 400",
+                    "width": 400,
+                    "height": 296,
+                    "source": "https://live.staticflickr.com/3078/2899904454_fc910a9741_w.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/2899904454/sizes/w/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Medium",
+                    "width": 500,
+                    "height": 370,
+                    "source": "https://live.staticflickr.com/3078/2899904454_fc910a9741.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/2899904454/sizes/m/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Medium 640",
+                    "width": 601,
+                    "height": 445,
+                    "source": "https://live.staticflickr.com/3078/2899904454_fc910a9741_z.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/2899904454/sizes/z/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Original",
+                    "width": 601,
+                    "height": 445,
+                    "source": "https://live.staticflickr.com/3078/2899904454_3723775502_o.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/2899904454/sizes/o/",
+                    "media": "photo"
+                }
+            ]
+        },
+        "stat": "ok"
+    }
+}

@@ -1,0 +1,279 @@
+{
+    "metadata": {
+        "photo": {
+            "id": "3464102934",
+            "secret": "716774df6d",
+            "server": "3599",
+            "farm": 4,
+            "dateuploaded": "1240352384",
+            "isfavorite": 0,
+            "license": "3",
+            "safety_level": "0",
+            "rotation": 0,
+            "originalsecret": "cf622b4fa9",
+            "originalformat": "jpg",
+            "owner": {
+                "nsid": "29072716@N04",
+                "username": "Cushing Memorial Library and Archives, Texas A&M",
+                "realname": "",
+                "location": "",
+                "iconserver": "3100",
+                "iconfarm": 4,
+                "path_alias": "cushinglibrary",
+                "gift": {
+                    "gift_eligible": true,
+                    "eligible_durations": [
+                        "year",
+                        "month",
+                        "week"
+                    ],
+                    "new_flow": true
+                }
+            },
+            "title": {
+                "_content": "Page - 007"
+            },
+            "description": {
+                "_content": "<b>Title:</b>  1916 Missouri School of Mines v Texas A&amp;M football program  \n<b>Publisher Name:</b>  Texas A&amp;M\n<b>Place of Publication:</b>  College Station, Texas\n<b>Original Creation Date:</b>  1916\n<b>Event:</b>  1915 Missouri School of Mines v Texas A&amp;M football game, College Station, Texas, November 17, 1916\n<b>Note:</b>  Printed by Wallace Co., Bryan, Texas\n<b>Physical Description:</b>  6 x 9 inches\n<b>Language:</b>  English\n<b>Institution:</b>  Cushing Memorial Library and Archives, Texas A&amp;M University, College Station, Texas\n<b>Collection:</b>  Texas A&amp;M University Archives  \n<b>Collection:</b>  TAMU Athletics, Football Programs\n<b>Resource Type:</b>  Program\n<b>Format:</b>  Text\n<b>Rights management:  </b>It is the users responsibility to secure permission from the copyright holders for publication of any materials. Permission must be obtained in writing prior to publication. Please contact the Cushing Library for further information.  Email: <a href=\"mailto:cushing-library@tamu.edu\" rel=\"noreferrer nofollow\">cushing-library@tamu.edu</a> Phone: 979-845-1951   \n"
+            },
+            "visibility": {
+                "ispublic": 1,
+                "isfriend": 0,
+                "isfamily": 0
+            },
+            "dates": {
+                "posted": "1240352384",
+                "taken": "2009-04-21 15:19:44",
+                "takengranularity": 0,
+                "takenunknown": 0,
+                "lastupdate": "1421775593"
+            },
+            "views": "315",
+            "editability": {
+                "cancomment": 0,
+                "canaddmeta": 0
+            },
+            "publiceditability": {
+                "cancomment": 1,
+                "canaddmeta": 1
+            },
+            "usage": {
+                "candownload": 1,
+                "canblog": 0,
+                "canprint": 0,
+                "canshare": 1
+            },
+            "comments": {
+                "_content": "0"
+            },
+            "notes": {
+                "note": []
+            },
+            "people": {
+                "haspeople": 0
+            },
+            "tags": {
+                "tag": []
+            },
+            "urls": {
+                "url": [
+                    {
+                        "type": "photopage",
+                        "_content": "https://www.flickr.com/photos/cushinglibrary/3464102934/"
+                    }
+                ]
+            },
+            "media": "photo",
+            "descriptive_metadata": {
+                "Title": "1916 Missouri School of Mines v Texas A&amp;M football program",
+                "Publisher Name": "Texas A&amp;M",
+                "Place of Publication": "College Station, Texas",
+                "Original Creation Date": "1916",
+                "Event": "1915 Missouri School of Mines v Texas A&amp;M football game, College Station, Texas, November 17, 1916",
+                "Note": "Printed by Wallace Co., Bryan, Texas",
+                "Physical Description": "6 x 9 inches",
+                "Language": "English",
+                "Institution": "Cushing Memorial Library and Archives, Texas A&amp;M University, College Station, Texas",
+                "Collection": "TAMU Athletics, Football Programs",
+                "Resource Type": "Program",
+                "Format": "Text",
+                "Rights management": "It is the users responsibility to secure permission from the copyright holders for publication of any materials. Permission must be obtained in writing prior to publication. Please contact the Cushing Library for further information.  Email: <a href=\"mailto:cushing-library@tamu.edu\" rel=\"noreferrer nofollow\">cushing-library@tamu.edu</a> Phone: 979-845-1951"
+            }
+        },
+        "stat": "ok"
+    },
+    "exif": {
+        "photo": {
+            "id": "3464102934",
+            "secret": "716774df6d",
+            "server": "3599",
+            "farm": 4,
+            "camera": "",
+            "exif": [
+                {
+                    "tagspace": "JFIF",
+                    "tagspaceid": 0,
+                    "tag": "JFIFVersion",
+                    "label": "JFIFVersion",
+                    "raw": {
+                        "_content": "1.02"
+                    }
+                },
+                {
+                    "tagspace": "JFIF",
+                    "tagspaceid": 0,
+                    "tag": "ResolutionUnit",
+                    "label": "Resolution Unit",
+                    "raw": {
+                        "_content": "inches"
+                    }
+                },
+                {
+                    "tagspace": "JFIF",
+                    "tagspaceid": 0,
+                    "tag": "XResolution",
+                    "label": "X-Resolution",
+                    "raw": {
+                        "_content": "400"
+                    },
+                    "clean": {
+                        "_content": "400 dpi"
+                    }
+                },
+                {
+                    "tagspace": "JFIF",
+                    "tagspaceid": 0,
+                    "tag": "YResolution",
+                    "label": "Y-Resolution",
+                    "raw": {
+                        "_content": "400"
+                    },
+                    "clean": {
+                        "_content": "400 dpi"
+                    }
+                }
+            ]
+        },
+        "stat": "ok"
+    },
+    "comments": {
+        "comments": {
+            "photo_id": "3464102934"
+        },
+        "stat": "ok"
+    },
+    "sizes": {
+        "sizes": {
+            "canblog": 0,
+            "canprint": 0,
+            "candownload": 1,
+            "size": [
+                {
+                    "label": "Square",
+                    "width": 75,
+                    "height": 75,
+                    "source": "https://live.staticflickr.com/3599/3464102934_716774df6d_s.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3464102934/sizes/sq/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Large Square",
+                    "width": 150,
+                    "height": 150,
+                    "source": "https://live.staticflickr.com/3599/3464102934_716774df6d_q.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3464102934/sizes/q/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Thumbnail",
+                    "width": 68,
+                    "height": 100,
+                    "source": "https://live.staticflickr.com/3599/3464102934_716774df6d_t.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3464102934/sizes/t/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Small",
+                    "width": 164,
+                    "height": 240,
+                    "source": "https://live.staticflickr.com/3599/3464102934_716774df6d_m.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3464102934/sizes/s/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Small 320",
+                    "width": 218,
+                    "height": 320,
+                    "source": "https://live.staticflickr.com/3599/3464102934_716774df6d_n.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3464102934/sizes/n/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Small 400",
+                    "width": 273,
+                    "height": 400,
+                    "source": "https://live.staticflickr.com/3599/3464102934_716774df6d_w.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3464102934/sizes/w/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Medium",
+                    "width": 341,
+                    "height": 500,
+                    "source": "https://live.staticflickr.com/3599/3464102934_716774df6d.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3464102934/sizes/m/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Medium 640",
+                    "width": 436,
+                    "height": 640,
+                    "source": "https://live.staticflickr.com/3599/3464102934_716774df6d_z.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3464102934/sizes/z/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Medium 800",
+                    "width": 545,
+                    "height": 800,
+                    "source": "https://live.staticflickr.com/3599/3464102934_716774df6d_c.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3464102934/sizes/c/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Large",
+                    "width": 698,
+                    "height": 1024,
+                    "source": "https://live.staticflickr.com/3599/3464102934_716774df6d_b.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3464102934/sizes/l/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Large 1600",
+                    "width": 1090,
+                    "height": 1600,
+                    "source": "https://live.staticflickr.com/3599/3464102934_e4bce841be_h.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3464102934/sizes/h/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Large 2048",
+                    "width": 1396,
+                    "height": 2048,
+                    "source": "https://live.staticflickr.com/3599/3464102934_05db0335c7_k.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3464102934/sizes/k/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Original",
+                    "width": 2523,
+                    "height": 3702,
+                    "source": "https://live.staticflickr.com/3599/3464102934_cf622b4fa9_o.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3464102934/sizes/o/",
+                    "media": "photo"
+                }
+            ]
+        },
+        "stat": "ok"
+    }
+}

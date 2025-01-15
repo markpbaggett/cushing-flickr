@@ -1,0 +1,275 @@
+{
+    "metadata": {
+        "photo": {
+            "id": "3480405317",
+            "secret": "0083477052",
+            "server": "3591",
+            "farm": 4,
+            "dateuploaded": "1240863267",
+            "isfavorite": 0,
+            "license": "3",
+            "safety_level": "0",
+            "rotation": 0,
+            "originalsecret": "c197a335dd",
+            "originalformat": "jpg",
+            "owner": {
+                "nsid": "29072716@N04",
+                "username": "Cushing Memorial Library and Archives, Texas A&M",
+                "realname": "",
+                "location": "",
+                "iconserver": "3100",
+                "iconfarm": 4,
+                "path_alias": "cushinglibrary",
+                "gift": {
+                    "gift_eligible": true,
+                    "eligible_durations": [
+                        "year",
+                        "month",
+                        "week"
+                    ],
+                    "new_flow": true
+                }
+            },
+            "title": {
+                "_content": "Basketball - Mens - 1941-1950 - 7"
+            },
+            "description": {
+                "_content": "<b>Title: </b>Basketball - Mens - 1941-1950 - 7 \n<b>Digital Publisher: </b>Digital: Cushing Memorial Library and Archives, Texas A&amp;M University, College Station, Texas \n<b>Physical Publisher: </b>Physical: Cushing Memorial Library and Archives, Texas A&amp;M University \n<b>Description:</b> Texas A&amp;M Varsity 1946-4; photograph date: ca. 1946-4; Athletics: Basketball - Mens - 1941-1950 \n<b>Date Issued:</b> 2006-04-17 \n<b>Dimensions: </b>7.5 x 9.5 inches \n<b>Type: </b>image \n<b>Identifier:</b> Photograph Location: Pictures: Men's Basketball 1941-1950 - 1; Reference Number: 5668 \n<b>Rights: </b>It is the users responsibility to secure permission from the copyright holders for publication of any materials. Permission must be obtained in writing prior to publication. Please contact the Cushing Memorial Library for further information \n"
+            },
+            "visibility": {
+                "ispublic": 1,
+                "isfriend": 0,
+                "isfamily": 0
+            },
+            "dates": {
+                "posted": "1240863267",
+                "taken": "2009-04-27 13:14:27",
+                "takengranularity": 0,
+                "takenunknown": 0,
+                "lastupdate": "1421775621"
+            },
+            "views": "421",
+            "editability": {
+                "cancomment": 0,
+                "canaddmeta": 0
+            },
+            "publiceditability": {
+                "cancomment": 1,
+                "canaddmeta": 1
+            },
+            "usage": {
+                "candownload": 1,
+                "canblog": 0,
+                "canprint": 0,
+                "canshare": 1
+            },
+            "comments": {
+                "_content": "0"
+            },
+            "notes": {
+                "note": []
+            },
+            "people": {
+                "haspeople": 0
+            },
+            "tags": {
+                "tag": []
+            },
+            "urls": {
+                "url": [
+                    {
+                        "type": "photopage",
+                        "_content": "https://www.flickr.com/photos/cushinglibrary/3480405317/"
+                    }
+                ]
+            },
+            "media": "photo",
+            "descriptive_metadata": {
+                "Title": "Basketball - Mens - 1941-1950 - 7",
+                "Digital Publisher": "Digital: Cushing Memorial Library and Archives, Texas A&amp;M University, College Station, Texas",
+                "Physical Publisher": "Physical: Cushing Memorial Library and Archives, Texas A&amp;M University",
+                "Description": "Texas A&amp;M Varsity 1946-4; photograph date: ca. 1946-4; Athletics: Basketball - Mens - 1941-1950",
+                "Date Issued": "2006-04-17",
+                "Dimensions": "7.5 x 9.5 inches",
+                "Type": "image",
+                "Identifier": "Photograph Location: Pictures: Men's Basketball 1941-1950 - 1; Reference Number: 5668",
+                "Rights": "It is the users responsibility to secure permission from the copyright holders for publication of any materials. Permission must be obtained in writing prior to publication. Please contact the Cushing Memorial Library for further information"
+            }
+        },
+        "stat": "ok"
+    },
+    "exif": {
+        "photo": {
+            "id": "3480405317",
+            "secret": "0083477052",
+            "server": "3591",
+            "farm": 4,
+            "camera": "",
+            "exif": [
+                {
+                    "tagspace": "JFIF",
+                    "tagspaceid": 0,
+                    "tag": "JFIFVersion",
+                    "label": "JFIFVersion",
+                    "raw": {
+                        "_content": "1.02"
+                    }
+                },
+                {
+                    "tagspace": "JFIF",
+                    "tagspaceid": 0,
+                    "tag": "ResolutionUnit",
+                    "label": "Resolution Unit",
+                    "raw": {
+                        "_content": "inches"
+                    }
+                },
+                {
+                    "tagspace": "JFIF",
+                    "tagspaceid": 0,
+                    "tag": "XResolution",
+                    "label": "X-Resolution",
+                    "raw": {
+                        "_content": "400"
+                    },
+                    "clean": {
+                        "_content": "400 dpi"
+                    }
+                },
+                {
+                    "tagspace": "JFIF",
+                    "tagspaceid": 0,
+                    "tag": "YResolution",
+                    "label": "Y-Resolution",
+                    "raw": {
+                        "_content": "400"
+                    },
+                    "clean": {
+                        "_content": "400 dpi"
+                    }
+                }
+            ]
+        },
+        "stat": "ok"
+    },
+    "comments": {
+        "comments": {
+            "photo_id": "3480405317"
+        },
+        "stat": "ok"
+    },
+    "sizes": {
+        "sizes": {
+            "canblog": 0,
+            "canprint": 0,
+            "candownload": 1,
+            "size": [
+                {
+                    "label": "Square",
+                    "width": 75,
+                    "height": 75,
+                    "source": "https://live.staticflickr.com/3591/3480405317_0083477052_s.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3480405317/sizes/sq/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Large Square",
+                    "width": 150,
+                    "height": 150,
+                    "source": "https://live.staticflickr.com/3591/3480405317_0083477052_q.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3480405317/sizes/q/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Thumbnail",
+                    "width": 100,
+                    "height": 81,
+                    "source": "https://live.staticflickr.com/3591/3480405317_0083477052_t.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3480405317/sizes/t/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Small",
+                    "width": 240,
+                    "height": 195,
+                    "source": "https://live.staticflickr.com/3591/3480405317_0083477052_m.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3480405317/sizes/s/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Small 320",
+                    "width": 320,
+                    "height": 260,
+                    "source": "https://live.staticflickr.com/3591/3480405317_0083477052_n.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3480405317/sizes/n/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Small 400",
+                    "width": 400,
+                    "height": 325,
+                    "source": "https://live.staticflickr.com/3591/3480405317_0083477052_w.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3480405317/sizes/w/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Medium",
+                    "width": 500,
+                    "height": 406,
+                    "source": "https://live.staticflickr.com/3591/3480405317_0083477052.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3480405317/sizes/m/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Medium 640",
+                    "width": 640,
+                    "height": 520,
+                    "source": "https://live.staticflickr.com/3591/3480405317_0083477052_z.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3480405317/sizes/z/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Medium 800",
+                    "width": 800,
+                    "height": 650,
+                    "source": "https://live.staticflickr.com/3591/3480405317_0083477052_c.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3480405317/sizes/c/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Large",
+                    "width": 1024,
+                    "height": 832,
+                    "source": "https://live.staticflickr.com/3591/3480405317_0083477052_b.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3480405317/sizes/l/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Large 1600",
+                    "width": 1600,
+                    "height": 1299,
+                    "source": "https://live.staticflickr.com/3591/3480405317_676750273c_h.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3480405317/sizes/h/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Large 2048",
+                    "width": 2048,
+                    "height": 1663,
+                    "source": "https://live.staticflickr.com/3591/3480405317_00498f1a1b_k.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3480405317/sizes/k/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Original",
+                    "width": 3974,
+                    "height": 3227,
+                    "source": "https://live.staticflickr.com/3591/3480405317_c197a335dd_o.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3480405317/sizes/o/",
+                    "media": "photo"
+                }
+            ]
+        },
+        "stat": "ok"
+    }
+}

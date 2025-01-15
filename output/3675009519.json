@@ -1,0 +1,276 @@
+{
+    "metadata": {
+        "photo": {
+            "id": "3675009519",
+            "secret": "e38f176c58",
+            "server": "2491",
+            "farm": 3,
+            "dateuploaded": "1246379147",
+            "isfavorite": 0,
+            "license": "3",
+            "safety_level": "0",
+            "rotation": 0,
+            "originalsecret": "63dbdc08c5",
+            "originalformat": "jpg",
+            "owner": {
+                "nsid": "29072716@N04",
+                "username": "Cushing Memorial Library and Archives, Texas A&M",
+                "realname": "",
+                "location": "",
+                "iconserver": "3100",
+                "iconfarm": 4,
+                "path_alias": "cushinglibrary",
+                "gift": {
+                    "gift_eligible": true,
+                    "eligible_durations": [
+                        "year",
+                        "month",
+                        "week"
+                    ],
+                    "new_flow": true
+                }
+            },
+            "title": {
+                "_content": "Awards"
+            },
+            "description": {
+                "_content": "<b>Title: </b>Awards \n<b>Digital Publisher: </b>Digital: Cushing Memorial Library and Archives, Texas A&amp;M University, College Station, Texas \n<b>Physical Publisher: </b>Physical: Agricultural Communications Office of the Texas Agricultural Extension Service, Texas A&amp;M University \n<b>Date Issued:</b> 2011-08-17 \n<b>Date Created:</b> 1966 \n<b>Dimensions: </b>4 x 5 inches \n<b>Format Medium: </b>Photographic negative \n<b>Type: </b>image \n<b>Identifier:</b> Photograph Location: Graphic Services Photos, Box 40, File 39-479 \n<b>Rights: </b>It is the users responsibility to secure permission from the copyright holders for publication of any materials. Permission must be obtained in writing prior to publication. Please contact the Cushing Memorial Library for further information \n"
+            },
+            "visibility": {
+                "ispublic": 1,
+                "isfriend": 0,
+                "isfamily": 0
+            },
+            "dates": {
+                "posted": "1246379147",
+                "taken": "2009-06-30 09:25:47",
+                "takengranularity": 0,
+                "takenunknown": 0,
+                "lastupdate": "1421775934"
+            },
+            "views": "232",
+            "editability": {
+                "cancomment": 0,
+                "canaddmeta": 0
+            },
+            "publiceditability": {
+                "cancomment": 1,
+                "canaddmeta": 1
+            },
+            "usage": {
+                "candownload": 1,
+                "canblog": 0,
+                "canprint": 0,
+                "canshare": 1
+            },
+            "comments": {
+                "_content": "0"
+            },
+            "notes": {
+                "note": []
+            },
+            "people": {
+                "haspeople": 0
+            },
+            "tags": {
+                "tag": []
+            },
+            "urls": {
+                "url": [
+                    {
+                        "type": "photopage",
+                        "_content": "https://www.flickr.com/photos/cushinglibrary/3675009519/"
+                    }
+                ]
+            },
+            "media": "photo",
+            "descriptive_metadata": {
+                "Title": "Awards",
+                "Digital Publisher": "Digital: Cushing Memorial Library and Archives, Texas A&amp;M University, College Station, Texas",
+                "Physical Publisher": "Physical: Agricultural Communications Office of the Texas Agricultural Extension Service, Texas A&amp;M University",
+                "Date Issued": "2011-08-17",
+                "Date Created": "1966",
+                "Dimensions": "4 x 5 inches",
+                "Format Medium": "Photographic negative",
+                "Type": "image",
+                "Identifier": "Photograph Location: Graphic Services Photos, Box 40, File 39-479",
+                "Rights": "It is the users responsibility to secure permission from the copyright holders for publication of any materials. Permission must be obtained in writing prior to publication. Please contact the Cushing Memorial Library for further information"
+            }
+        },
+        "stat": "ok"
+    },
+    "exif": {
+        "photo": {
+            "id": "3675009519",
+            "secret": "e38f176c58",
+            "server": "2491",
+            "farm": 3,
+            "camera": "",
+            "exif": [
+                {
+                    "tagspace": "JFIF",
+                    "tagspaceid": 0,
+                    "tag": "JFIFVersion",
+                    "label": "JFIFVersion",
+                    "raw": {
+                        "_content": "1.02"
+                    }
+                },
+                {
+                    "tagspace": "JFIF",
+                    "tagspaceid": 0,
+                    "tag": "ResolutionUnit",
+                    "label": "Resolution Unit",
+                    "raw": {
+                        "_content": "inches"
+                    }
+                },
+                {
+                    "tagspace": "JFIF",
+                    "tagspaceid": 0,
+                    "tag": "XResolution",
+                    "label": "X-Resolution",
+                    "raw": {
+                        "_content": "400"
+                    },
+                    "clean": {
+                        "_content": "400 dpi"
+                    }
+                },
+                {
+                    "tagspace": "JFIF",
+                    "tagspaceid": 0,
+                    "tag": "YResolution",
+                    "label": "Y-Resolution",
+                    "raw": {
+                        "_content": "400"
+                    },
+                    "clean": {
+                        "_content": "400 dpi"
+                    }
+                }
+            ]
+        },
+        "stat": "ok"
+    },
+    "comments": {
+        "comments": {
+            "photo_id": "3675009519"
+        },
+        "stat": "ok"
+    },
+    "sizes": {
+        "sizes": {
+            "canblog": 0,
+            "canprint": 0,
+            "candownload": 1,
+            "size": [
+                {
+                    "label": "Square",
+                    "width": 75,
+                    "height": 75,
+                    "source": "https://live.staticflickr.com/2491/3675009519_e38f176c58_s.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3675009519/sizes/sq/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Large Square",
+                    "width": 150,
+                    "height": 150,
+                    "source": "https://live.staticflickr.com/2491/3675009519_e38f176c58_q.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3675009519/sizes/q/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Thumbnail",
+                    "width": 73,
+                    "height": 100,
+                    "source": "https://live.staticflickr.com/2491/3675009519_e38f176c58_t.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3675009519/sizes/t/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Small",
+                    "width": 176,
+                    "height": 240,
+                    "source": "https://live.staticflickr.com/2491/3675009519_e38f176c58_m.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3675009519/sizes/s/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Small 320",
+                    "width": 235,
+                    "height": 320,
+                    "source": "https://live.staticflickr.com/2491/3675009519_e38f176c58_n.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3675009519/sizes/n/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Small 400",
+                    "width": 294,
+                    "height": 400,
+                    "source": "https://live.staticflickr.com/2491/3675009519_e38f176c58_w.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3675009519/sizes/w/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Medium",
+                    "width": 367,
+                    "height": 500,
+                    "source": "https://live.staticflickr.com/2491/3675009519_e38f176c58.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3675009519/sizes/m/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Medium 640",
+                    "width": 470,
+                    "height": 640,
+                    "source": "https://live.staticflickr.com/2491/3675009519_e38f176c58_z.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3675009519/sizes/z/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Medium 800",
+                    "width": 588,
+                    "height": 800,
+                    "source": "https://live.staticflickr.com/2491/3675009519_e38f176c58_c.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3675009519/sizes/c/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Large",
+                    "width": 752,
+                    "height": 1024,
+                    "source": "https://live.staticflickr.com/2491/3675009519_e38f176c58_b.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3675009519/sizes/l/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Large 1600",
+                    "width": 1175,
+                    "height": 1600,
+                    "source": "https://live.staticflickr.com/2491/3675009519_e518dac69b_h.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3675009519/sizes/h/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Large 2048",
+                    "width": 1384,
+                    "height": 1884,
+                    "source": "https://live.staticflickr.com/2491/3675009519_7e96228b0d_k.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3675009519/sizes/k/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Original",
+                    "width": 1384,
+                    "height": 1884,
+                    "source": "https://live.staticflickr.com/2491/3675009519_63dbdc08c5_o.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3675009519/sizes/o/",
+                    "media": "photo"
+                }
+            ]
+        },
+        "stat": "ok"
+    }
+}

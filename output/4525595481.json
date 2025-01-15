@@ -1,0 +1,260 @@
+{
+    "metadata": {
+        "photo": {
+            "id": "4525595481",
+            "secret": "104605af0c",
+            "server": "4002",
+            "farm": 5,
+            "dateuploaded": "1271435237",
+            "isfavorite": 0,
+            "license": "3",
+            "safety_level": "0",
+            "rotation": 0,
+            "originalsecret": "89d466c3b1",
+            "originalformat": "jpg",
+            "owner": {
+                "nsid": "29072716@N04",
+                "username": "Cushing Memorial Library and Archives, Texas A&M",
+                "realname": "",
+                "location": "",
+                "iconserver": "3100",
+                "iconfarm": 4,
+                "path_alias": "cushinglibrary",
+                "gift": {
+                    "gift_eligible": true,
+                    "eligible_durations": [
+                        "year",
+                        "month",
+                        "week"
+                    ],
+                    "new_flow": true
+                }
+            },
+            "title": {
+                "_content": "Brush Co. HTC"
+            },
+            "description": {
+                "_content": "<b>Title: </b>Brush Co. HTC \n<b>Digital Publisher: </b>Digital: Cushing Memorial Library and Archives, Texas A&amp;M University, College Station, Texas \n<b>Physical Publisher: </b>Physical: Graphic Services, Texas A&amp;M University \n<b>Date Issued:</b> 2011-08-17 \n<b>Date Created:</b> 1972 \n<b>Dimensions: </b>4 x 5 inches \n<b>Format Medium: </b>Photographic negative \n<b>Type: </b>image \n<b>Identifier:</b> Photograph Location: Graphic Services Photos, Box 26, File 26-035 \n<b>Rights: </b>It is the users responsibility to secure permission from the copyright holders for publication of any materials. Permission must be obtained in writing prior to publication. Please contact the Cushing Memorial Library for further information \n"
+            },
+            "visibility": {
+                "ispublic": 1,
+                "isfriend": 0,
+                "isfamily": 0
+            },
+            "dates": {
+                "posted": "1271435237",
+                "taken": "2010-04-16 09:27:17",
+                "takengranularity": 0,
+                "takenunknown": 0,
+                "lastupdate": "1421776431"
+            },
+            "views": "438",
+            "editability": {
+                "cancomment": 0,
+                "canaddmeta": 0
+            },
+            "publiceditability": {
+                "cancomment": 1,
+                "canaddmeta": 1
+            },
+            "usage": {
+                "candownload": 1,
+                "canblog": 0,
+                "canprint": 0,
+                "canshare": 1
+            },
+            "comments": {
+                "_content": "0"
+            },
+            "notes": {
+                "note": []
+            },
+            "people": {
+                "haspeople": 0
+            },
+            "tags": {
+                "tag": []
+            },
+            "urls": {
+                "url": [
+                    {
+                        "type": "photopage",
+                        "_content": "https://www.flickr.com/photos/cushinglibrary/4525595481/"
+                    }
+                ]
+            },
+            "media": "photo",
+            "descriptive_metadata": {
+                "Title": "Brush Co. HTC",
+                "Digital Publisher": "Digital: Cushing Memorial Library and Archives, Texas A&amp;M University, College Station, Texas",
+                "Physical Publisher": "Physical: Graphic Services, Texas A&amp;M University",
+                "Date Issued": "2011-08-17",
+                "Date Created": "1972",
+                "Dimensions": "4 x 5 inches",
+                "Format Medium": "Photographic negative",
+                "Type": "image",
+                "Identifier": "Photograph Location: Graphic Services Photos, Box 26, File 26-035",
+                "Rights": "It is the users responsibility to secure permission from the copyright holders for publication of any materials. Permission must be obtained in writing prior to publication. Please contact the Cushing Memorial Library for further information"
+            }
+        },
+        "stat": "ok"
+    },
+    "exif": {
+        "photo": {
+            "id": "4525595481",
+            "secret": "104605af0c",
+            "server": "4002",
+            "farm": 5,
+            "camera": "",
+            "exif": [
+                {
+                    "tagspace": "JFIF",
+                    "tagspaceid": 0,
+                    "tag": "JFIFVersion",
+                    "label": "JFIFVersion",
+                    "raw": {
+                        "_content": "1.02"
+                    }
+                },
+                {
+                    "tagspace": "JFIF",
+                    "tagspaceid": 0,
+                    "tag": "ResolutionUnit",
+                    "label": "Resolution Unit",
+                    "raw": {
+                        "_content": "inches"
+                    }
+                },
+                {
+                    "tagspace": "JFIF",
+                    "tagspaceid": 0,
+                    "tag": "XResolution",
+                    "label": "X-Resolution",
+                    "raw": {
+                        "_content": "400"
+                    },
+                    "clean": {
+                        "_content": "400 dpi"
+                    }
+                },
+                {
+                    "tagspace": "JFIF",
+                    "tagspaceid": 0,
+                    "tag": "YResolution",
+                    "label": "Y-Resolution",
+                    "raw": {
+                        "_content": "400"
+                    },
+                    "clean": {
+                        "_content": "400 dpi"
+                    }
+                }
+            ]
+        },
+        "stat": "ok"
+    },
+    "comments": {
+        "comments": {
+            "photo_id": "4525595481"
+        },
+        "stat": "ok"
+    },
+    "sizes": {
+        "sizes": {
+            "canblog": 0,
+            "canprint": 0,
+            "candownload": 1,
+            "size": [
+                {
+                    "label": "Square",
+                    "width": 75,
+                    "height": 75,
+                    "source": "https://live.staticflickr.com/4002/4525595481_104605af0c_s.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/4525595481/sizes/sq/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Large Square",
+                    "width": 150,
+                    "height": 150,
+                    "source": "https://live.staticflickr.com/4002/4525595481_104605af0c_q.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/4525595481/sizes/q/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Thumbnail",
+                    "width": 100,
+                    "height": 90,
+                    "source": "https://live.staticflickr.com/4002/4525595481_104605af0c_t.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/4525595481/sizes/t/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Small",
+                    "width": 240,
+                    "height": 217,
+                    "source": "https://live.staticflickr.com/4002/4525595481_104605af0c_m.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/4525595481/sizes/s/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Small 320",
+                    "width": 320,
+                    "height": 289,
+                    "source": "https://live.staticflickr.com/4002/4525595481_104605af0c_n.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/4525595481/sizes/n/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Small 400",
+                    "width": 400,
+                    "height": 361,
+                    "source": "https://live.staticflickr.com/4002/4525595481_104605af0c_w.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/4525595481/sizes/w/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Medium",
+                    "width": 500,
+                    "height": 452,
+                    "source": "https://live.staticflickr.com/4002/4525595481_104605af0c.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/4525595481/sizes/m/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Medium 640",
+                    "width": 640,
+                    "height": 578,
+                    "source": "https://live.staticflickr.com/4002/4525595481_104605af0c_z.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/4525595481/sizes/z/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Medium 800",
+                    "width": 800,
+                    "height": 723,
+                    "source": "https://live.staticflickr.com/4002/4525595481_104605af0c_c.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/4525595481/sizes/c/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Large",
+                    "width": 953,
+                    "height": 861,
+                    "source": "https://live.staticflickr.com/4002/4525595481_104605af0c_b.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/4525595481/sizes/l/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Original",
+                    "width": 953,
+                    "height": 861,
+                    "source": "https://live.staticflickr.com/4002/4525595481_89d466c3b1_o.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/4525595481/sizes/o/",
+                    "media": "photo"
+                }
+            ]
+        },
+        "stat": "ok"
+    }
+}

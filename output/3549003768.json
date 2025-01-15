@@ -1,0 +1,267 @@
+{
+    "metadata": {
+        "photo": {
+            "id": "3549003768",
+            "secret": "45d5cf171f",
+            "server": "3357",
+            "farm": 4,
+            "dateuploaded": "1242829421",
+            "isfavorite": 0,
+            "license": "3",
+            "safety_level": "0",
+            "rotation": 0,
+            "originalsecret": "a34b45eb47",
+            "originalformat": "jpg",
+            "owner": {
+                "nsid": "29072716@N04",
+                "username": "Cushing Memorial Library and Archives, Texas A&M",
+                "realname": "",
+                "location": "",
+                "iconserver": "3100",
+                "iconfarm": 4,
+                "path_alias": "cushinglibrary",
+                "gift": {
+                    "gift_eligible": true,
+                    "eligible_durations": [
+                        "year",
+                        "month",
+                        "week"
+                    ],
+                    "new_flow": true
+                }
+            },
+            "title": {
+                "_content": "Aggie Band -  Unknown Date - 33"
+            },
+            "description": {
+                "_content": "<b>Title: </b>Aggie Band -  Unknown Date - 33 \n<b>Digital Publisher: </b>Digital: Cushing Memorial Library and Archives, Texas A&amp;M University, College Station, Texas \n<b>Physical Publisher: </b>Physical: Cushing Memorial Library and Archives, Texas A&amp;M University \n<b>Description:</b> photograph date: Unknow; Corps of Cadets: Aggie Band -  Misc. Dates \n<b>Date Issued:</b> 2006-11-22 \n<b>Dimensions: </b>2 x 3 inches \n<b>Type: </b>image \n<b>Identifier:</b> Photograph Location: Aggie Band (Misc Date) 020f; Reference Number: 8468 \n<b>Rights: </b>It is the users responsibility to secure permission from the copyright holders for publication of any materials. Permission must be obtained in writing prior to publication. Please contact the Cushing Memorial Library for further information \n"
+            },
+            "visibility": {
+                "ispublic": 1,
+                "isfriend": 0,
+                "isfamily": 0
+            },
+            "dates": {
+                "posted": "1242829421",
+                "taken": "2009-05-20 07:23:41",
+                "takengranularity": 0,
+                "takenunknown": 0,
+                "lastupdate": "1504401526"
+            },
+            "views": "1630",
+            "editability": {
+                "cancomment": 0,
+                "canaddmeta": 0
+            },
+            "publiceditability": {
+                "cancomment": 1,
+                "canaddmeta": 1
+            },
+            "usage": {
+                "candownload": 1,
+                "canblog": 0,
+                "canprint": 0,
+                "canshare": 1
+            },
+            "comments": {
+                "_content": "0"
+            },
+            "notes": {
+                "note": []
+            },
+            "people": {
+                "haspeople": 0
+            },
+            "tags": {
+                "tag": []
+            },
+            "urls": {
+                "url": [
+                    {
+                        "type": "photopage",
+                        "_content": "https://www.flickr.com/photos/cushinglibrary/3549003768/"
+                    }
+                ]
+            },
+            "media": "photo",
+            "descriptive_metadata": {
+                "Title": "Aggie Band -  Unknown Date - 33",
+                "Digital Publisher": "Digital: Cushing Memorial Library and Archives, Texas A&amp;M University, College Station, Texas",
+                "Physical Publisher": "Physical: Cushing Memorial Library and Archives, Texas A&amp;M University",
+                "Description": "photograph date: Unknow; Corps of Cadets: Aggie Band -  Misc. Dates",
+                "Date Issued": "2006-11-22",
+                "Dimensions": "2 x 3 inches",
+                "Type": "image",
+                "Identifier": "Photograph Location: Aggie Band (Misc Date) 020f; Reference Number: 8468",
+                "Rights": "It is the users responsibility to secure permission from the copyright holders for publication of any materials. Permission must be obtained in writing prior to publication. Please contact the Cushing Memorial Library for further information"
+            }
+        },
+        "stat": "ok"
+    },
+    "exif": {
+        "photo": {
+            "id": "3549003768",
+            "secret": "45d5cf171f",
+            "server": "3357",
+            "farm": 4,
+            "camera": "",
+            "exif": [
+                {
+                    "tagspace": "JFIF",
+                    "tagspaceid": 0,
+                    "tag": "JFIFVersion",
+                    "label": "JFIFVersion",
+                    "raw": {
+                        "_content": "1.02"
+                    }
+                },
+                {
+                    "tagspace": "JFIF",
+                    "tagspaceid": 0,
+                    "tag": "ResolutionUnit",
+                    "label": "Resolution Unit",
+                    "raw": {
+                        "_content": "inches"
+                    }
+                },
+                {
+                    "tagspace": "JFIF",
+                    "tagspaceid": 0,
+                    "tag": "XResolution",
+                    "label": "X-Resolution",
+                    "raw": {
+                        "_content": "400"
+                    },
+                    "clean": {
+                        "_content": "400 dpi"
+                    }
+                },
+                {
+                    "tagspace": "JFIF",
+                    "tagspaceid": 0,
+                    "tag": "YResolution",
+                    "label": "Y-Resolution",
+                    "raw": {
+                        "_content": "400"
+                    },
+                    "clean": {
+                        "_content": "400 dpi"
+                    }
+                }
+            ]
+        },
+        "stat": "ok"
+    },
+    "comments": {
+        "comments": {
+            "photo_id": "3549003768"
+        },
+        "stat": "ok"
+    },
+    "sizes": {
+        "sizes": {
+            "canblog": 0,
+            "canprint": 0,
+            "candownload": 1,
+            "size": [
+                {
+                    "label": "Square",
+                    "width": 75,
+                    "height": 75,
+                    "source": "https://live.staticflickr.com/3357/3549003768_45d5cf171f_s.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3549003768/sizes/sq/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Large Square",
+                    "width": 150,
+                    "height": 150,
+                    "source": "https://live.staticflickr.com/3357/3549003768_45d5cf171f_q.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3549003768/sizes/q/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Thumbnail",
+                    "width": 66,
+                    "height": 100,
+                    "source": "https://live.staticflickr.com/3357/3549003768_45d5cf171f_t.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3549003768/sizes/t/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Small",
+                    "width": 160,
+                    "height": 240,
+                    "source": "https://live.staticflickr.com/3357/3549003768_45d5cf171f_m.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3549003768/sizes/s/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Small 320",
+                    "width": 213,
+                    "height": 320,
+                    "source": "https://live.staticflickr.com/3357/3549003768_45d5cf171f_n.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3549003768/sizes/n/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Small 400",
+                    "width": 266,
+                    "height": 400,
+                    "source": "https://live.staticflickr.com/3357/3549003768_45d5cf171f_w.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3549003768/sizes/w/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Medium",
+                    "width": 332,
+                    "height": 500,
+                    "source": "https://live.staticflickr.com/3357/3549003768_45d5cf171f.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3549003768/sizes/m/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Medium 640",
+                    "width": 425,
+                    "height": 640,
+                    "source": "https://live.staticflickr.com/3357/3549003768_45d5cf171f_z.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3549003768/sizes/z/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Medium 800",
+                    "width": 532,
+                    "height": 800,
+                    "source": "https://live.staticflickr.com/3357/3549003768_45d5cf171f_c.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3549003768/sizes/c/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Large",
+                    "width": 681,
+                    "height": 1024,
+                    "source": "https://live.staticflickr.com/3357/3549003768_45d5cf171f_b.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3549003768/sizes/l/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Large 1600",
+                    "width": 940,
+                    "height": 1414,
+                    "source": "https://live.staticflickr.com/3357/3549003768_bcc6591888_h.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3549003768/sizes/h/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Original",
+                    "width": 940,
+                    "height": 1414,
+                    "source": "https://live.staticflickr.com/3357/3549003768_a34b45eb47_o.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3549003768/sizes/o/",
+                    "media": "photo"
+                }
+            ]
+        },
+        "stat": "ok"
+    }
+}

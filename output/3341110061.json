@@ -1,0 +1,283 @@
+{
+    "metadata": {
+        "photo": {
+            "id": "3341110061",
+            "secret": "71dee08213",
+            "server": "3328",
+            "farm": 4,
+            "dateuploaded": "1236617967",
+            "isfavorite": 0,
+            "license": "3",
+            "safety_level": "0",
+            "rotation": 0,
+            "originalsecret": "1b3a200828",
+            "originalformat": "jpg",
+            "owner": {
+                "nsid": "29072716@N04",
+                "username": "Cushing Memorial Library and Archives, Texas A&M",
+                "realname": "",
+                "location": "",
+                "iconserver": "3100",
+                "iconfarm": 4,
+                "path_alias": "cushinglibrary",
+                "gift": {
+                    "gift_eligible": true,
+                    "eligible_durations": [
+                        "year",
+                        "month",
+                        "week"
+                    ],
+                    "new_flow": true
+                }
+            },
+            "title": {
+                "_content": "image-4152"
+            },
+            "description": {
+                "_content": "<b>Creator:</b>Mark Berrier\n    <b>Reference Number:</b>    4152    \n    <b>Publisher:</b>    Cushing Memorial Library and Archives, Texas A&amp;M University    \n\n    <b>Document Type:</b>    Photograph    \n    <b>Category:</b>    Athletics: Baseball - 1981-1990    \n\n    <b>Digitization Date:</b>    2006    \n    <b>Photograph Date:</b>    ca. 1983    \n    <b>Dimensions:</b>    8 x 10 inches    \n    <b>Location:</b>    Pictures: Baseball (1981-1990)- 25    \n\n    <b>Collection:</b>    Texas A&amp;M University Archives Photograph Collection    \n\n    <b>Contact Information:</b>    Email: <a href=\"mailto:cushing-library@tamu.edu\" rel=\"noreferrer nofollow\">cushing-library@tamu.edu</a>   Phone: 979-845-1951    \n\n    <b>Repository:</b>\n    Cushing Memorial Library and Archives, Texas A&amp;M University, College Station, Texas    \n\n    <b>Restrictions:</b>\n    It is the users responsibility to secure permission from the copyright holders for publication of any materials. Permission must be obtained in writing prior to publication. Please contact the Cushing Library for further information.    \n\n    <b>Keywords:</b>\n    Athletics; Baseball; Sports \n"
+            },
+            "visibility": {
+                "ispublic": 1,
+                "isfriend": 0,
+                "isfamily": 0
+            },
+            "dates": {
+                "posted": "1236617967",
+                "taken": "2009-03-09 09:59:27",
+                "takengranularity": 0,
+                "takenunknown": 0,
+                "lastupdate": "1421775507"
+            },
+            "views": "244",
+            "editability": {
+                "cancomment": 0,
+                "canaddmeta": 0
+            },
+            "publiceditability": {
+                "cancomment": 1,
+                "canaddmeta": 1
+            },
+            "usage": {
+                "candownload": 1,
+                "canblog": 0,
+                "canprint": 0,
+                "canshare": 1
+            },
+            "comments": {
+                "_content": "0"
+            },
+            "notes": {
+                "note": []
+            },
+            "people": {
+                "haspeople": 0
+            },
+            "tags": {
+                "tag": []
+            },
+            "urls": {
+                "url": [
+                    {
+                        "type": "photopage",
+                        "_content": "https://www.flickr.com/photos/cushinglibrary/3341110061/"
+                    }
+                ]
+            },
+            "media": "photo",
+            "descriptive_metadata": {
+                "Creator": "Mark Berrier",
+                "    Reference Number": "4152",
+                "    Publisher": "Cushing Memorial Library and Archives, Texas A&amp;M University",
+                "    Document Type": "Photograph",
+                "    Category": "Athletics: Baseball - 1981-1990",
+                "    Digitization Date": "2006",
+                "    Photograph Date": "ca. 1983",
+                "    Dimensions": "8 x 10 inches",
+                "    Location": "Pictures: Baseball (1981-1990)- 25",
+                "    Collection": "Texas A&amp;M University Archives Photograph Collection",
+                "    Contact Information": "Email: <a href=\"mailto:cushing-library@tamu.edu\" rel=\"noreferrer nofollow\">cushing-library@tamu.edu</a>   Phone: 979-845-1951",
+                "    Repository": "",
+                "    Cushing Memorial Library and Archives, Texas A&amp;M University, College Station, Texas    ": "",
+                "    Restrictions": "",
+                "    It is the users responsibility to secure permission from the copyright holders for publication of any materials. Permission must be obtained in writing prior to publication. Please contact the Cushing Library for further information.    ": "",
+                "    Keywords": "",
+                "    Athletics; Baseball; Sports ": ""
+            }
+        },
+        "stat": "ok"
+    },
+    "exif": {
+        "photo": {
+            "id": "3341110061",
+            "secret": "71dee08213",
+            "server": "3328",
+            "farm": 4,
+            "camera": "",
+            "exif": [
+                {
+                    "tagspace": "JFIF",
+                    "tagspaceid": 0,
+                    "tag": "JFIFVersion",
+                    "label": "JFIFVersion",
+                    "raw": {
+                        "_content": "1.02"
+                    }
+                },
+                {
+                    "tagspace": "JFIF",
+                    "tagspaceid": 0,
+                    "tag": "ResolutionUnit",
+                    "label": "Resolution Unit",
+                    "raw": {
+                        "_content": "inches"
+                    }
+                },
+                {
+                    "tagspace": "JFIF",
+                    "tagspaceid": 0,
+                    "tag": "XResolution",
+                    "label": "X-Resolution",
+                    "raw": {
+                        "_content": "400"
+                    },
+                    "clean": {
+                        "_content": "400 dpi"
+                    }
+                },
+                {
+                    "tagspace": "JFIF",
+                    "tagspaceid": 0,
+                    "tag": "YResolution",
+                    "label": "Y-Resolution",
+                    "raw": {
+                        "_content": "400"
+                    },
+                    "clean": {
+                        "_content": "400 dpi"
+                    }
+                }
+            ]
+        },
+        "stat": "ok"
+    },
+    "comments": {
+        "comments": {
+            "photo_id": "3341110061"
+        },
+        "stat": "ok"
+    },
+    "sizes": {
+        "sizes": {
+            "canblog": 0,
+            "canprint": 0,
+            "candownload": 1,
+            "size": [
+                {
+                    "label": "Square",
+                    "width": 75,
+                    "height": 75,
+                    "source": "https://live.staticflickr.com/3328/3341110061_71dee08213_s.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3341110061/sizes/sq/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Large Square",
+                    "width": 150,
+                    "height": 150,
+                    "source": "https://live.staticflickr.com/3328/3341110061_71dee08213_q.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3341110061/sizes/q/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Thumbnail",
+                    "width": 100,
+                    "height": 67,
+                    "source": "https://live.staticflickr.com/3328/3341110061_71dee08213_t.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3341110061/sizes/t/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Small",
+                    "width": 240,
+                    "height": 162,
+                    "source": "https://live.staticflickr.com/3328/3341110061_71dee08213_m.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3341110061/sizes/s/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Small 320",
+                    "width": 320,
+                    "height": 216,
+                    "source": "https://live.staticflickr.com/3328/3341110061_71dee08213_n.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3341110061/sizes/n/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Small 400",
+                    "width": 400,
+                    "height": 270,
+                    "source": "https://live.staticflickr.com/3328/3341110061_71dee08213_w.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3341110061/sizes/w/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Medium",
+                    "width": 500,
+                    "height": 337,
+                    "source": "https://live.staticflickr.com/3328/3341110061_71dee08213.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3341110061/sizes/m/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Medium 640",
+                    "width": 640,
+                    "height": 432,
+                    "source": "https://live.staticflickr.com/3328/3341110061_71dee08213_z.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3341110061/sizes/z/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Medium 800",
+                    "width": 800,
+                    "height": 540,
+                    "source": "https://live.staticflickr.com/3328/3341110061_71dee08213_c.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3341110061/sizes/c/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Large",
+                    "width": 1024,
+                    "height": 691,
+                    "source": "https://live.staticflickr.com/3328/3341110061_71dee08213_b.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3341110061/sizes/l/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Large 1600",
+                    "width": 1600,
+                    "height": 1080,
+                    "source": "https://live.staticflickr.com/3328/3341110061_6740469567_h.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3341110061/sizes/h/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Large 2048",
+                    "width": 2048,
+                    "height": 1382,
+                    "source": "https://live.staticflickr.com/3328/3341110061_670f0b85f1_k.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3341110061/sizes/k/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Original",
+                    "width": 3783,
+                    "height": 2553,
+                    "source": "https://live.staticflickr.com/3328/3341110061_1b3a200828_o.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3341110061/sizes/o/",
+                    "media": "photo"
+                }
+            ]
+        },
+        "stat": "ok"
+    }
+}

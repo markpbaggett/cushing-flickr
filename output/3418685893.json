@@ -1,0 +1,283 @@
+{
+    "metadata": {
+        "photo": {
+            "id": "3418685893",
+            "secret": "2c03e57463",
+            "server": "3558",
+            "farm": 4,
+            "dateuploaded": "1239053312",
+            "isfavorite": 0,
+            "license": "3",
+            "safety_level": "0",
+            "rotation": 0,
+            "originalsecret": "39063a3d36",
+            "originalformat": "jpg",
+            "owner": {
+                "nsid": "29072716@N04",
+                "username": "Cushing Memorial Library and Archives, Texas A&M",
+                "realname": "",
+                "location": "",
+                "iconserver": "3100",
+                "iconfarm": 4,
+                "path_alias": "cushinglibrary",
+                "gift": {
+                    "gift_eligible": true,
+                    "eligible_durations": [
+                        "year",
+                        "month",
+                        "week"
+                    ],
+                    "new_flow": true
+                }
+            },
+            "title": {
+                "_content": "image-4769"
+            },
+            "description": {
+                "_content": "<b>Creator:</b>Unknown\n    <b>Reference Number:</b>    4769    \n    <b>Publisher:</b>    Cushing Memorial Library and Archives, Texas A&amp;M University    \n\n    <b>Document Type:</b>    Photograph    \n    <b>Category:</b>    Aerial Photos: Campus Views - 1971-1980    \n\n    <b>Digitization Date:</b>    2006    \n    <b>Photograph Date:</b>    mid 1970s    \n    <b>Dimensions:</b>    8 x 10 inches    \n    <b>Location:</b>    Pictures: Campus Views - Aerial- 1971-1980 - 64    \n\n    <b>Collection:</b>    Texas A&amp;M University Archives Photograph Collection    \n\n    <b>Contact Information:</b>    Email: <a href=\"mailto:cushing-library@tamu.edu\" rel=\"noreferrer nofollow\">cushing-library@tamu.edu</a>   Phone: 979-845-1951    \n\n    <b>Repository:</b>\n    Cushing Memorial Library and Archives, Texas A&amp;M University, College Station, Texas    \n\n    <b>Restrictions:</b>\n    It is the users responsibility to secure permission from the copyright holders for publication of any materials. Permission must be obtained in writing prior to publication. Please contact the Cushing Library for further information.    \n\n    <b>Keywords:</b>\n    Campus; Air; Pictures "
+            },
+            "visibility": {
+                "ispublic": 1,
+                "isfriend": 0,
+                "isfamily": 0
+            },
+            "dates": {
+                "posted": "1239053312",
+                "taken": "2009-04-06 14:28:32",
+                "takengranularity": 0,
+                "takenunknown": 0,
+                "lastupdate": "1421775539"
+            },
+            "views": "1969",
+            "editability": {
+                "cancomment": 0,
+                "canaddmeta": 0
+            },
+            "publiceditability": {
+                "cancomment": 1,
+                "canaddmeta": 1
+            },
+            "usage": {
+                "candownload": 1,
+                "canblog": 0,
+                "canprint": 0,
+                "canshare": 1
+            },
+            "comments": {
+                "_content": "0"
+            },
+            "notes": {
+                "note": []
+            },
+            "people": {
+                "haspeople": 0
+            },
+            "tags": {
+                "tag": []
+            },
+            "urls": {
+                "url": [
+                    {
+                        "type": "photopage",
+                        "_content": "https://www.flickr.com/photos/cushinglibrary/3418685893/"
+                    }
+                ]
+            },
+            "media": "photo",
+            "descriptive_metadata": {
+                "Creator": "Unknown",
+                "    Reference Number": "4769",
+                "    Publisher": "Cushing Memorial Library and Archives, Texas A&amp;M University",
+                "    Document Type": "Photograph",
+                "    Category": "Aerial Photos: Campus Views - 1971-1980",
+                "    Digitization Date": "2006",
+                "    Photograph Date": "mid 1970s",
+                "    Dimensions": "8 x 10 inches",
+                "    Location": "Pictures: Campus Views - Aerial- 1971-1980 - 64",
+                "    Collection": "Texas A&amp;M University Archives Photograph Collection",
+                "    Contact Information": "Email: <a href=\"mailto:cushing-library@tamu.edu\" rel=\"noreferrer nofollow\">cushing-library@tamu.edu</a>   Phone: 979-845-1951",
+                "    Repository": "",
+                "    Cushing Memorial Library and Archives, Texas A&amp;M University, College Station, Texas    ": "",
+                "    Restrictions": "",
+                "    It is the users responsibility to secure permission from the copyright holders for publication of any materials. Permission must be obtained in writing prior to publication. Please contact the Cushing Library for further information.    ": "",
+                "    Keywords": "",
+                "    Campus; Air; Pictures ": ""
+            }
+        },
+        "stat": "ok"
+    },
+    "exif": {
+        "photo": {
+            "id": "3418685893",
+            "secret": "2c03e57463",
+            "server": "3558",
+            "farm": 4,
+            "camera": "",
+            "exif": [
+                {
+                    "tagspace": "JFIF",
+                    "tagspaceid": 0,
+                    "tag": "JFIFVersion",
+                    "label": "JFIFVersion",
+                    "raw": {
+                        "_content": "1.02"
+                    }
+                },
+                {
+                    "tagspace": "JFIF",
+                    "tagspaceid": 0,
+                    "tag": "ResolutionUnit",
+                    "label": "Resolution Unit",
+                    "raw": {
+                        "_content": "inches"
+                    }
+                },
+                {
+                    "tagspace": "JFIF",
+                    "tagspaceid": 0,
+                    "tag": "XResolution",
+                    "label": "X-Resolution",
+                    "raw": {
+                        "_content": "400"
+                    },
+                    "clean": {
+                        "_content": "400 dpi"
+                    }
+                },
+                {
+                    "tagspace": "JFIF",
+                    "tagspaceid": 0,
+                    "tag": "YResolution",
+                    "label": "Y-Resolution",
+                    "raw": {
+                        "_content": "400"
+                    },
+                    "clean": {
+                        "_content": "400 dpi"
+                    }
+                }
+            ]
+        },
+        "stat": "ok"
+    },
+    "comments": {
+        "comments": {
+            "photo_id": "3418685893"
+        },
+        "stat": "ok"
+    },
+    "sizes": {
+        "sizes": {
+            "canblog": 0,
+            "canprint": 0,
+            "candownload": 1,
+            "size": [
+                {
+                    "label": "Square",
+                    "width": 75,
+                    "height": 75,
+                    "source": "https://live.staticflickr.com/3558/3418685893_2c03e57463_s.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3418685893/sizes/sq/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Large Square",
+                    "width": 150,
+                    "height": 150,
+                    "source": "https://live.staticflickr.com/3558/3418685893_2c03e57463_q.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3418685893/sizes/q/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Thumbnail",
+                    "width": 100,
+                    "height": 82,
+                    "source": "https://live.staticflickr.com/3558/3418685893_2c03e57463_t.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3418685893/sizes/t/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Small",
+                    "width": 240,
+                    "height": 196,
+                    "source": "https://live.staticflickr.com/3558/3418685893_2c03e57463_m.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3418685893/sizes/s/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Small 320",
+                    "width": 320,
+                    "height": 262,
+                    "source": "https://live.staticflickr.com/3558/3418685893_2c03e57463_n.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3418685893/sizes/n/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Small 400",
+                    "width": 400,
+                    "height": 327,
+                    "source": "https://live.staticflickr.com/3558/3418685893_2c03e57463_w.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3418685893/sizes/w/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Medium",
+                    "width": 500,
+                    "height": 409,
+                    "source": "https://live.staticflickr.com/3558/3418685893_2c03e57463.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3418685893/sizes/m/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Medium 640",
+                    "width": 640,
+                    "height": 523,
+                    "source": "https://live.staticflickr.com/3558/3418685893_2c03e57463_z.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3418685893/sizes/z/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Medium 800",
+                    "width": 800,
+                    "height": 654,
+                    "source": "https://live.staticflickr.com/3558/3418685893_2c03e57463_c.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3418685893/sizes/c/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Large",
+                    "width": 1024,
+                    "height": 837,
+                    "source": "https://live.staticflickr.com/3558/3418685893_2c03e57463_b.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3418685893/sizes/l/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Large 1600",
+                    "width": 1600,
+                    "height": 1308,
+                    "source": "https://live.staticflickr.com/3558/3418685893_e1742889ed_h.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3418685893/sizes/h/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Large 2048",
+                    "width": 2048,
+                    "height": 1674,
+                    "source": "https://live.staticflickr.com/3558/3418685893_72f4997c33_k.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3418685893/sizes/k/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Original",
+                    "width": 4043,
+                    "height": 3304,
+                    "source": "https://live.staticflickr.com/3558/3418685893_39063a3d36_o.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3418685893/sizes/o/",
+                    "media": "photo"
+                }
+            ]
+        },
+        "stat": "ok"
+    }
+}

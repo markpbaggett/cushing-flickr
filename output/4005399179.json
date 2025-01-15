@@ -1,0 +1,268 @@
+{
+    "metadata": {
+        "photo": {
+            "id": "4005399179",
+            "secret": "68c2d5967e",
+            "server": "2449",
+            "farm": 3,
+            "dateuploaded": "1255378181",
+            "isfavorite": 0,
+            "license": "3",
+            "safety_level": "0",
+            "rotation": 0,
+            "originalsecret": "70afff71c2",
+            "originalformat": "jpg",
+            "owner": {
+                "nsid": "29072716@N04",
+                "username": "Cushing Memorial Library and Archives, Texas A&M",
+                "realname": "",
+                "location": "",
+                "iconserver": "3100",
+                "iconfarm": 4,
+                "path_alias": "cushinglibrary",
+                "gift": {
+                    "gift_eligible": true,
+                    "eligible_durations": [
+                        "year",
+                        "month",
+                        "week"
+                    ],
+                    "new_flow": true
+                }
+            },
+            "title": {
+                "_content": "Jack Crichton Class of 1937"
+            },
+            "description": {
+                "_content": "<b>Title: </b>Jack Crichton Class of 1937 \n<b>Digital Publisher: </b>Digital: Cushing Memorial Library and Archives, Texas A&amp;M University, College Station, Texas \n<b>Physical Publisher: </b>Physical: Graphic Services, Texas A&amp;M University \n<b>Date Issued:</b> 2011-08-17 \n<b>Date Created:</b> 1967 \n<b>Dimensions: </b>4 x 5 inches \n<b>Format Medium: </b>Photographic negative \n<b>Type: </b>image \n<b>Identifier:</b> Photograph Location: Graphic Services Photos, Box 34, File 33-556 \n<b>Rights: </b>It is the users responsibility to secure permission from the copyright holders for publication of any materials. Permission must be obtained in writing prior to publication. Please contact the Cushing Memorial Library for further information \n"
+            },
+            "visibility": {
+                "ispublic": 1,
+                "isfriend": 0,
+                "isfamily": 0
+            },
+            "dates": {
+                "posted": "1255378181",
+                "taken": "2009-10-12 13:09:41",
+                "takengranularity": 0,
+                "takenunknown": 0,
+                "lastupdate": "1421776157"
+            },
+            "views": "360",
+            "editability": {
+                "cancomment": 0,
+                "canaddmeta": 0
+            },
+            "publiceditability": {
+                "cancomment": 1,
+                "canaddmeta": 1
+            },
+            "usage": {
+                "candownload": 1,
+                "canblog": 0,
+                "canprint": 0,
+                "canshare": 1
+            },
+            "comments": {
+                "_content": "0"
+            },
+            "notes": {
+                "note": []
+            },
+            "people": {
+                "haspeople": 0
+            },
+            "tags": {
+                "tag": []
+            },
+            "urls": {
+                "url": [
+                    {
+                        "type": "photopage",
+                        "_content": "https://www.flickr.com/photos/cushinglibrary/4005399179/"
+                    }
+                ]
+            },
+            "media": "photo",
+            "descriptive_metadata": {
+                "Title": "Jack Crichton Class of 1937",
+                "Digital Publisher": "Digital: Cushing Memorial Library and Archives, Texas A&amp;M University, College Station, Texas",
+                "Physical Publisher": "Physical: Graphic Services, Texas A&amp;M University",
+                "Date Issued": "2011-08-17",
+                "Date Created": "1967",
+                "Dimensions": "4 x 5 inches",
+                "Format Medium": "Photographic negative",
+                "Type": "image",
+                "Identifier": "Photograph Location: Graphic Services Photos, Box 34, File 33-556",
+                "Rights": "It is the users responsibility to secure permission from the copyright holders for publication of any materials. Permission must be obtained in writing prior to publication. Please contact the Cushing Memorial Library for further information"
+            }
+        },
+        "stat": "ok"
+    },
+    "exif": {
+        "photo": {
+            "id": "4005399179",
+            "secret": "68c2d5967e",
+            "server": "2449",
+            "farm": 3,
+            "camera": "",
+            "exif": [
+                {
+                    "tagspace": "JFIF",
+                    "tagspaceid": 0,
+                    "tag": "JFIFVersion",
+                    "label": "JFIFVersion",
+                    "raw": {
+                        "_content": "1.02"
+                    }
+                },
+                {
+                    "tagspace": "JFIF",
+                    "tagspaceid": 0,
+                    "tag": "ResolutionUnit",
+                    "label": "Resolution Unit",
+                    "raw": {
+                        "_content": "inches"
+                    }
+                },
+                {
+                    "tagspace": "JFIF",
+                    "tagspaceid": 0,
+                    "tag": "XResolution",
+                    "label": "X-Resolution",
+                    "raw": {
+                        "_content": "400"
+                    },
+                    "clean": {
+                        "_content": "400 dpi"
+                    }
+                },
+                {
+                    "tagspace": "JFIF",
+                    "tagspaceid": 0,
+                    "tag": "YResolution",
+                    "label": "Y-Resolution",
+                    "raw": {
+                        "_content": "400"
+                    },
+                    "clean": {
+                        "_content": "400 dpi"
+                    }
+                }
+            ]
+        },
+        "stat": "ok"
+    },
+    "comments": {
+        "comments": {
+            "photo_id": "4005399179"
+        },
+        "stat": "ok"
+    },
+    "sizes": {
+        "sizes": {
+            "canblog": 0,
+            "canprint": 0,
+            "candownload": 1,
+            "size": [
+                {
+                    "label": "Square",
+                    "width": 75,
+                    "height": 75,
+                    "source": "https://live.staticflickr.com/2449/4005399179_68c2d5967e_s.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/4005399179/sizes/sq/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Large Square",
+                    "width": 150,
+                    "height": 150,
+                    "source": "https://live.staticflickr.com/2449/4005399179_68c2d5967e_q.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/4005399179/sizes/q/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Thumbnail",
+                    "width": 78,
+                    "height": 100,
+                    "source": "https://live.staticflickr.com/2449/4005399179_68c2d5967e_t.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/4005399179/sizes/t/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Small",
+                    "width": 188,
+                    "height": 240,
+                    "source": "https://live.staticflickr.com/2449/4005399179_68c2d5967e_m.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/4005399179/sizes/s/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Small 320",
+                    "width": 251,
+                    "height": 320,
+                    "source": "https://live.staticflickr.com/2449/4005399179_68c2d5967e_n.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/4005399179/sizes/n/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Small 400",
+                    "width": 314,
+                    "height": 400,
+                    "source": "https://live.staticflickr.com/2449/4005399179_68c2d5967e_w.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/4005399179/sizes/w/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Medium",
+                    "width": 392,
+                    "height": 500,
+                    "source": "https://live.staticflickr.com/2449/4005399179_68c2d5967e.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/4005399179/sizes/m/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Medium 640",
+                    "width": 502,
+                    "height": 640,
+                    "source": "https://live.staticflickr.com/2449/4005399179_68c2d5967e_z.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/4005399179/sizes/z/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Medium 800",
+                    "width": 628,
+                    "height": 800,
+                    "source": "https://live.staticflickr.com/2449/4005399179_68c2d5967e_c.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/4005399179/sizes/c/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Large",
+                    "width": 803,
+                    "height": 1024,
+                    "source": "https://live.staticflickr.com/2449/4005399179_68c2d5967e_b.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/4005399179/sizes/l/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Large 1600",
+                    "width": 1146,
+                    "height": 1461,
+                    "source": "https://live.staticflickr.com/2449/4005399179_5f4ae9803f_h.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/4005399179/sizes/h/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Original",
+                    "width": 1146,
+                    "height": 1461,
+                    "source": "https://live.staticflickr.com/2449/4005399179_70afff71c2_o.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/4005399179/sizes/o/",
+                    "media": "photo"
+                }
+            ]
+        },
+        "stat": "ok"
+    }
+}

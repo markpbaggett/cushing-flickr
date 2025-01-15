@@ -1,0 +1,276 @@
+{
+    "metadata": {
+        "photo": {
+            "id": "3640860855",
+            "secret": "c1cd351768",
+            "server": "3393",
+            "farm": 4,
+            "dateuploaded": "1245426512",
+            "isfavorite": 0,
+            "license": "3",
+            "safety_level": "0",
+            "rotation": 0,
+            "originalsecret": "518ff79751",
+            "originalformat": "jpg",
+            "owner": {
+                "nsid": "29072716@N04",
+                "username": "Cushing Memorial Library and Archives, Texas A&M",
+                "realname": "",
+                "location": "",
+                "iconserver": "3100",
+                "iconfarm": 4,
+                "path_alias": "cushinglibrary",
+                "gift": {
+                    "gift_eligible": true,
+                    "eligible_durations": [
+                        "year",
+                        "month",
+                        "week"
+                    ],
+                    "new_flow": true
+                }
+            },
+            "title": {
+                "_content": "Instrumentation Short Course - 13"
+            },
+            "description": {
+                "_content": "<b>Title: </b>Instrumentation Short Course - 13 \n<b>Digital Publisher: </b>Digital: Cushing Memorial Library and Archives, Texas A&amp;M University, College Station, Texas \n<b>Physical Publisher: </b>Physical: Agricultural Communications Office of the Texas Agricultural Extension Service, Texas A&amp;M University \n<b>Date Issued:</b> 2011-08-17 \n<b>Date Created:</b> 1948 \n<b>Dimensions: </b>4 x 5 inches \n<b>Format Medium: </b>Photographic negative \n<b>Type: </b>image \n<b>Identifier:</b> Photograph Location: Agricultural Communications Collection, Box 40, File 40-780 \n<b>Rights: </b>It is the users responsibility to secure permission from the copyright holders for publication of any materials. Permission must be obtained in writing prior to publication. Please contact the Cushing Memorial Library for further information \n"
+            },
+            "visibility": {
+                "ispublic": 1,
+                "isfriend": 0,
+                "isfamily": 0
+            },
+            "dates": {
+                "posted": "1245426512",
+                "taken": "2009-06-19 08:48:32",
+                "takengranularity": 0,
+                "takenunknown": 0,
+                "lastupdate": "1421775900"
+            },
+            "views": "178",
+            "editability": {
+                "cancomment": 0,
+                "canaddmeta": 0
+            },
+            "publiceditability": {
+                "cancomment": 1,
+                "canaddmeta": 1
+            },
+            "usage": {
+                "candownload": 1,
+                "canblog": 0,
+                "canprint": 0,
+                "canshare": 1
+            },
+            "comments": {
+                "_content": "0"
+            },
+            "notes": {
+                "note": []
+            },
+            "people": {
+                "haspeople": 0
+            },
+            "tags": {
+                "tag": []
+            },
+            "urls": {
+                "url": [
+                    {
+                        "type": "photopage",
+                        "_content": "https://www.flickr.com/photos/cushinglibrary/3640860855/"
+                    }
+                ]
+            },
+            "media": "photo",
+            "descriptive_metadata": {
+                "Title": "Instrumentation Short Course - 13",
+                "Digital Publisher": "Digital: Cushing Memorial Library and Archives, Texas A&amp;M University, College Station, Texas",
+                "Physical Publisher": "Physical: Agricultural Communications Office of the Texas Agricultural Extension Service, Texas A&amp;M University",
+                "Date Issued": "2011-08-17",
+                "Date Created": "1948",
+                "Dimensions": "4 x 5 inches",
+                "Format Medium": "Photographic negative",
+                "Type": "image",
+                "Identifier": "Photograph Location: Agricultural Communications Collection, Box 40, File 40-780",
+                "Rights": "It is the users responsibility to secure permission from the copyright holders for publication of any materials. Permission must be obtained in writing prior to publication. Please contact the Cushing Memorial Library for further information"
+            }
+        },
+        "stat": "ok"
+    },
+    "exif": {
+        "photo": {
+            "id": "3640860855",
+            "secret": "c1cd351768",
+            "server": "3393",
+            "farm": 4,
+            "camera": "",
+            "exif": [
+                {
+                    "tagspace": "JFIF",
+                    "tagspaceid": 0,
+                    "tag": "JFIFVersion",
+                    "label": "JFIFVersion",
+                    "raw": {
+                        "_content": "1.02"
+                    }
+                },
+                {
+                    "tagspace": "JFIF",
+                    "tagspaceid": 0,
+                    "tag": "ResolutionUnit",
+                    "label": "Resolution Unit",
+                    "raw": {
+                        "_content": "inches"
+                    }
+                },
+                {
+                    "tagspace": "JFIF",
+                    "tagspaceid": 0,
+                    "tag": "XResolution",
+                    "label": "X-Resolution",
+                    "raw": {
+                        "_content": "400"
+                    },
+                    "clean": {
+                        "_content": "400 dpi"
+                    }
+                },
+                {
+                    "tagspace": "JFIF",
+                    "tagspaceid": 0,
+                    "tag": "YResolution",
+                    "label": "Y-Resolution",
+                    "raw": {
+                        "_content": "400"
+                    },
+                    "clean": {
+                        "_content": "400 dpi"
+                    }
+                }
+            ]
+        },
+        "stat": "ok"
+    },
+    "comments": {
+        "comments": {
+            "photo_id": "3640860855"
+        },
+        "stat": "ok"
+    },
+    "sizes": {
+        "sizes": {
+            "canblog": 0,
+            "canprint": 0,
+            "candownload": 1,
+            "size": [
+                {
+                    "label": "Square",
+                    "width": 75,
+                    "height": 75,
+                    "source": "https://live.staticflickr.com/3393/3640860855_c1cd351768_s.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3640860855/sizes/sq/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Large Square",
+                    "width": 150,
+                    "height": 150,
+                    "source": "https://live.staticflickr.com/3393/3640860855_c1cd351768_q.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3640860855/sizes/q/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Thumbnail",
+                    "width": 66,
+                    "height": 100,
+                    "source": "https://live.staticflickr.com/3393/3640860855_c1cd351768_t.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3640860855/sizes/t/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Small",
+                    "width": 158,
+                    "height": 240,
+                    "source": "https://live.staticflickr.com/3393/3640860855_c1cd351768_m.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3640860855/sizes/s/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Small 320",
+                    "width": 211,
+                    "height": 320,
+                    "source": "https://live.staticflickr.com/3393/3640860855_c1cd351768_n.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3640860855/sizes/n/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Small 400",
+                    "width": 263,
+                    "height": 400,
+                    "source": "https://live.staticflickr.com/3393/3640860855_c1cd351768_w.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3640860855/sizes/w/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Medium",
+                    "width": 329,
+                    "height": 500,
+                    "source": "https://live.staticflickr.com/3393/3640860855_c1cd351768.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3640860855/sizes/m/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Medium 640",
+                    "width": 421,
+                    "height": 640,
+                    "source": "https://live.staticflickr.com/3393/3640860855_c1cd351768_z.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3640860855/sizes/z/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Medium 800",
+                    "width": 526,
+                    "height": 800,
+                    "source": "https://live.staticflickr.com/3393/3640860855_c1cd351768_c.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3640860855/sizes/c/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Large",
+                    "width": 674,
+                    "height": 1024,
+                    "source": "https://live.staticflickr.com/3393/3640860855_c1cd351768_b.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3640860855/sizes/l/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Large 1600",
+                    "width": 1053,
+                    "height": 1600,
+                    "source": "https://live.staticflickr.com/3393/3640860855_0510e1b54e_h.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3640860855/sizes/h/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Large 2048",
+                    "width": 1348,
+                    "height": 2048,
+                    "source": "https://live.staticflickr.com/3393/3640860855_0d6adad0a5_k.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3640860855/sizes/k/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Original",
+                    "width": 1746,
+                    "height": 2653,
+                    "source": "https://live.staticflickr.com/3393/3640860855_518ff79751_o.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3640860855/sizes/o/",
+                    "media": "photo"
+                }
+            ]
+        },
+        "stat": "ok"
+    }
+}

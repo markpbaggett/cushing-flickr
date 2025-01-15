@@ -1,0 +1,275 @@
+{
+    "metadata": {
+        "photo": {
+            "id": "3332838297",
+            "secret": "424ed116f1",
+            "server": "3599",
+            "farm": 4,
+            "dateuploaded": "1236361228",
+            "isfavorite": 0,
+            "license": "3",
+            "safety_level": "0",
+            "rotation": 0,
+            "originalsecret": "3012346749",
+            "originalformat": "jpg",
+            "owner": {
+                "nsid": "29072716@N04",
+                "username": "Cushing Memorial Library and Archives, Texas A&M",
+                "realname": "",
+                "location": "",
+                "iconserver": "3100",
+                "iconfarm": 4,
+                "path_alias": "cushinglibrary",
+                "gift": {
+                    "gift_eligible": true,
+                    "eligible_durations": [
+                        "year",
+                        "month",
+                        "week"
+                    ],
+                    "new_flow": true
+                }
+            },
+            "title": {
+                "_content": "Baseball - 1971-1980 - 36"
+            },
+            "description": {
+                "_content": "<b>Title: </b>Baseball - 1971-1980 - 36 \n<b>Digital Publisher: </b>Digital: Cushing Memorial Library and Archives, Texas A&amp;M University, College Station, Texas \n<b>Physical Publisher: </b>Physical: Cushing Memorial Library and Archives, Texas A&amp;M University \n<b>Description:</b> photograph date: ca. 197; Athletics: Baseball - 1971-1980 \n<b>Date Issued:</b> 2006 \n<b>Dimensions: </b>5 x 7 inches \n<b>Type: </b>image \n<b>Identifier:</b> Photograph Location: Pictures: Baseball (1971-1980) - 4; Reference Number: 3939 \n<b>Rights: </b>It is the users responsibility to secure permission from the copyright holders for publication of any materials. Permission must be obtained in writing prior to publication. Please contact the Cushing Memorial Library for further information \n"
+            },
+            "visibility": {
+                "ispublic": 1,
+                "isfriend": 0,
+                "isfamily": 0
+            },
+            "dates": {
+                "posted": "1236361228",
+                "taken": "2009-03-06 09:40:28",
+                "takengranularity": 0,
+                "takenunknown": 0,
+                "lastupdate": "1421775496"
+            },
+            "views": "406",
+            "editability": {
+                "cancomment": 0,
+                "canaddmeta": 0
+            },
+            "publiceditability": {
+                "cancomment": 1,
+                "canaddmeta": 1
+            },
+            "usage": {
+                "candownload": 1,
+                "canblog": 0,
+                "canprint": 0,
+                "canshare": 1
+            },
+            "comments": {
+                "_content": "0"
+            },
+            "notes": {
+                "note": []
+            },
+            "people": {
+                "haspeople": 0
+            },
+            "tags": {
+                "tag": []
+            },
+            "urls": {
+                "url": [
+                    {
+                        "type": "photopage",
+                        "_content": "https://www.flickr.com/photos/cushinglibrary/3332838297/"
+                    }
+                ]
+            },
+            "media": "photo",
+            "descriptive_metadata": {
+                "Title": "Baseball - 1971-1980 - 36",
+                "Digital Publisher": "Digital: Cushing Memorial Library and Archives, Texas A&amp;M University, College Station, Texas",
+                "Physical Publisher": "Physical: Cushing Memorial Library and Archives, Texas A&amp;M University",
+                "Description": "photograph date: ca. 197; Athletics: Baseball - 1971-1980",
+                "Date Issued": "2006",
+                "Dimensions": "5 x 7 inches",
+                "Type": "image",
+                "Identifier": "Photograph Location: Pictures: Baseball (1971-1980) - 4; Reference Number: 3939",
+                "Rights": "It is the users responsibility to secure permission from the copyright holders for publication of any materials. Permission must be obtained in writing prior to publication. Please contact the Cushing Memorial Library for further information"
+            }
+        },
+        "stat": "ok"
+    },
+    "exif": {
+        "photo": {
+            "id": "3332838297",
+            "secret": "424ed116f1",
+            "server": "3599",
+            "farm": 4,
+            "camera": "",
+            "exif": [
+                {
+                    "tagspace": "JFIF",
+                    "tagspaceid": 0,
+                    "tag": "JFIFVersion",
+                    "label": "JFIFVersion",
+                    "raw": {
+                        "_content": "1.02"
+                    }
+                },
+                {
+                    "tagspace": "JFIF",
+                    "tagspaceid": 0,
+                    "tag": "ResolutionUnit",
+                    "label": "Resolution Unit",
+                    "raw": {
+                        "_content": "inches"
+                    }
+                },
+                {
+                    "tagspace": "JFIF",
+                    "tagspaceid": 0,
+                    "tag": "XResolution",
+                    "label": "X-Resolution",
+                    "raw": {
+                        "_content": "400"
+                    },
+                    "clean": {
+                        "_content": "400 dpi"
+                    }
+                },
+                {
+                    "tagspace": "JFIF",
+                    "tagspaceid": 0,
+                    "tag": "YResolution",
+                    "label": "Y-Resolution",
+                    "raw": {
+                        "_content": "400"
+                    },
+                    "clean": {
+                        "_content": "400 dpi"
+                    }
+                }
+            ]
+        },
+        "stat": "ok"
+    },
+    "comments": {
+        "comments": {
+            "photo_id": "3332838297"
+        },
+        "stat": "ok"
+    },
+    "sizes": {
+        "sizes": {
+            "canblog": 0,
+            "canprint": 0,
+            "candownload": 1,
+            "size": [
+                {
+                    "label": "Square",
+                    "width": 75,
+                    "height": 75,
+                    "source": "https://live.staticflickr.com/3599/3332838297_424ed116f1_s.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3332838297/sizes/sq/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Large Square",
+                    "width": 150,
+                    "height": 150,
+                    "source": "https://live.staticflickr.com/3599/3332838297_424ed116f1_q.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3332838297/sizes/q/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Thumbnail",
+                    "width": 69,
+                    "height": 100,
+                    "source": "https://live.staticflickr.com/3599/3332838297_424ed116f1_t.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3332838297/sizes/t/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Small",
+                    "width": 165,
+                    "height": 240,
+                    "source": "https://live.staticflickr.com/3599/3332838297_424ed116f1_m.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3332838297/sizes/s/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Small 320",
+                    "width": 220,
+                    "height": 320,
+                    "source": "https://live.staticflickr.com/3599/3332838297_424ed116f1_n.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3332838297/sizes/n/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Small 400",
+                    "width": 275,
+                    "height": 400,
+                    "source": "https://live.staticflickr.com/3599/3332838297_424ed116f1_w.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3332838297/sizes/w/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Medium",
+                    "width": 344,
+                    "height": 500,
+                    "source": "https://live.staticflickr.com/3599/3332838297_424ed116f1.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3332838297/sizes/m/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Medium 640",
+                    "width": 441,
+                    "height": 640,
+                    "source": "https://live.staticflickr.com/3599/3332838297_424ed116f1_z.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3332838297/sizes/z/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Medium 800",
+                    "width": 551,
+                    "height": 800,
+                    "source": "https://live.staticflickr.com/3599/3332838297_424ed116f1_c.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3332838297/sizes/c/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Large",
+                    "width": 705,
+                    "height": 1024,
+                    "source": "https://live.staticflickr.com/3599/3332838297_424ed116f1_b.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3332838297/sizes/l/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Large 1600",
+                    "width": 1102,
+                    "height": 1600,
+                    "source": "https://live.staticflickr.com/3599/3332838297_5d8ee5440f_h.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3332838297/sizes/h/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Large 2048",
+                    "width": 1410,
+                    "height": 2048,
+                    "source": "https://live.staticflickr.com/3599/3332838297_ad4037510e_k.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3332838297/sizes/k/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Original",
+                    "width": 1887,
+                    "height": 2740,
+                    "source": "https://live.staticflickr.com/3599/3332838297_3012346749_o.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3332838297/sizes/o/",
+                    "media": "photo"
+                }
+            ]
+        },
+        "stat": "ok"
+    }
+}

@@ -1,0 +1,268 @@
+{
+    "metadata": {
+        "photo": {
+            "id": "3423899469",
+            "secret": "125516ae2d",
+            "server": "3625",
+            "farm": 4,
+            "dateuploaded": "1239215085",
+            "isfavorite": 0,
+            "license": "3",
+            "safety_level": "0",
+            "rotation": 0,
+            "originalsecret": "7b528d7fdc",
+            "originalformat": "jpg",
+            "owner": {
+                "nsid": "29072716@N04",
+                "username": "Cushing Memorial Library and Archives, Texas A&M",
+                "realname": "",
+                "location": "",
+                "iconserver": "3100",
+                "iconfarm": 4,
+                "path_alias": "cushinglibrary",
+                "gift": {
+                    "gift_eligible": true,
+                    "eligible_durations": [
+                        "year",
+                        "month",
+                        "week"
+                    ],
+                    "new_flow": true
+                }
+            },
+            "title": {
+                "_content": "Campus Views - 1971-1980 - 128"
+            },
+            "description": {
+                "_content": "<b>Title: </b>Campus Views - 1971-1980 - 128 \n<b>Digital Publisher: </b>Digital: Cushing Memorial Library and Archives, Texas A&amp;M University, College Station, Texas \n<b>Physical Publisher: </b>Physical: Cushing Memorial Library and Archives, Texas A&amp;M University \n<b>Description:</b> Aerial Photos: Campus Views - 1971-1980 \n<b>Date Issued:</b> 2006 \n<b>Date Created:</b> 1979-04 \n<b>Dimensions: </b>2.5 x 2.75 inches \n<b>Type: </b>image \n<b>Identifier:</b> Photograph Location: Pictures: Campus Views - Aerial- 1971-1980 - 7; Reference Number: 4772 \n<b>Rights: </b>It is the users responsibility to secure permission from the copyright holders for publication of any materials. Permission must be obtained in writing prior to publication. Please contact the Cushing Memorial Library for further information \n"
+            },
+            "visibility": {
+                "ispublic": 1,
+                "isfriend": 0,
+                "isfamily": 0
+            },
+            "dates": {
+                "posted": "1239215085",
+                "taken": "2009-04-08 11:24:45",
+                "takengranularity": 0,
+                "takenunknown": 0,
+                "lastupdate": "1421775548"
+            },
+            "views": "344",
+            "editability": {
+                "cancomment": 0,
+                "canaddmeta": 0
+            },
+            "publiceditability": {
+                "cancomment": 1,
+                "canaddmeta": 1
+            },
+            "usage": {
+                "candownload": 1,
+                "canblog": 0,
+                "canprint": 0,
+                "canshare": 1
+            },
+            "comments": {
+                "_content": "0"
+            },
+            "notes": {
+                "note": []
+            },
+            "people": {
+                "haspeople": 0
+            },
+            "tags": {
+                "tag": []
+            },
+            "urls": {
+                "url": [
+                    {
+                        "type": "photopage",
+                        "_content": "https://www.flickr.com/photos/cushinglibrary/3423899469/"
+                    }
+                ]
+            },
+            "media": "photo",
+            "descriptive_metadata": {
+                "Title": "Campus Views - 1971-1980 - 128",
+                "Digital Publisher": "Digital: Cushing Memorial Library and Archives, Texas A&amp;M University, College Station, Texas",
+                "Physical Publisher": "Physical: Cushing Memorial Library and Archives, Texas A&amp;M University",
+                "Description": "Aerial Photos: Campus Views - 1971-1980",
+                "Date Issued": "2006",
+                "Date Created": "1979-04",
+                "Dimensions": "2.5 x 2.75 inches",
+                "Type": "image",
+                "Identifier": "Photograph Location: Pictures: Campus Views - Aerial- 1971-1980 - 7; Reference Number: 4772",
+                "Rights": "It is the users responsibility to secure permission from the copyright holders for publication of any materials. Permission must be obtained in writing prior to publication. Please contact the Cushing Memorial Library for further information"
+            }
+        },
+        "stat": "ok"
+    },
+    "exif": {
+        "photo": {
+            "id": "3423899469",
+            "secret": "125516ae2d",
+            "server": "3625",
+            "farm": 4,
+            "camera": "",
+            "exif": [
+                {
+                    "tagspace": "JFIF",
+                    "tagspaceid": 0,
+                    "tag": "JFIFVersion",
+                    "label": "JFIFVersion",
+                    "raw": {
+                        "_content": "1.02"
+                    }
+                },
+                {
+                    "tagspace": "JFIF",
+                    "tagspaceid": 0,
+                    "tag": "ResolutionUnit",
+                    "label": "Resolution Unit",
+                    "raw": {
+                        "_content": "inches"
+                    }
+                },
+                {
+                    "tagspace": "JFIF",
+                    "tagspaceid": 0,
+                    "tag": "XResolution",
+                    "label": "X-Resolution",
+                    "raw": {
+                        "_content": "400"
+                    },
+                    "clean": {
+                        "_content": "400 dpi"
+                    }
+                },
+                {
+                    "tagspace": "JFIF",
+                    "tagspaceid": 0,
+                    "tag": "YResolution",
+                    "label": "Y-Resolution",
+                    "raw": {
+                        "_content": "400"
+                    },
+                    "clean": {
+                        "_content": "400 dpi"
+                    }
+                }
+            ]
+        },
+        "stat": "ok"
+    },
+    "comments": {
+        "comments": {
+            "photo_id": "3423899469"
+        },
+        "stat": "ok"
+    },
+    "sizes": {
+        "sizes": {
+            "canblog": 0,
+            "canprint": 0,
+            "candownload": 1,
+            "size": [
+                {
+                    "label": "Square",
+                    "width": 75,
+                    "height": 75,
+                    "source": "https://live.staticflickr.com/3625/3423899469_125516ae2d_s.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3423899469/sizes/sq/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Large Square",
+                    "width": 150,
+                    "height": 150,
+                    "source": "https://live.staticflickr.com/3625/3423899469_125516ae2d_q.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3423899469/sizes/q/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Thumbnail",
+                    "width": 100,
+                    "height": 99,
+                    "source": "https://live.staticflickr.com/3625/3423899469_125516ae2d_t.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3423899469/sizes/t/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Small",
+                    "width": 240,
+                    "height": 238,
+                    "source": "https://live.staticflickr.com/3625/3423899469_125516ae2d_m.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3423899469/sizes/s/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Small 320",
+                    "width": 320,
+                    "height": 318,
+                    "source": "https://live.staticflickr.com/3625/3423899469_125516ae2d_n.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3423899469/sizes/n/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Small 400",
+                    "width": 400,
+                    "height": 397,
+                    "source": "https://live.staticflickr.com/3625/3423899469_125516ae2d_w.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3423899469/sizes/w/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Medium",
+                    "width": 500,
+                    "height": 497,
+                    "source": "https://live.staticflickr.com/3625/3423899469_125516ae2d.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3423899469/sizes/m/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Medium 640",
+                    "width": 640,
+                    "height": 636,
+                    "source": "https://live.staticflickr.com/3625/3423899469_125516ae2d_z.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3423899469/sizes/z/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Medium 800",
+                    "width": 800,
+                    "height": 795,
+                    "source": "https://live.staticflickr.com/3625/3423899469_125516ae2d_c.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3423899469/sizes/c/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Large",
+                    "width": 1024,
+                    "height": 1017,
+                    "source": "https://live.staticflickr.com/3625/3423899469_125516ae2d_b.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3423899469/sizes/l/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Large 1600",
+                    "width": 1468,
+                    "height": 1458,
+                    "source": "https://live.staticflickr.com/3625/3423899469_53b8c247d3_h.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3423899469/sizes/h/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Original",
+                    "width": 1468,
+                    "height": 1458,
+                    "source": "https://live.staticflickr.com/3625/3423899469_7b528d7fdc_o.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3423899469/sizes/o/",
+                    "media": "photo"
+                }
+            ]
+        },
+        "stat": "ok"
+    }
+}

@@ -1,0 +1,310 @@
+{
+    "metadata": {
+        "photo": {
+            "id": "3786288928",
+            "secret": "4d5f7e87fd",
+            "server": "2454",
+            "farm": 3,
+            "dateuploaded": "1249327873",
+            "isfavorite": 0,
+            "license": "3",
+            "safety_level": "0",
+            "rotation": 0,
+            "originalsecret": "fc4766ce48",
+            "originalformat": "jpg",
+            "owner": {
+                "nsid": "29072716@N04",
+                "username": "Cushing Memorial Library and Archives, Texas A&M",
+                "realname": "",
+                "location": "",
+                "iconserver": "3100",
+                "iconfarm": 4,
+                "path_alias": "cushinglibrary",
+                "gift": {
+                    "gift_eligible": true,
+                    "eligible_durations": [
+                        "year",
+                        "month",
+                        "week"
+                    ],
+                    "new_flow": true
+                }
+            },
+            "title": {
+                "_content": "methodist_church_43-4_71-50_copy"
+            },
+            "description": {
+                "_content": "<b>Title: </b> The Methodist Church \n\n<b>Architect: </b> Raiford Stripling Associates Inc. Architects\n\n<b>Document Type: </b>Drawing\n\n<b>Format:</b>  Pencil on Vellum\n\n<b>Physical Description:  </b> 71 x 50 cm    \n\n<b>Digitization Date: </b> 2009-06\n\n<b>Project Name: </b> Preliminary Plans for a District Supls. Residence &amp; Office for the Methodist Church\n\n<b>Building Location: </b> Please contact the Cushing Library for further information    \n\n<b>Drawing Execution Date: </b> No Date\n\n<b>Descriptive Notes: </b> 1 sheet of architectural drawing\n\n<b>Repository: </b> Cushing Memorial Library and Archives, Texas A&amp; M University, College Station, Texas    \n\n<b>Repository Collection: </b> The Raiford Leak Stripling Architecture Collection\n\n<b>Order Number: </b> 43/4\n\n<b>Inventory Correspondence: </b> 2-10\n\n<b>Contact Information:</b>    Email: <a href=\"mailto:cushing-library@tamu.edu\" rel=\"noreferrer nofollow\">cushing-library@tamu.edu</a>   Phone: 979-845-1951    \n\n<b>Copyright:</b>  It is the users responsibility to secure permission from the copyright holders for publication of any materials. Permission must be obtained in writing prior to publication. Please contact the Cushing Memorial Library for further information.\n\n"
+            },
+            "visibility": {
+                "ispublic": 1,
+                "isfriend": 0,
+                "isfamily": 0
+            },
+            "dates": {
+                "posted": "1249327873",
+                "taken": "2009-06-26 15:55:40",
+                "takengranularity": 0,
+                "takenunknown": 0,
+                "lastupdate": "1421776026"
+            },
+            "views": "2210",
+            "editability": {
+                "cancomment": 0,
+                "canaddmeta": 0
+            },
+            "publiceditability": {
+                "cancomment": 1,
+                "canaddmeta": 1
+            },
+            "usage": {
+                "candownload": 1,
+                "canblog": 0,
+                "canprint": 0,
+                "canshare": 1
+            },
+            "comments": {
+                "_content": "0"
+            },
+            "notes": {
+                "note": []
+            },
+            "people": {
+                "haspeople": 0
+            },
+            "tags": {
+                "tag": []
+            },
+            "urls": {
+                "url": [
+                    {
+                        "type": "photopage",
+                        "_content": "https://www.flickr.com/photos/cushinglibrary/3786288928/"
+                    }
+                ]
+            },
+            "media": "photo",
+            "descriptive_metadata": {
+                "Title": "The Methodist Church",
+                "Architect": "Raiford Stripling Associates Inc. Architects",
+                "Document Type": "Drawing",
+                "Format": "Pencil on Vellum",
+                "Physical Description": "71 x 50 cm",
+                "Digitization Date": "2009-06",
+                "Project Name": "Preliminary Plans for a District Supls. Residence &amp; Office for the Methodist Church",
+                "Building Location": "Please contact the Cushing Library for further information",
+                "Drawing Execution Date": "No Date",
+                "Descriptive Notes": "1 sheet of architectural drawing",
+                "Repository": "Cushing Memorial Library and Archives, Texas A&amp; M University, College Station, Texas",
+                "Repository Collection": "The Raiford Leak Stripling Architecture Collection",
+                "Order Number": "43/4",
+                "Inventory Correspondence": "2-10",
+                "Contact Information": "Email: <a href=\"mailto:cushing-library@tamu.edu\" rel=\"noreferrer nofollow\">cushing-library@tamu.edu</a>   Phone: 979-845-1951",
+                "Copyright": "It is the users responsibility to secure permission from the copyright holders for publication of any materials. Permission must be obtained in writing prior to publication. Please contact the Cushing Memorial Library for further information."
+            }
+        },
+        "stat": "ok"
+    },
+    "exif": {
+        "photo": {
+            "id": "3786288928",
+            "secret": "4d5f7e87fd",
+            "server": "2454",
+            "farm": 3,
+            "camera": "",
+            "exif": [
+                {
+                    "tagspace": "JFIF",
+                    "tagspaceid": 0,
+                    "tag": "JFIFVersion",
+                    "label": "JFIFVersion",
+                    "raw": {
+                        "_content": "1.02"
+                    }
+                },
+                {
+                    "tagspace": "JFIF",
+                    "tagspaceid": 0,
+                    "tag": "ResolutionUnit",
+                    "label": "Resolution Unit",
+                    "raw": {
+                        "_content": "inches"
+                    }
+                },
+                {
+                    "tagspace": "JFIF",
+                    "tagspaceid": 0,
+                    "tag": "XResolution",
+                    "label": "X-Resolution",
+                    "raw": {
+                        "_content": "600"
+                    },
+                    "clean": {
+                        "_content": "600 dpi"
+                    }
+                },
+                {
+                    "tagspace": "JFIF",
+                    "tagspaceid": 0,
+                    "tag": "YResolution",
+                    "label": "Y-Resolution",
+                    "raw": {
+                        "_content": "600"
+                    },
+                    "clean": {
+                        "_content": "600 dpi"
+                    }
+                },
+                {
+                    "tagspace": "Photoshop",
+                    "tagspaceid": 0,
+                    "tag": "CopyrightFlag",
+                    "label": "Copyright Flag",
+                    "raw": {
+                        "_content": "False"
+                    }
+                },
+                {
+                    "tagspace": "Photoshop",
+                    "tagspaceid": 0,
+                    "tag": "GlobalAngle",
+                    "label": "Global Angle",
+                    "raw": {
+                        "_content": "120"
+                    }
+                },
+                {
+                    "tagspace": "Photoshop",
+                    "tagspaceid": 0,
+                    "tag": "GlobalAltitude",
+                    "label": "Global Altitude",
+                    "raw": {
+                        "_content": "30"
+                    }
+                },
+                {
+                    "tagspace": "Photoshop",
+                    "tagspaceid": 0,
+                    "tag": "IPTCDigest",
+                    "label": "IPTCDigest",
+                    "raw": {
+                        "_content": "00000000000000000000000000000000"
+                    }
+                }
+            ]
+        },
+        "stat": "ok"
+    },
+    "comments": {
+        "comments": {
+            "photo_id": "3786288928"
+        },
+        "stat": "ok"
+    },
+    "sizes": {
+        "sizes": {
+            "canblog": 0,
+            "canprint": 0,
+            "candownload": 1,
+            "size": [
+                {
+                    "label": "Square",
+                    "width": 75,
+                    "height": 75,
+                    "source": "https://live.staticflickr.com/2454/3786288928_4d5f7e87fd_s.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3786288928/sizes/sq/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Large Square",
+                    "width": 150,
+                    "height": 150,
+                    "source": "https://live.staticflickr.com/2454/3786288928_4d5f7e87fd_q.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3786288928/sizes/q/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Thumbnail",
+                    "width": 79,
+                    "height": 100,
+                    "source": "https://live.staticflickr.com/2454/3786288928_4d5f7e87fd_t.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3786288928/sizes/t/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Small",
+                    "width": 190,
+                    "height": 240,
+                    "source": "https://live.staticflickr.com/2454/3786288928_4d5f7e87fd_m.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3786288928/sizes/s/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Small 320",
+                    "width": 254,
+                    "height": 320,
+                    "source": "https://live.staticflickr.com/2454/3786288928_4d5f7e87fd_n.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3786288928/sizes/n/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Small 400",
+                    "width": 317,
+                    "height": 400,
+                    "source": "https://live.staticflickr.com/2454/3786288928_4d5f7e87fd_w.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3786288928/sizes/w/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Medium",
+                    "width": 397,
+                    "height": 500,
+                    "source": "https://live.staticflickr.com/2454/3786288928_4d5f7e87fd.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3786288928/sizes/m/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Medium 640",
+                    "width": 508,
+                    "height": 640,
+                    "source": "https://live.staticflickr.com/2454/3786288928_4d5f7e87fd_z.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3786288928/sizes/z/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Medium 800",
+                    "width": 635,
+                    "height": 800,
+                    "source": "https://live.staticflickr.com/2454/3786288928_4d5f7e87fd_c.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3786288928/sizes/c/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Large",
+                    "width": 812,
+                    "height": 1024,
+                    "source": "https://live.staticflickr.com/2454/3786288928_4d5f7e87fd_b.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3786288928/sizes/l/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Large 1600",
+                    "width": 1200,
+                    "height": 1513,
+                    "source": "https://live.staticflickr.com/2454/3786288928_46f568477d_h.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3786288928/sizes/h/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Original",
+                    "width": 1200,
+                    "height": 1513,
+                    "source": "https://live.staticflickr.com/2454/3786288928_fc4766ce48_o.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3786288928/sizes/o/",
+                    "media": "photo"
+                }
+            ]
+        },
+        "stat": "ok"
+    }
+}

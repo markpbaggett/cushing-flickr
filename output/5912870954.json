@@ -1,0 +1,260 @@
+{
+    "metadata": {
+        "photo": {
+            "id": "5912870954",
+            "secret": "f15b440d60",
+            "server": "5232",
+            "farm": 6,
+            "dateuploaded": "1310058110",
+            "isfavorite": 0,
+            "license": "3",
+            "safety_level": "0",
+            "rotation": 0,
+            "originalsecret": "e1ff941d96",
+            "originalformat": "jpg",
+            "owner": {
+                "nsid": "29072716@N04",
+                "username": "Cushing Memorial Library and Archives, Texas A&M",
+                "realname": "",
+                "location": "",
+                "iconserver": "3100",
+                "iconfarm": 4,
+                "path_alias": "cushinglibrary",
+                "gift": {
+                    "gift_eligible": true,
+                    "eligible_durations": [
+                        "year",
+                        "month",
+                        "week"
+                    ],
+                    "new_flow": true
+                }
+            },
+            "title": {
+                "_content": "Football - Individuals - 1970s - 454"
+            },
+            "description": {
+                "_content": "<b>Title: </b>Football - Individuals - 1970s - 454 \n<b>Digital Publisher: </b>Digital: Cushing Memorial Library and Archives, Texas A&amp;M University, College Station, Texas \n<b>Physical Publisher: </b>Physical: Cushing Memorial Library and Archives, Texas A&amp;M University \n<b>Photographer:</b> Unknown \n<b>Description:</b> Richard Osborn; photograph date: ca. 1970; Athletics: Football - Individuals - 1970s \n<b>Date Issued:</b> 2005-06-30 \n<b>Dimensions: </b>3.163 x 4.725 inches \n<b>Type: </b>image \n<b>Identifier:</b> Photograph Location: Football: Individuals(1970s) - 26; Reference Number: 2341 \n<b>Rights: </b>It is the users responsibility to secure permission from the copyright holders for publication of any materials. Permission must be obtained in writing prior to publication. Please contact the Cushing Memorial Library for further information \n"
+            },
+            "visibility": {
+                "ispublic": 1,
+                "isfriend": 0,
+                "isfamily": 0
+            },
+            "dates": {
+                "posted": "1310058110",
+                "taken": "2011-07-07 10:01:50",
+                "takengranularity": 0,
+                "takenunknown": 0,
+                "lastupdate": "1421776606"
+            },
+            "views": "2264",
+            "editability": {
+                "cancomment": 0,
+                "canaddmeta": 0
+            },
+            "publiceditability": {
+                "cancomment": 1,
+                "canaddmeta": 1
+            },
+            "usage": {
+                "candownload": 1,
+                "canblog": 0,
+                "canprint": 0,
+                "canshare": 1
+            },
+            "comments": {
+                "_content": "0"
+            },
+            "notes": {
+                "note": []
+            },
+            "people": {
+                "haspeople": 0
+            },
+            "tags": {
+                "tag": []
+            },
+            "urls": {
+                "url": [
+                    {
+                        "type": "photopage",
+                        "_content": "https://www.flickr.com/photos/cushinglibrary/5912870954/"
+                    }
+                ]
+            },
+            "media": "photo",
+            "descriptive_metadata": {
+                "Title": "Football - Individuals - 1970s - 454",
+                "Digital Publisher": "Digital: Cushing Memorial Library and Archives, Texas A&amp;M University, College Station, Texas",
+                "Physical Publisher": "Physical: Cushing Memorial Library and Archives, Texas A&amp;M University",
+                "Photographer": "Unknown",
+                "Description": "Richard Osborn; photograph date: ca. 1970; Athletics: Football - Individuals - 1970s",
+                "Date Issued": "2005-06-30",
+                "Dimensions": "3.163 x 4.725 inches",
+                "Type": "image",
+                "Identifier": "Photograph Location: Football: Individuals(1970s) - 26; Reference Number: 2341",
+                "Rights": "It is the users responsibility to secure permission from the copyright holders for publication of any materials. Permission must be obtained in writing prior to publication. Please contact the Cushing Memorial Library for further information"
+            }
+        },
+        "stat": "ok"
+    },
+    "exif": {
+        "photo": {
+            "id": "5912870954",
+            "secret": "f15b440d60",
+            "server": "5232",
+            "farm": 6,
+            "camera": "",
+            "exif": [
+                {
+                    "tagspace": "JFIF",
+                    "tagspaceid": 0,
+                    "tag": "JFIFVersion",
+                    "label": "JFIFVersion",
+                    "raw": {
+                        "_content": "1.02"
+                    }
+                },
+                {
+                    "tagspace": "JFIF",
+                    "tagspaceid": 0,
+                    "tag": "ResolutionUnit",
+                    "label": "Resolution Unit",
+                    "raw": {
+                        "_content": "inches"
+                    }
+                },
+                {
+                    "tagspace": "JFIF",
+                    "tagspaceid": 0,
+                    "tag": "XResolution",
+                    "label": "X-Resolution",
+                    "raw": {
+                        "_content": "400"
+                    },
+                    "clean": {
+                        "_content": "400 dpi"
+                    }
+                },
+                {
+                    "tagspace": "JFIF",
+                    "tagspaceid": 0,
+                    "tag": "YResolution",
+                    "label": "Y-Resolution",
+                    "raw": {
+                        "_content": "400"
+                    },
+                    "clean": {
+                        "_content": "400 dpi"
+                    }
+                }
+            ]
+        },
+        "stat": "ok"
+    },
+    "comments": {
+        "comments": {
+            "photo_id": "5912870954"
+        },
+        "stat": "ok"
+    },
+    "sizes": {
+        "sizes": {
+            "canblog": 0,
+            "canprint": 0,
+            "candownload": 1,
+            "size": [
+                {
+                    "label": "Square",
+                    "width": 75,
+                    "height": 75,
+                    "source": "https://live.staticflickr.com/5232/5912870954_f15b440d60_s.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/5912870954/sizes/sq/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Large Square",
+                    "width": 150,
+                    "height": 150,
+                    "source": "https://live.staticflickr.com/5232/5912870954_f15b440d60_q.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/5912870954/sizes/q/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Thumbnail",
+                    "width": 67,
+                    "height": 100,
+                    "source": "https://live.staticflickr.com/5232/5912870954_f15b440d60_t.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/5912870954/sizes/t/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Small",
+                    "width": 161,
+                    "height": 240,
+                    "source": "https://live.staticflickr.com/5232/5912870954_f15b440d60_m.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/5912870954/sizes/s/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Small 320",
+                    "width": 214,
+                    "height": 320,
+                    "source": "https://live.staticflickr.com/5232/5912870954_f15b440d60_n.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/5912870954/sizes/n/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Small 400",
+                    "width": 268,
+                    "height": 400,
+                    "source": "https://live.staticflickr.com/5232/5912870954_f15b440d60_w.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/5912870954/sizes/w/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Medium",
+                    "width": 334,
+                    "height": 500,
+                    "source": "https://live.staticflickr.com/5232/5912870954_f15b440d60.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/5912870954/sizes/m/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Medium 640",
+                    "width": 428,
+                    "height": 640,
+                    "source": "https://live.staticflickr.com/5232/5912870954_f15b440d60_z.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/5912870954/sizes/z/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Medium 800",
+                    "width": 535,
+                    "height": 800,
+                    "source": "https://live.staticflickr.com/5232/5912870954_f15b440d60_c.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/5912870954/sizes/c/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Large",
+                    "width": 685,
+                    "height": 1024,
+                    "source": "https://live.staticflickr.com/5232/5912870954_f15b440d60_b.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/5912870954/sizes/l/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Original",
+                    "width": 685,
+                    "height": 1024,
+                    "source": "https://live.staticflickr.com/5232/5912870954_e1ff941d96_o.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/5912870954/sizes/o/",
+                    "media": "photo"
+                }
+            ]
+        },
+        "stat": "ok"
+    }
+}

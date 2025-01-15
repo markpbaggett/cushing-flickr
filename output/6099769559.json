@@ -1,0 +1,260 @@
+{
+    "metadata": {
+        "photo": {
+            "id": "6099769559",
+            "secret": "6ecc2414b5",
+            "server": "6187",
+            "farm": 7,
+            "dateuploaded": "1314803726",
+            "isfavorite": 0,
+            "license": "3",
+            "safety_level": "0",
+            "rotation": 0,
+            "originalsecret": "d51eefac7b",
+            "originalformat": "jpg",
+            "owner": {
+                "nsid": "29072716@N04",
+                "username": "Cushing Memorial Library and Archives, Texas A&M",
+                "realname": "",
+                "location": "",
+                "iconserver": "3100",
+                "iconfarm": 4,
+                "path_alias": "cushinglibrary",
+                "gift": {
+                    "gift_eligible": true,
+                    "eligible_durations": [
+                        "year",
+                        "month",
+                        "week"
+                    ],
+                    "new_flow": true
+                }
+            },
+            "title": {
+                "_content": "Miscellaneous Groups - 7"
+            },
+            "description": {
+                "_content": "<b>Title: </b>Miscellaneous Groups - 7 \n<b>Digital Publisher: </b>Digital: Cushing Memorial Library and Archives, Texas A&amp;M University, College Station, Texas \n<b>Physical Publisher: </b>Physical: Cushing Memorial Library and Archives, Texas A&amp;M University \n<b>Description:</b> Former Students: General Groups \n<b>Date Issued:</b> 2006-09-15 \n<b>Date Created:</b> 1949 \n<b>Dimensions: </b>8 x 10 inches \n<b>Type: </b>image \n<b>Identifier:</b> Photograph Location: Former Students: General Groups - 007; Reference Number: 8538 \n<b>Rights: </b>It is the users responsibility to secure permission from the copyright holders for publication of any materials. Permission must be obtained in writing prior to publication. Please contact the Cushing Memorial Library for further information \n"
+            },
+            "visibility": {
+                "ispublic": 1,
+                "isfriend": 0,
+                "isfamily": 0
+            },
+            "dates": {
+                "posted": "1314803726",
+                "taken": "2011-08-31 08:15:26",
+                "takengranularity": 0,
+                "takenunknown": 0,
+                "lastupdate": "1421776608"
+            },
+            "views": "1119",
+            "editability": {
+                "cancomment": 0,
+                "canaddmeta": 0
+            },
+            "publiceditability": {
+                "cancomment": 1,
+                "canaddmeta": 1
+            },
+            "usage": {
+                "candownload": 1,
+                "canblog": 0,
+                "canprint": 0,
+                "canshare": 1
+            },
+            "comments": {
+                "_content": "0"
+            },
+            "notes": {
+                "note": []
+            },
+            "people": {
+                "haspeople": 0
+            },
+            "tags": {
+                "tag": []
+            },
+            "urls": {
+                "url": [
+                    {
+                        "type": "photopage",
+                        "_content": "https://www.flickr.com/photos/cushinglibrary/6099769559/"
+                    }
+                ]
+            },
+            "media": "photo",
+            "descriptive_metadata": {
+                "Title": "Miscellaneous Groups - 7",
+                "Digital Publisher": "Digital: Cushing Memorial Library and Archives, Texas A&amp;M University, College Station, Texas",
+                "Physical Publisher": "Physical: Cushing Memorial Library and Archives, Texas A&amp;M University",
+                "Description": "Former Students: General Groups",
+                "Date Issued": "2006-09-15",
+                "Date Created": "1949",
+                "Dimensions": "8 x 10 inches",
+                "Type": "image",
+                "Identifier": "Photograph Location: Former Students: General Groups - 007; Reference Number: 8538",
+                "Rights": "It is the users responsibility to secure permission from the copyright holders for publication of any materials. Permission must be obtained in writing prior to publication. Please contact the Cushing Memorial Library for further information"
+            }
+        },
+        "stat": "ok"
+    },
+    "exif": {
+        "photo": {
+            "id": "6099769559",
+            "secret": "6ecc2414b5",
+            "server": "6187",
+            "farm": 7,
+            "camera": "",
+            "exif": [
+                {
+                    "tagspace": "JFIF",
+                    "tagspaceid": 0,
+                    "tag": "JFIFVersion",
+                    "label": "JFIFVersion",
+                    "raw": {
+                        "_content": "1.02"
+                    }
+                },
+                {
+                    "tagspace": "JFIF",
+                    "tagspaceid": 0,
+                    "tag": "ResolutionUnit",
+                    "label": "Resolution Unit",
+                    "raw": {
+                        "_content": "inches"
+                    }
+                },
+                {
+                    "tagspace": "JFIF",
+                    "tagspaceid": 0,
+                    "tag": "XResolution",
+                    "label": "X-Resolution",
+                    "raw": {
+                        "_content": "400"
+                    },
+                    "clean": {
+                        "_content": "400 dpi"
+                    }
+                },
+                {
+                    "tagspace": "JFIF",
+                    "tagspaceid": 0,
+                    "tag": "YResolution",
+                    "label": "Y-Resolution",
+                    "raw": {
+                        "_content": "400"
+                    },
+                    "clean": {
+                        "_content": "400 dpi"
+                    }
+                }
+            ]
+        },
+        "stat": "ok"
+    },
+    "comments": {
+        "comments": {
+            "photo_id": "6099769559"
+        },
+        "stat": "ok"
+    },
+    "sizes": {
+        "sizes": {
+            "canblog": 0,
+            "canprint": 0,
+            "candownload": 1,
+            "size": [
+                {
+                    "label": "Square",
+                    "width": 75,
+                    "height": 75,
+                    "source": "https://live.staticflickr.com/6187/6099769559_6ecc2414b5_s.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/6099769559/sizes/sq/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Large Square",
+                    "width": 150,
+                    "height": 150,
+                    "source": "https://live.staticflickr.com/6187/6099769559_6ecc2414b5_q.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/6099769559/sizes/q/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Thumbnail",
+                    "width": 100,
+                    "height": 81,
+                    "source": "https://live.staticflickr.com/6187/6099769559_6ecc2414b5_t.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/6099769559/sizes/t/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Small",
+                    "width": 240,
+                    "height": 195,
+                    "source": "https://live.staticflickr.com/6187/6099769559_6ecc2414b5_m.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/6099769559/sizes/s/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Small 320",
+                    "width": 320,
+                    "height": 261,
+                    "source": "https://live.staticflickr.com/6187/6099769559_6ecc2414b5_n.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/6099769559/sizes/n/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Small 400",
+                    "width": 400,
+                    "height": 326,
+                    "source": "https://live.staticflickr.com/6187/6099769559_6ecc2414b5_w.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/6099769559/sizes/w/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Medium",
+                    "width": 500,
+                    "height": 407,
+                    "source": "https://live.staticflickr.com/6187/6099769559_6ecc2414b5.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/6099769559/sizes/m/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Medium 640",
+                    "width": 640,
+                    "height": 521,
+                    "source": "https://live.staticflickr.com/6187/6099769559_6ecc2414b5_z.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/6099769559/sizes/z/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Medium 800",
+                    "width": 800,
+                    "height": 652,
+                    "source": "https://live.staticflickr.com/6187/6099769559_6ecc2414b5_c.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/6099769559/sizes/c/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Large",
+                    "width": 1024,
+                    "height": 834,
+                    "source": "https://live.staticflickr.com/6187/6099769559_6ecc2414b5_b.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/6099769559/sizes/l/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Original",
+                    "width": 1024,
+                    "height": 834,
+                    "source": "https://live.staticflickr.com/6187/6099769559_d51eefac7b_o.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/6099769559/sizes/o/",
+                    "media": "photo"
+                }
+            ]
+        },
+        "stat": "ok"
+    }
+}

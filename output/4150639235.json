@@ -1,0 +1,259 @@
+{
+    "metadata": {
+        "photo": {
+            "id": "4150639235",
+            "secret": "8115d02fa0",
+            "server": "2694",
+            "farm": 3,
+            "dateuploaded": "1259703766",
+            "isfavorite": 0,
+            "license": "3",
+            "safety_level": "0",
+            "rotation": 0,
+            "originalsecret": "bd85b2abc9",
+            "originalformat": "jpg",
+            "owner": {
+                "nsid": "29072716@N04",
+                "username": "Cushing Memorial Library and Archives, Texas A&M",
+                "realname": "",
+                "location": "",
+                "iconserver": "3100",
+                "iconfarm": 4,
+                "path_alias": "cushinglibrary",
+                "gift": {
+                    "gift_eligible": true,
+                    "eligible_durations": [
+                        "year",
+                        "month",
+                        "week"
+                    ],
+                    "new_flow": true
+                }
+            },
+            "title": {
+                "_content": "Kyle Field - 92"
+            },
+            "description": {
+                "_content": "<b>Title: </b>Kyle Field - 92 \n<b>Digital Publisher: </b>Digital: Cushing Memorial Library and Archives, Texas A&amp;M University, College Station, Texas \n<b>Physical Publisher: </b>Physical: Cushing Memorial Library and Archives, Texas A&amp;M University \n<b>Description:</b> photograph date: Unknow; Kyle Field \n<b>Date Issued:</b> 2009-10 \n<b>Format Medium: </b>2x4 \n<b>Type: </b>image \n<b>Identifier:</b> Photograph Location: Kyle Field-49 \n<b>Rights: </b>It is the users responsibility to secure permission from the copyright holders for publication of any materials. Permission must be obtained in writing prior to publication. Please contact the Cushing Memorial Library for further information \n"
+            },
+            "visibility": {
+                "ispublic": 1,
+                "isfriend": 0,
+                "isfamily": 0
+            },
+            "dates": {
+                "posted": "1259703766",
+                "taken": "2009-12-01 13:42:46",
+                "takengranularity": 0,
+                "takenunknown": 0,
+                "lastupdate": "1446981764"
+            },
+            "views": "1973",
+            "editability": {
+                "cancomment": 0,
+                "canaddmeta": 0
+            },
+            "publiceditability": {
+                "cancomment": 1,
+                "canaddmeta": 1
+            },
+            "usage": {
+                "candownload": 1,
+                "canblog": 0,
+                "canprint": 0,
+                "canshare": 1
+            },
+            "comments": {
+                "_content": "0"
+            },
+            "notes": {
+                "note": []
+            },
+            "people": {
+                "haspeople": 0
+            },
+            "tags": {
+                "tag": []
+            },
+            "urls": {
+                "url": [
+                    {
+                        "type": "photopage",
+                        "_content": "https://www.flickr.com/photos/cushinglibrary/4150639235/"
+                    }
+                ]
+            },
+            "media": "photo",
+            "descriptive_metadata": {
+                "Title": "Kyle Field - 92",
+                "Digital Publisher": "Digital: Cushing Memorial Library and Archives, Texas A&amp;M University, College Station, Texas",
+                "Physical Publisher": "Physical: Cushing Memorial Library and Archives, Texas A&amp;M University",
+                "Description": "photograph date: Unknow; Kyle Field",
+                "Date Issued": "2009-10",
+                "Format Medium": "2x4",
+                "Type": "image",
+                "Identifier": "Photograph Location: Kyle Field-49",
+                "Rights": "It is the users responsibility to secure permission from the copyright holders for publication of any materials. Permission must be obtained in writing prior to publication. Please contact the Cushing Memorial Library for further information"
+            }
+        },
+        "stat": "ok"
+    },
+    "exif": {
+        "photo": {
+            "id": "4150639235",
+            "secret": "8115d02fa0",
+            "server": "2694",
+            "farm": 3,
+            "camera": "",
+            "exif": [
+                {
+                    "tagspace": "JFIF",
+                    "tagspaceid": 0,
+                    "tag": "JFIFVersion",
+                    "label": "JFIFVersion",
+                    "raw": {
+                        "_content": "1.02"
+                    }
+                },
+                {
+                    "tagspace": "JFIF",
+                    "tagspaceid": 0,
+                    "tag": "ResolutionUnit",
+                    "label": "Resolution Unit",
+                    "raw": {
+                        "_content": "inches"
+                    }
+                },
+                {
+                    "tagspace": "JFIF",
+                    "tagspaceid": 0,
+                    "tag": "XResolution",
+                    "label": "X-Resolution",
+                    "raw": {
+                        "_content": "300"
+                    },
+                    "clean": {
+                        "_content": "300 dpi"
+                    }
+                },
+                {
+                    "tagspace": "JFIF",
+                    "tagspaceid": 0,
+                    "tag": "YResolution",
+                    "label": "Y-Resolution",
+                    "raw": {
+                        "_content": "300"
+                    },
+                    "clean": {
+                        "_content": "300 dpi"
+                    }
+                }
+            ]
+        },
+        "stat": "ok"
+    },
+    "comments": {
+        "comments": {
+            "photo_id": "4150639235"
+        },
+        "stat": "ok"
+    },
+    "sizes": {
+        "sizes": {
+            "canblog": 0,
+            "canprint": 0,
+            "candownload": 1,
+            "size": [
+                {
+                    "label": "Square",
+                    "width": 75,
+                    "height": 75,
+                    "source": "https://live.staticflickr.com/2694/4150639235_8115d02fa0_s.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/4150639235/sizes/sq/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Large Square",
+                    "width": 150,
+                    "height": 150,
+                    "source": "https://live.staticflickr.com/2694/4150639235_8115d02fa0_q.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/4150639235/sizes/q/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Thumbnail",
+                    "width": 100,
+                    "height": 64,
+                    "source": "https://live.staticflickr.com/2694/4150639235_8115d02fa0_t.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/4150639235/sizes/t/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Small",
+                    "width": 240,
+                    "height": 154,
+                    "source": "https://live.staticflickr.com/2694/4150639235_8115d02fa0_m.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/4150639235/sizes/s/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Small 320",
+                    "width": 320,
+                    "height": 206,
+                    "source": "https://live.staticflickr.com/2694/4150639235_8115d02fa0_n.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/4150639235/sizes/n/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Small 400",
+                    "width": 400,
+                    "height": 257,
+                    "source": "https://live.staticflickr.com/2694/4150639235_8115d02fa0_w.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/4150639235/sizes/w/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Medium",
+                    "width": 500,
+                    "height": 321,
+                    "source": "https://live.staticflickr.com/2694/4150639235_8115d02fa0.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/4150639235/sizes/m/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Medium 640",
+                    "width": 640,
+                    "height": 411,
+                    "source": "https://live.staticflickr.com/2694/4150639235_8115d02fa0_z.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/4150639235/sizes/z/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Medium 800",
+                    "width": 800,
+                    "height": 514,
+                    "source": "https://live.staticflickr.com/2694/4150639235_8115d02fa0_c.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/4150639235/sizes/c/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Large",
+                    "width": 1024,
+                    "height": 658,
+                    "source": "https://live.staticflickr.com/2694/4150639235_8115d02fa0_b.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/4150639235/sizes/l/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Original",
+                    "width": 1254,
+                    "height": 806,
+                    "source": "https://live.staticflickr.com/2694/4150639235_bd85b2abc9_o.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/4150639235/sizes/o/",
+                    "media": "photo"
+                }
+            ]
+        },
+        "stat": "ok"
+    }
+}

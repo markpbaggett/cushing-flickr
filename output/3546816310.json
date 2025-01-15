@@ -1,0 +1,291 @@
+{
+    "metadata": {
+        "photo": {
+            "id": "3546816310",
+            "secret": "b96214779b",
+            "server": "3319",
+            "farm": 4,
+            "dateuploaded": "1242760609",
+            "isfavorite": 0,
+            "license": "3",
+            "safety_level": "0",
+            "rotation": 0,
+            "originalsecret": "fb54a52369",
+            "originalformat": "jpg",
+            "owner": {
+                "nsid": "29072716@N04",
+                "username": "Cushing Memorial Library and Archives, Texas A&M",
+                "realname": "",
+                "location": "",
+                "iconserver": "3100",
+                "iconfarm": 4,
+                "path_alias": "cushinglibrary",
+                "gift": {
+                    "gift_eligible": true,
+                    "eligible_durations": [
+                        "year",
+                        "month",
+                        "week"
+                    ],
+                    "new_flow": true
+                }
+            },
+            "title": {
+                "_content": "Outfits - Company E - 31"
+            },
+            "description": {
+                "_content": "<b>Title: </b>Outfits - Company E - 31 \n<b>Digital Publisher: </b>Digital: Cushing Memorial Library and Archives, Texas A&amp;M University, College Station, Texas \n<b>Physical Publisher: </b>Physical: Cushing Memorial Library and Archives, Texas A&amp;M University \n<b>Description:</b> Corps of Cadets: Outfits - Company E \n<b>Date Issued:</b> 2006 \n<b>Date Created:</b> 1983 \n<b>Dimensions: </b>8 x 10 inches \n<b>Type: </b>image \n<b>Identifier:</b> Photograph Location: Pictures: COC - Outfits - Company E-2 Officers - ; Reference Number: 6928 \n<b>Rights: </b>It is the users responsibility to secure permission from the copyright holders for publication of any materials. Permission must be obtained in writing prior to publication. Please contact the Cushing Memorial Library for further information \n"
+            },
+            "visibility": {
+                "ispublic": 1,
+                "isfriend": 0,
+                "isfamily": 0
+            },
+            "dates": {
+                "posted": "1242760609",
+                "taken": "2009-05-19 12:16:49",
+                "takengranularity": 0,
+                "takenunknown": 0,
+                "lastupdate": "1529968080"
+            },
+            "views": "916",
+            "editability": {
+                "cancomment": 0,
+                "canaddmeta": 0
+            },
+            "publiceditability": {
+                "cancomment": 1,
+                "canaddmeta": 1
+            },
+            "usage": {
+                "candownload": 1,
+                "canblog": 0,
+                "canprint": 0,
+                "canshare": 1
+            },
+            "comments": {
+                "_content": "1"
+            },
+            "notes": {
+                "note": []
+            },
+            "people": {
+                "haspeople": 0
+            },
+            "tags": {
+                "tag": []
+            },
+            "urls": {
+                "url": [
+                    {
+                        "type": "photopage",
+                        "_content": "https://www.flickr.com/photos/cushinglibrary/3546816310/"
+                    }
+                ]
+            },
+            "media": "photo",
+            "descriptive_metadata": {
+                "Title": "Outfits - Company E - 31",
+                "Digital Publisher": "Digital: Cushing Memorial Library and Archives, Texas A&amp;M University, College Station, Texas",
+                "Physical Publisher": "Physical: Cushing Memorial Library and Archives, Texas A&amp;M University",
+                "Description": "Corps of Cadets: Outfits - Company E",
+                "Date Issued": "2006",
+                "Date Created": "1983",
+                "Dimensions": "8 x 10 inches",
+                "Type": "image",
+                "Identifier": "Photograph Location: Pictures: COC - Outfits - Company E-2 Officers - ; Reference Number: 6928",
+                "Rights": "It is the users responsibility to secure permission from the copyright holders for publication of any materials. Permission must be obtained in writing prior to publication. Please contact the Cushing Memorial Library for further information"
+            }
+        },
+        "stat": "ok"
+    },
+    "exif": {
+        "photo": {
+            "id": "3546816310",
+            "secret": "b96214779b",
+            "server": "3319",
+            "farm": 4,
+            "camera": "",
+            "exif": [
+                {
+                    "tagspace": "JFIF",
+                    "tagspaceid": 0,
+                    "tag": "JFIFVersion",
+                    "label": "JFIFVersion",
+                    "raw": {
+                        "_content": "1.02"
+                    }
+                },
+                {
+                    "tagspace": "JFIF",
+                    "tagspaceid": 0,
+                    "tag": "ResolutionUnit",
+                    "label": "Resolution Unit",
+                    "raw": {
+                        "_content": "inches"
+                    }
+                },
+                {
+                    "tagspace": "JFIF",
+                    "tagspaceid": 0,
+                    "tag": "XResolution",
+                    "label": "X-Resolution",
+                    "raw": {
+                        "_content": "400"
+                    },
+                    "clean": {
+                        "_content": "400 dpi"
+                    }
+                },
+                {
+                    "tagspace": "JFIF",
+                    "tagspaceid": 0,
+                    "tag": "YResolution",
+                    "label": "Y-Resolution",
+                    "raw": {
+                        "_content": "400"
+                    },
+                    "clean": {
+                        "_content": "400 dpi"
+                    }
+                }
+            ]
+        },
+        "stat": "ok"
+    },
+    "comments": {
+        "comments": {
+            "photo_id": "3546816310",
+            "comment": [
+                {
+                    "id": "29040577-3546816310-72157626737981269",
+                    "author": "12219654@N03",
+                    "author_is_deleted": 0,
+                    "authorname": "rwtxag83",
+                    "iconserver": "0",
+                    "iconfarm": 0,
+                    "datecreate": "1306956734",
+                    "permalink": "https://www.flickr.com/photos/cushinglibrary/3546816310/#comment72157626737981269",
+                    "path_alias": null,
+                    "realname": "",
+                    "_content": "Spring of 1983. CO Ian McClellan  XO Tony Diaz  Ist Sgt John Braunschweig"
+                }
+            ]
+        },
+        "stat": "ok"
+    },
+    "sizes": {
+        "sizes": {
+            "canblog": 0,
+            "canprint": 0,
+            "candownload": 1,
+            "size": [
+                {
+                    "label": "Square",
+                    "width": 75,
+                    "height": 75,
+                    "source": "https://live.staticflickr.com/3319/3546816310_b96214779b_s.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3546816310/sizes/sq/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Large Square",
+                    "width": 150,
+                    "height": 150,
+                    "source": "https://live.staticflickr.com/3319/3546816310_b96214779b_q.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3546816310/sizes/q/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Thumbnail",
+                    "width": 81,
+                    "height": 100,
+                    "source": "https://live.staticflickr.com/3319/3546816310_b96214779b_t.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3546816310/sizes/t/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Small",
+                    "width": 194,
+                    "height": 240,
+                    "source": "https://live.staticflickr.com/3319/3546816310_b96214779b_m.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3546816310/sizes/s/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Small 320",
+                    "width": 258,
+                    "height": 320,
+                    "source": "https://live.staticflickr.com/3319/3546816310_b96214779b_n.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3546816310/sizes/n/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Small 400",
+                    "width": 323,
+                    "height": 400,
+                    "source": "https://live.staticflickr.com/3319/3546816310_b96214779b_w.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3546816310/sizes/w/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Medium",
+                    "width": 404,
+                    "height": 500,
+                    "source": "https://live.staticflickr.com/3319/3546816310_b96214779b.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3546816310/sizes/m/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Medium 640",
+                    "width": 517,
+                    "height": 640,
+                    "source": "https://live.staticflickr.com/3319/3546816310_b96214779b_z.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3546816310/sizes/z/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Medium 800",
+                    "width": 646,
+                    "height": 800,
+                    "source": "https://live.staticflickr.com/3319/3546816310_b96214779b_c.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3546816310/sizes/c/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Large",
+                    "width": 827,
+                    "height": 1024,
+                    "source": "https://live.staticflickr.com/3319/3546816310_b96214779b_b.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3546816310/sizes/l/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Large 1600",
+                    "width": 1292,
+                    "height": 1600,
+                    "source": "https://live.staticflickr.com/3319/3546816310_f3a0d49920_h.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3546816310/sizes/h/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Large 2048",
+                    "width": 1654,
+                    "height": 2048,
+                    "source": "https://live.staticflickr.com/3319/3546816310_474ddac0ec_k.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3546816310/sizes/k/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Original",
+                    "width": 3260,
+                    "height": 4037,
+                    "source": "https://live.staticflickr.com/3319/3546816310_fb54a52369_o.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3546816310/sizes/o/",
+                    "media": "photo"
+                }
+            ]
+        },
+        "stat": "ok"
+    }
+}

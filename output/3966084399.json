@@ -1,0 +1,283 @@
+{
+    "metadata": {
+        "photo": {
+            "id": "3966084399",
+            "secret": "6fe0463202",
+            "server": "2646",
+            "farm": 3,
+            "dateuploaded": "1254249479",
+            "isfavorite": 0,
+            "license": "3",
+            "safety_level": "0",
+            "rotation": 0,
+            "originalsecret": "8bdb56c594",
+            "originalformat": "jpg",
+            "owner": {
+                "nsid": "29072716@N04",
+                "username": "Cushing Memorial Library and Archives, Texas A&M",
+                "realname": "",
+                "location": "",
+                "iconserver": "3100",
+                "iconfarm": 4,
+                "path_alias": "cushinglibrary",
+                "gift": {
+                    "gift_eligible": true,
+                    "eligible_durations": [
+                        "year",
+                        "month",
+                        "week"
+                    ],
+                    "new_flow": true
+                }
+            },
+            "title": {
+                "_content": "Coast Artillery"
+            },
+            "description": {
+                "_content": "<b>Title: </b>Coast Artillery \n<b>Digital Publisher: </b>Digital: Cushing Memorial Library and Archives, Texas A&amp;M University, College Station, Texas \n<b>Physical Publisher: </b>Physical: Graphic Services, Texas A&amp;M University \n<b>Date Issued:</b> 2011-08-17 \n<b>Date Created:</b> 1949 \n<b>Dimensions: </b>4 x 5 inches \n<b>Format Medium: </b>Photographic negative \n<b>Type: </b>image \n<b>Identifier:</b> Photograph Location: Graphic Services Photos, Box 34, File 34-467 \n<b>Rights: </b>It is the users responsibility to secure permission from the copyright holders for publication of any materials. Permission must be obtained in writing prior to publication. Please contact the Cushing Memorial Library for further information \n"
+            },
+            "visibility": {
+                "ispublic": 1,
+                "isfriend": 0,
+                "isfamily": 0
+            },
+            "dates": {
+                "posted": "1254249479",
+                "taken": "2009-09-29 11:37:59",
+                "takengranularity": 0,
+                "takenunknown": 0,
+                "lastupdate": "1563162744"
+            },
+            "views": "1031",
+            "editability": {
+                "cancomment": 0,
+                "canaddmeta": 0
+            },
+            "publiceditability": {
+                "cancomment": 1,
+                "canaddmeta": 1
+            },
+            "usage": {
+                "candownload": 1,
+                "canblog": 0,
+                "canprint": 0,
+                "canshare": 1
+            },
+            "comments": {
+                "_content": "1"
+            },
+            "notes": {
+                "note": []
+            },
+            "people": {
+                "haspeople": 0
+            },
+            "tags": {
+                "tag": []
+            },
+            "urls": {
+                "url": [
+                    {
+                        "type": "photopage",
+                        "_content": "https://www.flickr.com/photos/cushinglibrary/3966084399/"
+                    }
+                ]
+            },
+            "media": "photo",
+            "descriptive_metadata": {
+                "Title": "Coast Artillery",
+                "Digital Publisher": "Digital: Cushing Memorial Library and Archives, Texas A&amp;M University, College Station, Texas",
+                "Physical Publisher": "Physical: Graphic Services, Texas A&amp;M University",
+                "Date Issued": "2011-08-17",
+                "Date Created": "1949",
+                "Dimensions": "4 x 5 inches",
+                "Format Medium": "Photographic negative",
+                "Type": "image",
+                "Identifier": "Photograph Location: Graphic Services Photos, Box 34, File 34-467",
+                "Rights": "It is the users responsibility to secure permission from the copyright holders for publication of any materials. Permission must be obtained in writing prior to publication. Please contact the Cushing Memorial Library for further information"
+            }
+        },
+        "stat": "ok"
+    },
+    "exif": {
+        "photo": {
+            "id": "3966084399",
+            "secret": "6fe0463202",
+            "server": "2646",
+            "farm": 3,
+            "camera": "",
+            "exif": [
+                {
+                    "tagspace": "JFIF",
+                    "tagspaceid": 0,
+                    "tag": "JFIFVersion",
+                    "label": "JFIFVersion",
+                    "raw": {
+                        "_content": "1.02"
+                    }
+                },
+                {
+                    "tagspace": "JFIF",
+                    "tagspaceid": 0,
+                    "tag": "ResolutionUnit",
+                    "label": "Resolution Unit",
+                    "raw": {
+                        "_content": "inches"
+                    }
+                },
+                {
+                    "tagspace": "JFIF",
+                    "tagspaceid": 0,
+                    "tag": "XResolution",
+                    "label": "X-Resolution",
+                    "raw": {
+                        "_content": "400"
+                    },
+                    "clean": {
+                        "_content": "400 dpi"
+                    }
+                },
+                {
+                    "tagspace": "JFIF",
+                    "tagspaceid": 0,
+                    "tag": "YResolution",
+                    "label": "Y-Resolution",
+                    "raw": {
+                        "_content": "400"
+                    },
+                    "clean": {
+                        "_content": "400 dpi"
+                    }
+                }
+            ]
+        },
+        "stat": "ok"
+    },
+    "comments": {
+        "comments": {
+            "photo_id": "3966084399",
+            "comment": [
+                {
+                    "id": "29040577-3966084399-72157709648070681",
+                    "author": "40120805@N03",
+                    "author_is_deleted": 0,
+                    "authorname": "rmlowry4",
+                    "iconserver": "0",
+                    "iconfarm": 0,
+                    "datecreate": "1563162744",
+                    "permalink": "https://www.flickr.com/photos/cushinglibrary/3966084399/#comment72157709648070681",
+                    "path_alias": null,
+                    "realname": "",
+                    "_content": "i believe this is before 1949 and may be during WW2. The Corps stopped wearing those Campaign Hats shortly after WW2, and by 1949 would have been wearing helmet-liners and green fatigues for field duty. Some of these are in the 1941 yearbook, so that is probably when this photo was taken.\nBob Lowry '71"
+                }
+            ]
+        },
+        "stat": "ok"
+    },
+    "sizes": {
+        "sizes": {
+            "canblog": 0,
+            "canprint": 0,
+            "candownload": 1,
+            "size": [
+                {
+                    "label": "Square",
+                    "width": 75,
+                    "height": 75,
+                    "source": "https://live.staticflickr.com/2646/3966084399_6fe0463202_s.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3966084399/sizes/sq/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Large Square",
+                    "width": 150,
+                    "height": 150,
+                    "source": "https://live.staticflickr.com/2646/3966084399_6fe0463202_q.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3966084399/sizes/q/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Thumbnail",
+                    "width": 77,
+                    "height": 100,
+                    "source": "https://live.staticflickr.com/2646/3966084399_6fe0463202_t.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3966084399/sizes/t/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Small",
+                    "width": 184,
+                    "height": 240,
+                    "source": "https://live.staticflickr.com/2646/3966084399_6fe0463202_m.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3966084399/sizes/s/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Small 320",
+                    "width": 246,
+                    "height": 320,
+                    "source": "https://live.staticflickr.com/2646/3966084399_6fe0463202_n.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3966084399/sizes/n/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Small 400",
+                    "width": 307,
+                    "height": 400,
+                    "source": "https://live.staticflickr.com/2646/3966084399_6fe0463202_w.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3966084399/sizes/w/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Medium",
+                    "width": 384,
+                    "height": 500,
+                    "source": "https://live.staticflickr.com/2646/3966084399_6fe0463202.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3966084399/sizes/m/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Medium 640",
+                    "width": 491,
+                    "height": 640,
+                    "source": "https://live.staticflickr.com/2646/3966084399_6fe0463202_z.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3966084399/sizes/z/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Medium 800",
+                    "width": 614,
+                    "height": 800,
+                    "source": "https://live.staticflickr.com/2646/3966084399_6fe0463202_c.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3966084399/sizes/c/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Large",
+                    "width": 786,
+                    "height": 1024,
+                    "source": "https://live.staticflickr.com/2646/3966084399_6fe0463202_b.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3966084399/sizes/l/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Large 1600",
+                    "width": 1229,
+                    "height": 1600,
+                    "source": "https://live.staticflickr.com/2646/3966084399_3b6d22c128_h.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3966084399/sizes/h/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Original",
+                    "width": 1400,
+                    "height": 1823,
+                    "source": "https://live.staticflickr.com/2646/3966084399_8bdb56c594_o.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3966084399/sizes/o/",
+                    "media": "photo"
+                }
+            ]
+        },
+        "stat": "ok"
+    }
+}

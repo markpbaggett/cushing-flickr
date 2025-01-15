@@ -1,0 +1,284 @@
+{
+    "metadata": {
+        "photo": {
+            "id": "3528166925",
+            "secret": "8a92414e75",
+            "server": "3659",
+            "farm": 4,
+            "dateuploaded": "1242235065",
+            "isfavorite": 0,
+            "license": "3",
+            "safety_level": "0",
+            "rotation": 0,
+            "originalsecret": "3bbd966d9d",
+            "originalformat": "jpg",
+            "owner": {
+                "nsid": "29072716@N04",
+                "username": "Cushing Memorial Library and Archives, Texas A&M",
+                "realname": "",
+                "location": "",
+                "iconserver": "3100",
+                "iconfarm": 4,
+                "path_alias": "cushinglibrary",
+                "gift": {
+                    "gift_eligible": true,
+                    "eligible_durations": [
+                        "year",
+                        "month",
+                        "week"
+                    ],
+                    "new_flow": true
+                }
+            },
+            "title": {
+                "_content": "The Rigsbury Dairy in Dickinson"
+            },
+            "description": {
+                "_content": "<b>Title:</b>  The Rigsbury Dairy in Dickinson\n\n<b>Creator (Photographer):</b>  Sloan\n\n<b>Publisher:</b>  Agricultural Communications Office of the Texas Agricultural Extension Service\n\n<b>Place of Publication:</b>   College Station, Texas\n\n<b>Year (Coverage):</b>  1948\n\n<b>Document Type:</b>  Image  \n\n<b>Format:</b>  Photographic negative\n\n<b>Dimensions:</b>   4 x 5  inches  \n\n<b>Digitization Date:</b>  May2009 \n\n<b>Description:</b>  African American woman standing in the kitchen, placing meat in the freezer. Additional photographs available.\n\n<b>Note:</b>    Galveston County, Texas\n\n<b>Collection:</b>    Texas A&amp;M University Archives   \n   \n<b>Resource Identifier:</b>   Agricultural Communications Collection, Box 1, File 1-129y\n\n<b>Institution:</b>  Texas A&amp;M University, College Station, Texas\n\n<b>Repository:</b>  Cushing Memorial Library and Archives     \n\n<b>Contact Information:</b>    Email: <a href=\"mailto:cushing-library@tamu.edu\" rel=\"noreferrer nofollow\">cushing-library@tamu.edu</a>   Phone: 979-845-1951    \n\n<b>Copyright:</b>  It is the users responsibility to secure permission from the copyright holders for publication of any materials. Permission must be obtained in writing prior to publication. Please contact the Cushing Memorial Library for further information\n"
+            },
+            "visibility": {
+                "ispublic": 1,
+                "isfriend": 0,
+                "isfamily": 0
+            },
+            "dates": {
+                "posted": "1242235065",
+                "taken": "2009-05-13 10:17:45",
+                "takengranularity": 0,
+                "takenunknown": 0,
+                "lastupdate": "1421775634"
+            },
+            "views": "770",
+            "editability": {
+                "cancomment": 0,
+                "canaddmeta": 0
+            },
+            "publiceditability": {
+                "cancomment": 1,
+                "canaddmeta": 1
+            },
+            "usage": {
+                "candownload": 1,
+                "canblog": 0,
+                "canprint": 0,
+                "canshare": 1
+            },
+            "comments": {
+                "_content": "0"
+            },
+            "notes": {
+                "note": []
+            },
+            "people": {
+                "haspeople": 0
+            },
+            "tags": {
+                "tag": []
+            },
+            "urls": {
+                "url": [
+                    {
+                        "type": "photopage",
+                        "_content": "https://www.flickr.com/photos/cushinglibrary/3528166925/"
+                    }
+                ]
+            },
+            "media": "photo",
+            "descriptive_metadata": {
+                "Title": "The Rigsbury Dairy in Dickinson",
+                "Creator (Photographer)": "Sloan",
+                "Publisher": "Agricultural Communications Office of the Texas Agricultural Extension Service",
+                "Place of Publication": "College Station, Texas",
+                "Year (Coverage)": "1948",
+                "Document Type": "Image",
+                "Format": "Photographic negative",
+                "Dimensions": "4 x 5  inches",
+                "Digitization Date": "May2009",
+                "Description": "African American woman standing in the kitchen, placing meat in the freezer. Additional photographs available.",
+                "Note": "Galveston County, Texas",
+                "Collection": "Texas A&amp;M University Archives",
+                "   ": "",
+                "Resource Identifier": "Agricultural Communications Collection, Box 1, File 1-129y",
+                "Institution": "Texas A&amp;M University, College Station, Texas",
+                "Repository": "Cushing Memorial Library and Archives",
+                "Contact Information": "Email: <a href=\"mailto:cushing-library@tamu.edu\" rel=\"noreferrer nofollow\">cushing-library@tamu.edu</a>   Phone: 979-845-1951",
+                "Copyright": "It is the users responsibility to secure permission from the copyright holders for publication of any materials. Permission must be obtained in writing prior to publication. Please contact the Cushing Memorial Library for further information"
+            }
+        },
+        "stat": "ok"
+    },
+    "exif": {
+        "photo": {
+            "id": "3528166925",
+            "secret": "8a92414e75",
+            "server": "3659",
+            "farm": 4,
+            "camera": "",
+            "exif": [
+                {
+                    "tagspace": "JFIF",
+                    "tagspaceid": 0,
+                    "tag": "JFIFVersion",
+                    "label": "JFIFVersion",
+                    "raw": {
+                        "_content": "1.02"
+                    }
+                },
+                {
+                    "tagspace": "JFIF",
+                    "tagspaceid": 0,
+                    "tag": "ResolutionUnit",
+                    "label": "Resolution Unit",
+                    "raw": {
+                        "_content": "inches"
+                    }
+                },
+                {
+                    "tagspace": "JFIF",
+                    "tagspaceid": 0,
+                    "tag": "XResolution",
+                    "label": "X-Resolution",
+                    "raw": {
+                        "_content": "400"
+                    },
+                    "clean": {
+                        "_content": "400 dpi"
+                    }
+                },
+                {
+                    "tagspace": "JFIF",
+                    "tagspaceid": 0,
+                    "tag": "YResolution",
+                    "label": "Y-Resolution",
+                    "raw": {
+                        "_content": "400"
+                    },
+                    "clean": {
+                        "_content": "400 dpi"
+                    }
+                }
+            ]
+        },
+        "stat": "ok"
+    },
+    "comments": {
+        "comments": {
+            "photo_id": "3528166925"
+        },
+        "stat": "ok"
+    },
+    "sizes": {
+        "sizes": {
+            "canblog": 0,
+            "canprint": 0,
+            "candownload": 1,
+            "size": [
+                {
+                    "label": "Square",
+                    "width": 75,
+                    "height": 75,
+                    "source": "https://live.staticflickr.com/3659/3528166925_8a92414e75_s.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3528166925/sizes/sq/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Large Square",
+                    "width": 150,
+                    "height": 150,
+                    "source": "https://live.staticflickr.com/3659/3528166925_8a92414e75_q.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3528166925/sizes/q/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Thumbnail",
+                    "width": 74,
+                    "height": 100,
+                    "source": "https://live.staticflickr.com/3659/3528166925_8a92414e75_t.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3528166925/sizes/t/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Small",
+                    "width": 177,
+                    "height": 240,
+                    "source": "https://live.staticflickr.com/3659/3528166925_8a92414e75_m.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3528166925/sizes/s/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Small 320",
+                    "width": 236,
+                    "height": 320,
+                    "source": "https://live.staticflickr.com/3659/3528166925_8a92414e75_n.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3528166925/sizes/n/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Small 400",
+                    "width": 296,
+                    "height": 400,
+                    "source": "https://live.staticflickr.com/3659/3528166925_8a92414e75_w.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3528166925/sizes/w/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Medium",
+                    "width": 369,
+                    "height": 500,
+                    "source": "https://live.staticflickr.com/3659/3528166925_8a92414e75.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3528166925/sizes/m/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Medium 640",
+                    "width": 473,
+                    "height": 640,
+                    "source": "https://live.staticflickr.com/3659/3528166925_8a92414e75_z.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3528166925/sizes/z/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Medium 800",
+                    "width": 591,
+                    "height": 800,
+                    "source": "https://live.staticflickr.com/3659/3528166925_8a92414e75_c.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3528166925/sizes/c/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Large",
+                    "width": 757,
+                    "height": 1024,
+                    "source": "https://live.staticflickr.com/3659/3528166925_8a92414e75_b.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3528166925/sizes/l/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Large 1600",
+                    "width": 1182,
+                    "height": 1600,
+                    "source": "https://live.staticflickr.com/3659/3528166925_ca40b684bd_h.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3528166925/sizes/h/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Large 2048",
+                    "width": 1369,
+                    "height": 1853,
+                    "source": "https://live.staticflickr.com/3659/3528166925_c90c8771a7_k.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3528166925/sizes/k/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Original",
+                    "width": 1369,
+                    "height": 1853,
+                    "source": "https://live.staticflickr.com/3659/3528166925_3bbd966d9d_o.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3528166925/sizes/o/",
+                    "media": "photo"
+                }
+            ]
+        },
+        "stat": "ok"
+    }
+}

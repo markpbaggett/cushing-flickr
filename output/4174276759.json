@@ -1,0 +1,219 @@
+{
+    "metadata": {
+        "photo": {
+            "id": "4174276759",
+            "secret": "77e62011ee",
+            "server": "2706",
+            "farm": 3,
+            "dateuploaded": "1260473432",
+            "isfavorite": 0,
+            "license": "3",
+            "safety_level": "0",
+            "rotation": 0,
+            "originalsecret": "930ec242bf",
+            "originalformat": "jpg",
+            "owner": {
+                "nsid": "29072716@N04",
+                "username": "Cushing Memorial Library and Archives, Texas A&M",
+                "realname": "",
+                "location": "",
+                "iconserver": "3100",
+                "iconfarm": 4,
+                "path_alias": "cushinglibrary",
+                "gift": {
+                    "gift_eligible": true,
+                    "eligible_durations": [
+                        "year",
+                        "month",
+                        "week"
+                    ],
+                    "new_flow": true
+                }
+            },
+            "title": {
+                "_content": "Peterson Building - 7"
+            },
+            "description": {
+                "_content": "<b>Title: </b>Peterson Building - 7 \n<b>Digital Publisher: </b>Digital: Cushing Memorial Library and Archives, Texas A&amp;M University, College Station, Texas \n<b>Physical Publisher: </b>Physical: Cushing Memorial Library and Archives, Texas A&amp;M University \n<b>Description:</b> photograph date: Unknow; Peterson Building \n<b>Date Issued:</b> 2009-11 \n<b>Format Medium: </b>Slide \n<b>Type: </b>image \n<b>Identifier:</b> Photograph Location: Peterson Building-8 \n<b>Rights: </b>It is the users responsibility to secure permission from the copyright holders for publication of any materials. Permission must be obtained in writing prior to publication. Please contact the Cushing Memorial Library for further information \n"
+            },
+            "visibility": {
+                "ispublic": 1,
+                "isfriend": 0,
+                "isfamily": 0
+            },
+            "dates": {
+                "posted": "1260473432",
+                "taken": "2009-12-10 11:30:32",
+                "takengranularity": 0,
+                "takenunknown": 0,
+                "lastupdate": "1421776325"
+            },
+            "views": "251",
+            "editability": {
+                "cancomment": 0,
+                "canaddmeta": 0
+            },
+            "publiceditability": {
+                "cancomment": 1,
+                "canaddmeta": 1
+            },
+            "usage": {
+                "candownload": 1,
+                "canblog": 0,
+                "canprint": 0,
+                "canshare": 1
+            },
+            "comments": {
+                "_content": "0"
+            },
+            "notes": {
+                "note": []
+            },
+            "people": {
+                "haspeople": 0
+            },
+            "tags": {
+                "tag": []
+            },
+            "urls": {
+                "url": [
+                    {
+                        "type": "photopage",
+                        "_content": "https://www.flickr.com/photos/cushinglibrary/4174276759/"
+                    }
+                ]
+            },
+            "media": "photo",
+            "descriptive_metadata": {
+                "Title": "Peterson Building - 7",
+                "Digital Publisher": "Digital: Cushing Memorial Library and Archives, Texas A&amp;M University, College Station, Texas",
+                "Physical Publisher": "Physical: Cushing Memorial Library and Archives, Texas A&amp;M University",
+                "Description": "photograph date: Unknow; Peterson Building",
+                "Date Issued": "2009-11",
+                "Format Medium": "Slide",
+                "Type": "image",
+                "Identifier": "Photograph Location: Peterson Building-8",
+                "Rights": "It is the users responsibility to secure permission from the copyright holders for publication of any materials. Permission must be obtained in writing prior to publication. Please contact the Cushing Memorial Library for further information"
+            }
+        },
+        "stat": "ok"
+    },
+    "exif": {
+        "photo": {
+            "id": "4174276759",
+            "secret": "77e62011ee",
+            "server": "2706",
+            "farm": 3,
+            "camera": "",
+            "exif": [
+                {
+                    "tagspace": "JFIF",
+                    "tagspaceid": 0,
+                    "tag": "JFIFVersion",
+                    "label": "JFIFVersion",
+                    "raw": {
+                        "_content": "1.02"
+                    }
+                },
+                {
+                    "tagspace": "JFIF",
+                    "tagspaceid": 0,
+                    "tag": "ResolutionUnit",
+                    "label": "Resolution Unit",
+                    "raw": {
+                        "_content": "inches"
+                    }
+                },
+                {
+                    "tagspace": "JFIF",
+                    "tagspaceid": 0,
+                    "tag": "XResolution",
+                    "label": "X-Resolution",
+                    "raw": {
+                        "_content": "300"
+                    },
+                    "clean": {
+                        "_content": "300 dpi"
+                    }
+                },
+                {
+                    "tagspace": "JFIF",
+                    "tagspaceid": 0,
+                    "tag": "YResolution",
+                    "label": "Y-Resolution",
+                    "raw": {
+                        "_content": "300"
+                    },
+                    "clean": {
+                        "_content": "300 dpi"
+                    }
+                }
+            ]
+        },
+        "stat": "ok"
+    },
+    "comments": {
+        "comments": {
+            "photo_id": "4174276759"
+        },
+        "stat": "ok"
+    },
+    "sizes": {
+        "sizes": {
+            "canblog": 0,
+            "canprint": 0,
+            "candownload": 1,
+            "size": [
+                {
+                    "label": "Square",
+                    "width": 75,
+                    "height": 75,
+                    "source": "https://live.staticflickr.com/2706/4174276759_77e62011ee_s.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/4174276759/sizes/sq/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Large Square",
+                    "width": 150,
+                    "height": 150,
+                    "source": "https://live.staticflickr.com/2706/4174276759_77e62011ee_q.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/4174276759/sizes/q/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Thumbnail",
+                    "width": 100,
+                    "height": 91,
+                    "source": "https://live.staticflickr.com/2706/4174276759_77e62011ee_t.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/4174276759/sizes/t/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Small",
+                    "width": 240,
+                    "height": 220,
+                    "source": "https://live.staticflickr.com/2706/4174276759_77e62011ee_m.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/4174276759/sizes/s/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Small 320",
+                    "width": 282,
+                    "height": 258,
+                    "source": "https://live.staticflickr.com/2706/4174276759_77e62011ee_n.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/4174276759/sizes/n/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Original",
+                    "width": 282,
+                    "height": 258,
+                    "source": "https://live.staticflickr.com/2706/4174276759_930ec242bf_o.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/4174276759/sizes/o/",
+                    "media": "photo"
+                }
+            ]
+        },
+        "stat": "ok"
+    }
+}

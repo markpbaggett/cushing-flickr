@@ -1,0 +1,276 @@
+{
+    "metadata": {
+        "photo": {
+            "id": "3551946424",
+            "secret": "425958d6b2",
+            "server": "3575",
+            "farm": 4,
+            "dateuploaded": "1242922372",
+            "isfavorite": 0,
+            "license": "3",
+            "safety_level": "0",
+            "rotation": 0,
+            "originalsecret": "bac34d6aac",
+            "originalformat": "jpg",
+            "owner": {
+                "nsid": "29072716@N04",
+                "username": "Cushing Memorial Library and Archives, Texas A&M",
+                "realname": "",
+                "location": "",
+                "iconserver": "3100",
+                "iconfarm": 4,
+                "path_alias": "cushinglibrary",
+                "gift": {
+                    "gift_eligible": true,
+                    "eligible_durations": [
+                        "year",
+                        "month",
+                        "week"
+                    ],
+                    "new_flow": true
+                }
+            },
+            "title": {
+                "_content": "Box 6- 138"
+            },
+            "description": {
+                "_content": "<b>Title:</b> Herman Kieschnick Jr.\n\n<b>Creator (Photographer):</b>  Not Available\n\n<b>Publisher:</b>  Agricultural Communications Office of the Texas Agricultural Extension Service\n\n<b>Place of Publication:</b>   College Station, Texas\n\n<b>Year (Coverage):</b>  1947\n\n<b>Document Type:</b>  Image  \n\n<b>Format:</b>  Photographic negative\n\n<b>Dimensions:</b>   4 x 5  inches  \n\n<b>Digitization Date:</b>  May2009 \n\n<b>Description:</b>    A boy pointing to a water fountain made from a barrel.\n\n<b>Note:</b>    Lee County, Texas\n\n<b>Collection:</b>    Texas A&amp;M University Archives   \n   \n<b>Resource Identifier:</b>   Agricultural Communications Collection, Box 6, File 6-138\n\n<b>Institution:</b>  Texas A&amp;M University, College Station, Texas\n\n<b>Repository:</b>  Cushing Memorial Library and Archives     \n\n<b>Contact Information:</b>    Email: <a href=\"mailto:cushing-library@tamu.edu\" rel=\"noreferrer nofollow\">cushing-library@tamu.edu</a>   Phone: 979-845-1951    \n\n<b>Copyright:</b>  It is the users responsibility to secure permission from the copyright holders for publication of any materials. Permission must be obtained in writing prior to publication. Please contact the Cushing Memorial Library for further information\n"
+            },
+            "visibility": {
+                "ispublic": 1,
+                "isfriend": 0,
+                "isfamily": 0
+            },
+            "dates": {
+                "posted": "1242922372",
+                "taken": "2009-05-21 09:12:52",
+                "takengranularity": 0,
+                "takenunknown": 0,
+                "lastupdate": "1421775831"
+            },
+            "views": "389",
+            "editability": {
+                "cancomment": 0,
+                "canaddmeta": 0
+            },
+            "publiceditability": {
+                "cancomment": 1,
+                "canaddmeta": 1
+            },
+            "usage": {
+                "candownload": 1,
+                "canblog": 0,
+                "canprint": 0,
+                "canshare": 1
+            },
+            "comments": {
+                "_content": "0"
+            },
+            "notes": {
+                "note": []
+            },
+            "people": {
+                "haspeople": 0
+            },
+            "tags": {
+                "tag": []
+            },
+            "urls": {
+                "url": [
+                    {
+                        "type": "photopage",
+                        "_content": "https://www.flickr.com/photos/cushinglibrary/3551946424/"
+                    }
+                ]
+            },
+            "media": "photo",
+            "descriptive_metadata": {
+                "Title": "Herman Kieschnick Jr.",
+                "Creator (Photographer)": "Not Available",
+                "Publisher": "Agricultural Communications Office of the Texas Agricultural Extension Service",
+                "Place of Publication": "College Station, Texas",
+                "Year (Coverage)": "1947",
+                "Document Type": "Image",
+                "Format": "Photographic negative",
+                "Dimensions": "4 x 5  inches",
+                "Digitization Date": "May2009",
+                "Description": "A boy pointing to a water fountain made from a barrel.",
+                "Note": "Lee County, Texas",
+                "Collection": "Texas A&amp;M University Archives",
+                "   ": "",
+                "Resource Identifier": "Agricultural Communications Collection, Box 6, File 6-138",
+                "Institution": "Texas A&amp;M University, College Station, Texas",
+                "Repository": "Cushing Memorial Library and Archives",
+                "Contact Information": "Email: <a href=\"mailto:cushing-library@tamu.edu\" rel=\"noreferrer nofollow\">cushing-library@tamu.edu</a>   Phone: 979-845-1951",
+                "Copyright": "It is the users responsibility to secure permission from the copyright holders for publication of any materials. Permission must be obtained in writing prior to publication. Please contact the Cushing Memorial Library for further information"
+            }
+        },
+        "stat": "ok"
+    },
+    "exif": {
+        "photo": {
+            "id": "3551946424",
+            "secret": "425958d6b2",
+            "server": "3575",
+            "farm": 4,
+            "camera": "",
+            "exif": [
+                {
+                    "tagspace": "JFIF",
+                    "tagspaceid": 0,
+                    "tag": "JFIFVersion",
+                    "label": "JFIFVersion",
+                    "raw": {
+                        "_content": "1.02"
+                    }
+                },
+                {
+                    "tagspace": "JFIF",
+                    "tagspaceid": 0,
+                    "tag": "ResolutionUnit",
+                    "label": "Resolution Unit",
+                    "raw": {
+                        "_content": "inches"
+                    }
+                },
+                {
+                    "tagspace": "JFIF",
+                    "tagspaceid": 0,
+                    "tag": "XResolution",
+                    "label": "X-Resolution",
+                    "raw": {
+                        "_content": "400"
+                    },
+                    "clean": {
+                        "_content": "400 dpi"
+                    }
+                },
+                {
+                    "tagspace": "JFIF",
+                    "tagspaceid": 0,
+                    "tag": "YResolution",
+                    "label": "Y-Resolution",
+                    "raw": {
+                        "_content": "400"
+                    },
+                    "clean": {
+                        "_content": "400 dpi"
+                    }
+                }
+            ]
+        },
+        "stat": "ok"
+    },
+    "comments": {
+        "comments": {
+            "photo_id": "3551946424"
+        },
+        "stat": "ok"
+    },
+    "sizes": {
+        "sizes": {
+            "canblog": 0,
+            "canprint": 0,
+            "candownload": 1,
+            "size": [
+                {
+                    "label": "Square",
+                    "width": 75,
+                    "height": 75,
+                    "source": "https://live.staticflickr.com/3575/3551946424_425958d6b2_s.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3551946424/sizes/sq/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Large Square",
+                    "width": 150,
+                    "height": 150,
+                    "source": "https://live.staticflickr.com/3575/3551946424_425958d6b2_q.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3551946424/sizes/q/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Thumbnail",
+                    "width": 100,
+                    "height": 82,
+                    "source": "https://live.staticflickr.com/3575/3551946424_425958d6b2_t.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3551946424/sizes/t/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Small",
+                    "width": 240,
+                    "height": 196,
+                    "source": "https://live.staticflickr.com/3575/3551946424_425958d6b2_m.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3551946424/sizes/s/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Small 320",
+                    "width": 320,
+                    "height": 261,
+                    "source": "https://live.staticflickr.com/3575/3551946424_425958d6b2_n.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3551946424/sizes/n/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Small 400",
+                    "width": 400,
+                    "height": 327,
+                    "source": "https://live.staticflickr.com/3575/3551946424_425958d6b2_w.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3551946424/sizes/w/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Medium",
+                    "width": 500,
+                    "height": 408,
+                    "source": "https://live.staticflickr.com/3575/3551946424_425958d6b2.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3551946424/sizes/m/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Medium 640",
+                    "width": 640,
+                    "height": 523,
+                    "source": "https://live.staticflickr.com/3575/3551946424_425958d6b2_z.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3551946424/sizes/z/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Medium 800",
+                    "width": 800,
+                    "height": 653,
+                    "source": "https://live.staticflickr.com/3575/3551946424_425958d6b2_c.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3551946424/sizes/c/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Large",
+                    "width": 1024,
+                    "height": 836,
+                    "source": "https://live.staticflickr.com/3575/3551946424_425958d6b2_b.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3551946424/sizes/l/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Large 1600",
+                    "width": 1600,
+                    "height": 1307,
+                    "source": "https://live.staticflickr.com/3575/3551946424_0708fa12b9_h.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3551946424/sizes/h/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Original",
+                    "width": 1761,
+                    "height": 1438,
+                    "source": "https://live.staticflickr.com/3575/3551946424_bac34d6aac_o.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3551946424/sizes/o/",
+                    "media": "photo"
+                }
+            ]
+        },
+        "stat": "ok"
+    }
+}

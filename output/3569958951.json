@@ -1,0 +1,284 @@
+{
+    "metadata": {
+        "photo": {
+            "id": "3569958951",
+            "secret": "14c00a8495",
+            "server": "3344",
+            "farm": 4,
+            "dateuploaded": "1243442052",
+            "isfavorite": 0,
+            "license": "3",
+            "safety_level": "0",
+            "rotation": 0,
+            "originalsecret": "9b18e6e166",
+            "originalformat": "jpg",
+            "owner": {
+                "nsid": "29072716@N04",
+                "username": "Cushing Memorial Library and Archives, Texas A&M",
+                "realname": "",
+                "location": "",
+                "iconserver": "3100",
+                "iconfarm": 4,
+                "path_alias": "cushinglibrary",
+                "gift": {
+                    "gift_eligible": true,
+                    "eligible_durations": [
+                        "year",
+                        "month",
+                        "week"
+                    ],
+                    "new_flow": true
+                }
+            },
+            "title": {
+                "_content": "George Ehlers"
+            },
+            "description": {
+                "_content": "<b>Title:</b> George Ehlers\n\n<b>Creator (Photographer):</b> Not Available\n\n<b>Publisher:</b>  Agricultural Communications Office of the Texas Agricultural Extension Service\n\n<b>Place of Publication:</b>   College Station, Texas\n\n<b>Year (Coverage):</b>  1942\n\n<b>Document Type:</b>  Image  \n\n<b>Format:</b>  Photographic photo\n\n<b>Dimensions:</b>   4 x 5 inches  \n\n<b>Digitization Date:</b>  May2009 \n\n<b>Description:</b>    A man standing by several young hogs feeding on grain.\n\n<b>Note:</b>   Wilson County, Texas\n\n<b>Collection:</b>    Texas A&amp;M University Archives   \n   \n<b>Resource Identifier:</b>   Agricultural Communications Collection, Box 6, File 6-172\n\n<b>Institution:</b>  Texas A&amp;M University, College Station, Texas\n\n<b>Repository:</b>  Cushing Memorial Library and Archives     \n\n<b>Contact Information:</b>    Email: <a href=\"mailto:cushing-library@tamu.edu\" rel=\"noreferrer nofollow\">cushing-library@tamu.edu</a>   Phone: 979-845-1951    \n\n<b>Copyright:</b>  It is the users responsibility to secure permission from the copyright holders for publication of any materials. Permission must be obtained in writing prior to publication. Please contact the Cushing Memorial Library for further information\n"
+            },
+            "visibility": {
+                "ispublic": 1,
+                "isfriend": 0,
+                "isfamily": 0
+            },
+            "dates": {
+                "posted": "1243442052",
+                "taken": "2009-05-27 09:34:12",
+                "takengranularity": 0,
+                "takenunknown": 0,
+                "lastupdate": "1421775837"
+            },
+            "views": "299",
+            "editability": {
+                "cancomment": 0,
+                "canaddmeta": 0
+            },
+            "publiceditability": {
+                "cancomment": 1,
+                "canaddmeta": 1
+            },
+            "usage": {
+                "candownload": 1,
+                "canblog": 0,
+                "canprint": 0,
+                "canshare": 1
+            },
+            "comments": {
+                "_content": "0"
+            },
+            "notes": {
+                "note": []
+            },
+            "people": {
+                "haspeople": 0
+            },
+            "tags": {
+                "tag": []
+            },
+            "urls": {
+                "url": [
+                    {
+                        "type": "photopage",
+                        "_content": "https://www.flickr.com/photos/cushinglibrary/3569958951/"
+                    }
+                ]
+            },
+            "media": "photo",
+            "descriptive_metadata": {
+                "Title": "George Ehlers",
+                "Creator (Photographer)": "Not Available",
+                "Publisher": "Agricultural Communications Office of the Texas Agricultural Extension Service",
+                "Place of Publication": "College Station, Texas",
+                "Year (Coverage)": "1942",
+                "Document Type": "Image",
+                "Format": "Photographic photo",
+                "Dimensions": "4 x 5 inches",
+                "Digitization Date": "May2009",
+                "Description": "A man standing by several young hogs feeding on grain.",
+                "Note": "Wilson County, Texas",
+                "Collection": "Texas A&amp;M University Archives",
+                "   ": "",
+                "Resource Identifier": "Agricultural Communications Collection, Box 6, File 6-172",
+                "Institution": "Texas A&amp;M University, College Station, Texas",
+                "Repository": "Cushing Memorial Library and Archives",
+                "Contact Information": "Email: <a href=\"mailto:cushing-library@tamu.edu\" rel=\"noreferrer nofollow\">cushing-library@tamu.edu</a>   Phone: 979-845-1951",
+                "Copyright": "It is the users responsibility to secure permission from the copyright holders for publication of any materials. Permission must be obtained in writing prior to publication. Please contact the Cushing Memorial Library for further information"
+            }
+        },
+        "stat": "ok"
+    },
+    "exif": {
+        "photo": {
+            "id": "3569958951",
+            "secret": "14c00a8495",
+            "server": "3344",
+            "farm": 4,
+            "camera": "",
+            "exif": [
+                {
+                    "tagspace": "JFIF",
+                    "tagspaceid": 0,
+                    "tag": "JFIFVersion",
+                    "label": "JFIFVersion",
+                    "raw": {
+                        "_content": "1.02"
+                    }
+                },
+                {
+                    "tagspace": "JFIF",
+                    "tagspaceid": 0,
+                    "tag": "ResolutionUnit",
+                    "label": "Resolution Unit",
+                    "raw": {
+                        "_content": "inches"
+                    }
+                },
+                {
+                    "tagspace": "JFIF",
+                    "tagspaceid": 0,
+                    "tag": "XResolution",
+                    "label": "X-Resolution",
+                    "raw": {
+                        "_content": "400"
+                    },
+                    "clean": {
+                        "_content": "400 dpi"
+                    }
+                },
+                {
+                    "tagspace": "JFIF",
+                    "tagspaceid": 0,
+                    "tag": "YResolution",
+                    "label": "Y-Resolution",
+                    "raw": {
+                        "_content": "400"
+                    },
+                    "clean": {
+                        "_content": "400 dpi"
+                    }
+                }
+            ]
+        },
+        "stat": "ok"
+    },
+    "comments": {
+        "comments": {
+            "photo_id": "3569958951"
+        },
+        "stat": "ok"
+    },
+    "sizes": {
+        "sizes": {
+            "canblog": 0,
+            "canprint": 0,
+            "candownload": 1,
+            "size": [
+                {
+                    "label": "Square",
+                    "width": 75,
+                    "height": 75,
+                    "source": "https://live.staticflickr.com/3344/3569958951_14c00a8495_s.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3569958951/sizes/sq/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Large Square",
+                    "width": 150,
+                    "height": 150,
+                    "source": "https://live.staticflickr.com/3344/3569958951_14c00a8495_q.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3569958951/sizes/q/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Thumbnail",
+                    "width": 100,
+                    "height": 76,
+                    "source": "https://live.staticflickr.com/3344/3569958951_14c00a8495_t.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3569958951/sizes/t/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Small",
+                    "width": 240,
+                    "height": 182,
+                    "source": "https://live.staticflickr.com/3344/3569958951_14c00a8495_m.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3569958951/sizes/s/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Small 320",
+                    "width": 320,
+                    "height": 243,
+                    "source": "https://live.staticflickr.com/3344/3569958951_14c00a8495_n.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3569958951/sizes/n/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Small 400",
+                    "width": 400,
+                    "height": 304,
+                    "source": "https://live.staticflickr.com/3344/3569958951_14c00a8495_w.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3569958951/sizes/w/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Medium",
+                    "width": 500,
+                    "height": 379,
+                    "source": "https://live.staticflickr.com/3344/3569958951_14c00a8495.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3569958951/sizes/m/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Medium 640",
+                    "width": 640,
+                    "height": 486,
+                    "source": "https://live.staticflickr.com/3344/3569958951_14c00a8495_z.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3569958951/sizes/z/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Medium 800",
+                    "width": 800,
+                    "height": 607,
+                    "source": "https://live.staticflickr.com/3344/3569958951_14c00a8495_c.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3569958951/sizes/c/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Large",
+                    "width": 1024,
+                    "height": 777,
+                    "source": "https://live.staticflickr.com/3344/3569958951_14c00a8495_b.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3569958951/sizes/l/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Large 1600",
+                    "width": 1600,
+                    "height": 1214,
+                    "source": "https://live.staticflickr.com/3344/3569958951_e6d49f775f_h.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3569958951/sizes/h/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Large 2048",
+                    "width": 1904,
+                    "height": 1445,
+                    "source": "https://live.staticflickr.com/3344/3569958951_21e3019080_k.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3569958951/sizes/k/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Original",
+                    "width": 1904,
+                    "height": 1445,
+                    "source": "https://live.staticflickr.com/3344/3569958951_9b18e6e166_o.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3569958951/sizes/o/",
+                    "media": "photo"
+                }
+            ]
+        },
+        "stat": "ok"
+    }
+}

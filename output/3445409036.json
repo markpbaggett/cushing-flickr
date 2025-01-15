@@ -1,0 +1,275 @@
+{
+    "metadata": {
+        "photo": {
+            "id": "3445409036",
+            "secret": "bab3369b67",
+            "server": "3652",
+            "farm": 4,
+            "dateuploaded": "1239817781",
+            "isfavorite": 0,
+            "license": "3",
+            "safety_level": "0",
+            "rotation": 0,
+            "originalsecret": "86ae46cd9a",
+            "originalformat": "jpg",
+            "owner": {
+                "nsid": "29072716@N04",
+                "username": "Cushing Memorial Library and Archives, Texas A&M",
+                "realname": "",
+                "location": "",
+                "iconserver": "3100",
+                "iconfarm": 4,
+                "path_alias": "cushinglibrary",
+                "gift": {
+                    "gift_eligible": true,
+                    "eligible_durations": [
+                        "year",
+                        "month",
+                        "week"
+                    ],
+                    "new_flow": true
+                }
+            },
+            "title": {
+                "_content": "Reveille III - 3"
+            },
+            "description": {
+                "_content": "<b>Title: </b>Reveille III - 3 \n<b>Digital Publisher: </b>Digital: Cushing Memorial Library and Archives, Texas A&amp;M University, College Station, Texas \n<b>Physical Publisher: </b>Physical: Cushing Memorial Library and Archives, Texas A&amp;M University \n<b>Description:</b> photograph date: Unknow; Student Activities: Mascots: Reveille III \n<b>Date Issued:</b> 2006 \n<b>Dimensions: </b>4 x 5 inches \n<b>Type: </b>image \n<b>Identifier:</b> Photograph Location: Pictures: Mascots - Reveille III - ; Reference Number: 3656 \n<b>Rights: </b>It is the users responsibility to secure permission from the copyright holders for publication of any materials. Permission must be obtained in writing prior to publication. Please contact the Cushing Memorial Library for further information \n"
+            },
+            "visibility": {
+                "ispublic": 1,
+                "isfriend": 0,
+                "isfamily": 0
+            },
+            "dates": {
+                "posted": "1239817781",
+                "taken": "2009-04-15 10:49:41",
+                "takengranularity": 0,
+                "takenunknown": 0,
+                "lastupdate": "1421775561"
+            },
+            "views": "847",
+            "editability": {
+                "cancomment": 0,
+                "canaddmeta": 0
+            },
+            "publiceditability": {
+                "cancomment": 1,
+                "canaddmeta": 1
+            },
+            "usage": {
+                "candownload": 1,
+                "canblog": 0,
+                "canprint": 0,
+                "canshare": 1
+            },
+            "comments": {
+                "_content": "0"
+            },
+            "notes": {
+                "note": []
+            },
+            "people": {
+                "haspeople": 0
+            },
+            "tags": {
+                "tag": []
+            },
+            "urls": {
+                "url": [
+                    {
+                        "type": "photopage",
+                        "_content": "https://www.flickr.com/photos/cushinglibrary/3445409036/"
+                    }
+                ]
+            },
+            "media": "photo",
+            "descriptive_metadata": {
+                "Title": "Reveille III - 3",
+                "Digital Publisher": "Digital: Cushing Memorial Library and Archives, Texas A&amp;M University, College Station, Texas",
+                "Physical Publisher": "Physical: Cushing Memorial Library and Archives, Texas A&amp;M University",
+                "Description": "photograph date: Unknow; Student Activities: Mascots: Reveille III",
+                "Date Issued": "2006",
+                "Dimensions": "4 x 5 inches",
+                "Type": "image",
+                "Identifier": "Photograph Location: Pictures: Mascots - Reveille III - ; Reference Number: 3656",
+                "Rights": "It is the users responsibility to secure permission from the copyright holders for publication of any materials. Permission must be obtained in writing prior to publication. Please contact the Cushing Memorial Library for further information"
+            }
+        },
+        "stat": "ok"
+    },
+    "exif": {
+        "photo": {
+            "id": "3445409036",
+            "secret": "bab3369b67",
+            "server": "3652",
+            "farm": 4,
+            "camera": "",
+            "exif": [
+                {
+                    "tagspace": "JFIF",
+                    "tagspaceid": 0,
+                    "tag": "JFIFVersion",
+                    "label": "JFIFVersion",
+                    "raw": {
+                        "_content": "1.02"
+                    }
+                },
+                {
+                    "tagspace": "JFIF",
+                    "tagspaceid": 0,
+                    "tag": "ResolutionUnit",
+                    "label": "Resolution Unit",
+                    "raw": {
+                        "_content": "inches"
+                    }
+                },
+                {
+                    "tagspace": "JFIF",
+                    "tagspaceid": 0,
+                    "tag": "XResolution",
+                    "label": "X-Resolution",
+                    "raw": {
+                        "_content": "400"
+                    },
+                    "clean": {
+                        "_content": "400 dpi"
+                    }
+                },
+                {
+                    "tagspace": "JFIF",
+                    "tagspaceid": 0,
+                    "tag": "YResolution",
+                    "label": "Y-Resolution",
+                    "raw": {
+                        "_content": "400"
+                    },
+                    "clean": {
+                        "_content": "400 dpi"
+                    }
+                }
+            ]
+        },
+        "stat": "ok"
+    },
+    "comments": {
+        "comments": {
+            "photo_id": "3445409036"
+        },
+        "stat": "ok"
+    },
+    "sizes": {
+        "sizes": {
+            "canblog": 0,
+            "canprint": 0,
+            "candownload": 1,
+            "size": [
+                {
+                    "label": "Square",
+                    "width": 75,
+                    "height": 75,
+                    "source": "https://live.staticflickr.com/3652/3445409036_bab3369b67_s.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3445409036/sizes/sq/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Large Square",
+                    "width": 150,
+                    "height": 150,
+                    "source": "https://live.staticflickr.com/3652/3445409036_bab3369b67_q.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3445409036/sizes/q/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Thumbnail",
+                    "width": 77,
+                    "height": 100,
+                    "source": "https://live.staticflickr.com/3652/3445409036_bab3369b67_t.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3445409036/sizes/t/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Small",
+                    "width": 184,
+                    "height": 240,
+                    "source": "https://live.staticflickr.com/3652/3445409036_bab3369b67_m.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3445409036/sizes/s/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Small 320",
+                    "width": 245,
+                    "height": 320,
+                    "source": "https://live.staticflickr.com/3652/3445409036_bab3369b67_n.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3445409036/sizes/n/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Small 400",
+                    "width": 307,
+                    "height": 400,
+                    "source": "https://live.staticflickr.com/3652/3445409036_bab3369b67_w.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3445409036/sizes/w/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Medium",
+                    "width": 383,
+                    "height": 500,
+                    "source": "https://live.staticflickr.com/3652/3445409036_bab3369b67.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3445409036/sizes/m/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Medium 640",
+                    "width": 491,
+                    "height": 640,
+                    "source": "https://live.staticflickr.com/3652/3445409036_bab3369b67_z.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3445409036/sizes/z/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Medium 800",
+                    "width": 613,
+                    "height": 800,
+                    "source": "https://live.staticflickr.com/3652/3445409036_bab3369b67_c.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3445409036/sizes/c/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Large",
+                    "width": 785,
+                    "height": 1024,
+                    "source": "https://live.staticflickr.com/3652/3445409036_bab3369b67_b.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3445409036/sizes/l/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Large 1600",
+                    "width": 1227,
+                    "height": 1600,
+                    "source": "https://live.staticflickr.com/3652/3445409036_d49e4ba539_h.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3445409036/sizes/h/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Large 2048",
+                    "width": 1465,
+                    "height": 1911,
+                    "source": "https://live.staticflickr.com/3652/3445409036_6222b96dc8_k.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3445409036/sizes/k/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Original",
+                    "width": 1465,
+                    "height": 1911,
+                    "source": "https://live.staticflickr.com/3652/3445409036_86ae46cd9a_o.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3445409036/sizes/o/",
+                    "media": "photo"
+                }
+            ]
+        },
+        "stat": "ok"
+    }
+}

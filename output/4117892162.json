@@ -1,0 +1,242 @@
+{
+    "metadata": {
+        "photo": {
+            "id": "4117892162",
+            "secret": "cd7713dd88",
+            "server": "2493",
+            "farm": 3,
+            "dateuploaded": "1258650538",
+            "isfavorite": 0,
+            "license": "3",
+            "safety_level": "0",
+            "rotation": 0,
+            "originalsecret": "d62d91e641",
+            "originalformat": "jpg",
+            "owner": {
+                "nsid": "29072716@N04",
+                "username": "Cushing Memorial Library and Archives, Texas A&M",
+                "realname": "",
+                "location": "",
+                "iconserver": "3100",
+                "iconfarm": 4,
+                "path_alias": "cushinglibrary",
+                "gift": {
+                    "gift_eligible": true,
+                    "eligible_durations": [
+                        "year",
+                        "month",
+                        "week"
+                    ],
+                    "new_flow": true
+                }
+            },
+            "title": {
+                "_content": "Langford Architcture building - 11"
+            },
+            "description": {
+                "_content": "<b>Title: </b>Langford Architcture building - 11 \n<b>Digital Publisher: </b>Digital: Cushing Memorial Library and Archives, Texas A&amp;M University, College Station, Texas \n<b>Physical Publisher: </b>Physical: Cushing Memorial Library and Archives, Texas A&amp;M University \n<b>Description:</b> photograph date: Unknow; Langford Architecture Building \n<b>Date Issued:</b> 2009-10 \n<b>Format Medium: </b>Slide \n<b>Type: </b>image \n<b>Identifier:</b> Photograph Location: Langford Architecture Building-40 \n<b>Rights: </b>It is the users responsibility to secure permission from the copyright holders for publication of any materials. Permission must be obtained in writing prior to publication. Please contact the Cushing Memorial Library for further information \n"
+            },
+            "visibility": {
+                "ispublic": 1,
+                "isfriend": 0,
+                "isfamily": 0
+            },
+            "dates": {
+                "posted": "1258650538",
+                "taken": "2009-11-19 09:08:58",
+                "takengranularity": 0,
+                "takenunknown": 0,
+                "lastupdate": "1561136738"
+            },
+            "views": "576",
+            "editability": {
+                "cancomment": 0,
+                "canaddmeta": 0
+            },
+            "publiceditability": {
+                "cancomment": 1,
+                "canaddmeta": 1
+            },
+            "usage": {
+                "candownload": 1,
+                "canblog": 0,
+                "canprint": 0,
+                "canshare": 1
+            },
+            "comments": {
+                "_content": "1"
+            },
+            "notes": {
+                "note": []
+            },
+            "people": {
+                "haspeople": 0
+            },
+            "tags": {
+                "tag": []
+            },
+            "urls": {
+                "url": [
+                    {
+                        "type": "photopage",
+                        "_content": "https://www.flickr.com/photos/cushinglibrary/4117892162/"
+                    }
+                ]
+            },
+            "media": "photo",
+            "descriptive_metadata": {
+                "Title": "Langford Architcture building - 11",
+                "Digital Publisher": "Digital: Cushing Memorial Library and Archives, Texas A&amp;M University, College Station, Texas",
+                "Physical Publisher": "Physical: Cushing Memorial Library and Archives, Texas A&amp;M University",
+                "Description": "photograph date: Unknow; Langford Architecture Building",
+                "Date Issued": "2009-10",
+                "Format Medium": "Slide",
+                "Type": "image",
+                "Identifier": "Photograph Location: Langford Architecture Building-40",
+                "Rights": "It is the users responsibility to secure permission from the copyright holders for publication of any materials. Permission must be obtained in writing prior to publication. Please contact the Cushing Memorial Library for further information"
+            }
+        },
+        "stat": "ok"
+    },
+    "exif": {
+        "photo": {
+            "id": "4117892162",
+            "secret": "cd7713dd88",
+            "server": "2493",
+            "farm": 3,
+            "camera": "",
+            "exif": [
+                {
+                    "tagspace": "JFIF",
+                    "tagspaceid": 0,
+                    "tag": "JFIFVersion",
+                    "label": "JFIFVersion",
+                    "raw": {
+                        "_content": "1.02"
+                    }
+                },
+                {
+                    "tagspace": "JFIF",
+                    "tagspaceid": 0,
+                    "tag": "ResolutionUnit",
+                    "label": "Resolution Unit",
+                    "raw": {
+                        "_content": "inches"
+                    }
+                },
+                {
+                    "tagspace": "JFIF",
+                    "tagspaceid": 0,
+                    "tag": "XResolution",
+                    "label": "X-Resolution",
+                    "raw": {
+                        "_content": "300"
+                    },
+                    "clean": {
+                        "_content": "300 dpi"
+                    }
+                },
+                {
+                    "tagspace": "JFIF",
+                    "tagspaceid": 0,
+                    "tag": "YResolution",
+                    "label": "Y-Resolution",
+                    "raw": {
+                        "_content": "300"
+                    },
+                    "clean": {
+                        "_content": "300 dpi"
+                    }
+                }
+            ]
+        },
+        "stat": "ok"
+    },
+    "comments": {
+        "comments": {
+            "photo_id": "4117892162",
+            "comment": [
+                {
+                    "id": "29040577-4117892162-72157630868914310",
+                    "author": "27918512@N00",
+                    "author_is_deleted": 1,
+                    "authorname": "dynamic design",
+                    "iconserver": "0",
+                    "iconfarm": 0,
+                    "datecreate": "1343915314",
+                    "permalink": "https://www.flickr.com/photos/cushinglibrary/4117892162/#comment72157630868914310",
+                    "path_alias": "n-j-t",
+                    "realname": "Dynamic Design",
+                    "_content": "This picture is backwards. The studio spaces should be on the right-hand side of the picture."
+                }
+            ]
+        },
+        "stat": "ok"
+    },
+    "sizes": {
+        "sizes": {
+            "canblog": 0,
+            "canprint": 0,
+            "candownload": 1,
+            "size": [
+                {
+                    "label": "Square",
+                    "width": 75,
+                    "height": 75,
+                    "source": "https://live.staticflickr.com/2493/4117892162_cd7713dd88_s.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/4117892162/sizes/sq/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Large Square",
+                    "width": 150,
+                    "height": 150,
+                    "source": "https://live.staticflickr.com/2493/4117892162_cd7713dd88_q.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/4117892162/sizes/q/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Thumbnail",
+                    "width": 100,
+                    "height": 65,
+                    "source": "https://live.staticflickr.com/2493/4117892162_cd7713dd88_t.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/4117892162/sizes/t/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Small",
+                    "width": 240,
+                    "height": 157,
+                    "source": "https://live.staticflickr.com/2493/4117892162_cd7713dd88_m.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/4117892162/sizes/s/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Small 320",
+                    "width": 320,
+                    "height": 209,
+                    "source": "https://live.staticflickr.com/2493/4117892162_cd7713dd88_n.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/4117892162/sizes/n/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Small 400",
+                    "width": 391,
+                    "height": 255,
+                    "source": "https://live.staticflickr.com/2493/4117892162_cd7713dd88_w.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/4117892162/sizes/w/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Original",
+                    "width": 391,
+                    "height": 255,
+                    "source": "https://live.staticflickr.com/2493/4117892162_d62d91e641_o.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/4117892162/sizes/o/",
+                    "media": "photo"
+                }
+            ]
+        },
+        "stat": "ok"
+    }
+}

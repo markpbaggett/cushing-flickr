@@ -1,0 +1,284 @@
+{
+    "metadata": {
+        "photo": {
+            "id": "2985300834",
+            "secret": "cf530e02a2",
+            "server": "3242",
+            "farm": 4,
+            "dateuploaded": "1225316629",
+            "isfavorite": 0,
+            "license": "3",
+            "safety_level": "0",
+            "rotation": 0,
+            "originalsecret": "f41ca31684",
+            "originalformat": "jpg",
+            "owner": {
+                "nsid": "29072716@N04",
+                "username": "Cushing Memorial Library and Archives, Texas A&M",
+                "realname": "",
+                "location": "",
+                "iconserver": "3100",
+                "iconfarm": 4,
+                "path_alias": "cushinglibrary",
+                "gift": {
+                    "gift_eligible": true,
+                    "eligible_durations": [
+                        "year",
+                        "month",
+                        "week"
+                    ],
+                    "new_flow": true
+                }
+            },
+            "title": {
+                "_content": "image-2852"
+            },
+            "description": {
+                "_content": "<b>Creator:</b>Unknown\n    <b>Reference Number:</b>    2852    \n    <b>Publisher:</b>    Cushing Memorial Library and Archives, Texas A&amp;M University    \n\n    <b>Document Type:</b>    Photograph    \n    <b>Category:</b>    Buildings: Academic Building    \n\n    <b>Digitization Date:</b>    2006    \n    <b>Photograph Date:</b>    1937    \n    <b>Dimensions:</b>    4.5 x 6.5 inches    \n    <b>Location:</b>    Buildings: Academic Building - 110    \n\n    <b>Caption:</b>    Snow    \n\n    <b>Collection:</b>    Texas A&amp;M University Archives Photograph Collection    \n\n    <b>Contact Information:</b>    Email: <a href=\"mailto:cushing-library@tamu.edu\" rel=\"noreferrer nofollow\">cushing-library@tamu.edu</a>   Phone: 979-845-1951    \n\n    <b>Repository:</b>\n    Cushing Memorial Library and Archives, Texas A&amp;M University, College Station, Texas    \n\n    <b>Restrictions:</b>\n    It is the users responsibility to secure permission from the copyright holders for publication of any materials. Permission must be obtained in writing prior to publication. Please contact the Cushing Library for further information.    \n\n    <b>Keywords:</b>\n    academic; general studies; foreign languages    \n\n"
+            },
+            "visibility": {
+                "ispublic": 1,
+                "isfriend": 0,
+                "isfamily": 0
+            },
+            "dates": {
+                "posted": "1225316629",
+                "taken": "2008-10-29 14:43:49",
+                "takengranularity": 0,
+                "takenunknown": 0,
+                "lastupdate": "1421775419"
+            },
+            "views": "367",
+            "editability": {
+                "cancomment": 0,
+                "canaddmeta": 0
+            },
+            "publiceditability": {
+                "cancomment": 1,
+                "canaddmeta": 1
+            },
+            "usage": {
+                "candownload": 1,
+                "canblog": 0,
+                "canprint": 0,
+                "canshare": 1
+            },
+            "comments": {
+                "_content": "0"
+            },
+            "notes": {
+                "note": []
+            },
+            "people": {
+                "haspeople": 0
+            },
+            "tags": {
+                "tag": []
+            },
+            "urls": {
+                "url": [
+                    {
+                        "type": "photopage",
+                        "_content": "https://www.flickr.com/photos/cushinglibrary/2985300834/"
+                    }
+                ]
+            },
+            "media": "photo",
+            "descriptive_metadata": {
+                "Creator": "Unknown",
+                "    Reference Number": "2852",
+                "    Publisher": "Cushing Memorial Library and Archives, Texas A&amp;M University",
+                "    Document Type": "Photograph",
+                "    Category": "Buildings: Academic Building",
+                "    Digitization Date": "2006",
+                "    Photograph Date": "1937",
+                "    Dimensions": "4.5 x 6.5 inches",
+                "    Location": "Buildings: Academic Building - 110",
+                "    Caption": "Snow",
+                "    Collection": "Texas A&amp;M University Archives Photograph Collection",
+                "    Contact Information": "Email: <a href=\"mailto:cushing-library@tamu.edu\" rel=\"noreferrer nofollow\">cushing-library@tamu.edu</a>   Phone: 979-845-1951",
+                "    Repository": "",
+                "    Cushing Memorial Library and Archives, Texas A&amp;M University, College Station, Texas    ": "",
+                "    Restrictions": "",
+                "    It is the users responsibility to secure permission from the copyright holders for publication of any materials. Permission must be obtained in writing prior to publication. Please contact the Cushing Library for further information.    ": "",
+                "    Keywords": "",
+                "    academic; general studies; foreign languages    ": ""
+            }
+        },
+        "stat": "ok"
+    },
+    "exif": {
+        "photo": {
+            "id": "2985300834",
+            "secret": "cf530e02a2",
+            "server": "3242",
+            "farm": 4,
+            "camera": "",
+            "exif": [
+                {
+                    "tagspace": "JFIF",
+                    "tagspaceid": 0,
+                    "tag": "JFIFVersion",
+                    "label": "JFIFVersion",
+                    "raw": {
+                        "_content": "1.02"
+                    }
+                },
+                {
+                    "tagspace": "JFIF",
+                    "tagspaceid": 0,
+                    "tag": "ResolutionUnit",
+                    "label": "Resolution Unit",
+                    "raw": {
+                        "_content": "inches"
+                    }
+                },
+                {
+                    "tagspace": "JFIF",
+                    "tagspaceid": 0,
+                    "tag": "XResolution",
+                    "label": "X-Resolution",
+                    "raw": {
+                        "_content": "400"
+                    },
+                    "clean": {
+                        "_content": "400 dpi"
+                    }
+                },
+                {
+                    "tagspace": "JFIF",
+                    "tagspaceid": 0,
+                    "tag": "YResolution",
+                    "label": "Y-Resolution",
+                    "raw": {
+                        "_content": "400"
+                    },
+                    "clean": {
+                        "_content": "400 dpi"
+                    }
+                }
+            ]
+        },
+        "stat": "ok"
+    },
+    "comments": {
+        "comments": {
+            "photo_id": "2985300834"
+        },
+        "stat": "ok"
+    },
+    "sizes": {
+        "sizes": {
+            "canblog": 0,
+            "canprint": 0,
+            "candownload": 1,
+            "size": [
+                {
+                    "label": "Square",
+                    "width": 75,
+                    "height": 75,
+                    "source": "https://live.staticflickr.com/3242/2985300834_cf530e02a2_s.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/2985300834/sizes/sq/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Large Square",
+                    "width": 150,
+                    "height": 150,
+                    "source": "https://live.staticflickr.com/3242/2985300834_cf530e02a2_q.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/2985300834/sizes/q/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Thumbnail",
+                    "width": 54,
+                    "height": 100,
+                    "source": "https://live.staticflickr.com/3242/2985300834_cf530e02a2_t.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/2985300834/sizes/t/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Small",
+                    "width": 130,
+                    "height": 240,
+                    "source": "https://live.staticflickr.com/3242/2985300834_cf530e02a2_m.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/2985300834/sizes/s/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Small 320",
+                    "width": 173,
+                    "height": 320,
+                    "source": "https://live.staticflickr.com/3242/2985300834_cf530e02a2_n.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/2985300834/sizes/n/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Small 400",
+                    "width": 216,
+                    "height": 400,
+                    "source": "https://live.staticflickr.com/3242/2985300834_cf530e02a2_w.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/2985300834/sizes/w/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Medium",
+                    "width": 270,
+                    "height": 500,
+                    "source": "https://live.staticflickr.com/3242/2985300834_cf530e02a2.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/2985300834/sizes/m/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Medium 640",
+                    "width": 346,
+                    "height": 640,
+                    "source": "https://live.staticflickr.com/3242/2985300834_cf530e02a2_z.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/2985300834/sizes/z/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Medium 800",
+                    "width": 432,
+                    "height": 800,
+                    "source": "https://live.staticflickr.com/3242/2985300834_cf530e02a2_c.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/2985300834/sizes/c/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Large",
+                    "width": 553,
+                    "height": 1024,
+                    "source": "https://live.staticflickr.com/3242/2985300834_cf530e02a2_b.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/2985300834/sizes/l/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Large 1600",
+                    "width": 864,
+                    "height": 1600,
+                    "source": "https://live.staticflickr.com/3242/2985300834_c7dcd7e2b2_h.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/2985300834/sizes/h/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Large 2048",
+                    "width": 1106,
+                    "height": 2048,
+                    "source": "https://live.staticflickr.com/3242/2985300834_6a877288ab_k.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/2985300834/sizes/k/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Original",
+                    "width": 1490,
+                    "height": 2758,
+                    "source": "https://live.staticflickr.com/3242/2985300834_f41ca31684_o.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/2985300834/sizes/o/",
+                    "media": "photo"
+                }
+            ]
+        },
+        "stat": "ok"
+    }
+}

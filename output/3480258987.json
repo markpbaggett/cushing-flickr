@@ -1,0 +1,284 @@
+{
+    "metadata": {
+        "photo": {
+            "id": "3480258987",
+            "secret": "40218c8d1b",
+            "server": "3388",
+            "farm": 4,
+            "dateuploaded": "1240859894",
+            "isfavorite": 0,
+            "license": "3",
+            "safety_level": "0",
+            "rotation": 0,
+            "originalsecret": "510ce24567",
+            "originalformat": "jpg",
+            "owner": {
+                "nsid": "29072716@N04",
+                "username": "Cushing Memorial Library and Archives, Texas A&M",
+                "realname": "",
+                "location": "",
+                "iconserver": "3100",
+                "iconfarm": 4,
+                "path_alias": "cushinglibrary",
+                "gift": {
+                    "gift_eligible": true,
+                    "eligible_durations": [
+                        "year",
+                        "month",
+                        "week"
+                    ],
+                    "new_flow": true
+                }
+            },
+            "title": {
+                "_content": "image-4322"
+            },
+            "description": {
+                "_content": "<b>Creator:</b>Unknown\n    <b>Reference Number:</b>    4322    \n    <b>Publisher:</b>    Cushing Memorial Library and Archives, Texas A&amp;M University    \n\n    <b>Document Type:</b>    Photograph    \n    <b>Category:</b>    Campus Scenes:  Miscellaneous    \n\n    <b>Digitization Date:</b>    2006    \n    <b>Photograph Date:</b>    No date    \n    <b>Dimensions:</b>    3 x 5 inches    \n    <b>Location:</b>    Pictures: Campus Views - General - 20    \n\n    <b>Caption:</b>    President's residence (erected 1893), Shirley Hotel, Bachelor Hall, Residence    \n\n    <b>Collection:</b>    Texas A&amp;M University Archives Photograph Collection    \n\n    <b>Contact Information:</b>    Email: <a href=\"mailto:cushing-library@tamu.edu\" rel=\"noreferrer nofollow\">cushing-library@tamu.edu</a>   Phone: 979-845-1951    \n\n    <b>Repository:</b>\n    Cushing Memorial Library and Archives, Texas A&amp;M University, College Station, Texas    \n\n    <b>Restrictions:</b>\n    It is the users responsibility to secure permission from the copyright holders for publication of any materials. Permission must be obtained in writing prior to publication. Please contact the Cushing Library for further information.    \n\n    <b>Keywords:</b>\n    Student life; Campus; Buildings"
+            },
+            "visibility": {
+                "ispublic": 1,
+                "isfriend": 0,
+                "isfamily": 0
+            },
+            "dates": {
+                "posted": "1240859894",
+                "taken": "2009-04-27 12:18:14",
+                "takengranularity": 0,
+                "takenunknown": 0,
+                "lastupdate": "1421775610"
+            },
+            "views": "479",
+            "editability": {
+                "cancomment": 0,
+                "canaddmeta": 0
+            },
+            "publiceditability": {
+                "cancomment": 1,
+                "canaddmeta": 1
+            },
+            "usage": {
+                "candownload": 1,
+                "canblog": 0,
+                "canprint": 0,
+                "canshare": 1
+            },
+            "comments": {
+                "_content": "0"
+            },
+            "notes": {
+                "note": []
+            },
+            "people": {
+                "haspeople": 0
+            },
+            "tags": {
+                "tag": []
+            },
+            "urls": {
+                "url": [
+                    {
+                        "type": "photopage",
+                        "_content": "https://www.flickr.com/photos/cushinglibrary/3480258987/"
+                    }
+                ]
+            },
+            "media": "photo",
+            "descriptive_metadata": {
+                "Creator": "Unknown",
+                "    Reference Number": "4322",
+                "    Publisher": "Cushing Memorial Library and Archives, Texas A&amp;M University",
+                "    Document Type": "Photograph",
+                "    Category": "Campus Scenes:  Miscellaneous",
+                "    Digitization Date": "2006",
+                "    Photograph Date": "No date",
+                "    Dimensions": "3 x 5 inches",
+                "    Location": "Pictures: Campus Views - General - 20",
+                "    Caption": "President's residence (erected 1893), Shirley Hotel, Bachelor Hall, Residence",
+                "    Collection": "Texas A&amp;M University Archives Photograph Collection",
+                "    Contact Information": "Email: <a href=\"mailto:cushing-library@tamu.edu\" rel=\"noreferrer nofollow\">cushing-library@tamu.edu</a>   Phone: 979-845-1951",
+                "    Repository": "",
+                "    Cushing Memorial Library and Archives, Texas A&amp;M University, College Station, Texas    ": "",
+                "    Restrictions": "",
+                "    It is the users responsibility to secure permission from the copyright holders for publication of any materials. Permission must be obtained in writing prior to publication. Please contact the Cushing Library for further information.    ": "",
+                "    Keywords": "",
+                "    Student life; Campus; Buildings": ""
+            }
+        },
+        "stat": "ok"
+    },
+    "exif": {
+        "photo": {
+            "id": "3480258987",
+            "secret": "40218c8d1b",
+            "server": "3388",
+            "farm": 4,
+            "camera": "",
+            "exif": [
+                {
+                    "tagspace": "JFIF",
+                    "tagspaceid": 0,
+                    "tag": "JFIFVersion",
+                    "label": "JFIFVersion",
+                    "raw": {
+                        "_content": "1.02"
+                    }
+                },
+                {
+                    "tagspace": "JFIF",
+                    "tagspaceid": 0,
+                    "tag": "ResolutionUnit",
+                    "label": "Resolution Unit",
+                    "raw": {
+                        "_content": "inches"
+                    }
+                },
+                {
+                    "tagspace": "JFIF",
+                    "tagspaceid": 0,
+                    "tag": "XResolution",
+                    "label": "X-Resolution",
+                    "raw": {
+                        "_content": "400"
+                    },
+                    "clean": {
+                        "_content": "400 dpi"
+                    }
+                },
+                {
+                    "tagspace": "JFIF",
+                    "tagspaceid": 0,
+                    "tag": "YResolution",
+                    "label": "Y-Resolution",
+                    "raw": {
+                        "_content": "400"
+                    },
+                    "clean": {
+                        "_content": "400 dpi"
+                    }
+                }
+            ]
+        },
+        "stat": "ok"
+    },
+    "comments": {
+        "comments": {
+            "photo_id": "3480258987"
+        },
+        "stat": "ok"
+    },
+    "sizes": {
+        "sizes": {
+            "canblog": 0,
+            "canprint": 0,
+            "candownload": 1,
+            "size": [
+                {
+                    "label": "Square",
+                    "width": 75,
+                    "height": 75,
+                    "source": "https://live.staticflickr.com/3388/3480258987_40218c8d1b_s.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3480258987/sizes/sq/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Large Square",
+                    "width": 150,
+                    "height": 150,
+                    "source": "https://live.staticflickr.com/3388/3480258987_40218c8d1b_q.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3480258987/sizes/q/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Thumbnail",
+                    "width": 100,
+                    "height": 61,
+                    "source": "https://live.staticflickr.com/3388/3480258987_40218c8d1b_t.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3480258987/sizes/t/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Small",
+                    "width": 240,
+                    "height": 146,
+                    "source": "https://live.staticflickr.com/3388/3480258987_40218c8d1b_m.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3480258987/sizes/s/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Small 320",
+                    "width": 320,
+                    "height": 195,
+                    "source": "https://live.staticflickr.com/3388/3480258987_40218c8d1b_n.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3480258987/sizes/n/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Small 400",
+                    "width": 400,
+                    "height": 244,
+                    "source": "https://live.staticflickr.com/3388/3480258987_40218c8d1b_w.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3480258987/sizes/w/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Medium",
+                    "width": 500,
+                    "height": 305,
+                    "source": "https://live.staticflickr.com/3388/3480258987_40218c8d1b.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3480258987/sizes/m/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Medium 640",
+                    "width": 640,
+                    "height": 390,
+                    "source": "https://live.staticflickr.com/3388/3480258987_40218c8d1b_z.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3480258987/sizes/z/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Medium 800",
+                    "width": 800,
+                    "height": 488,
+                    "source": "https://live.staticflickr.com/3388/3480258987_40218c8d1b_c.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3480258987/sizes/c/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Large",
+                    "width": 1024,
+                    "height": 624,
+                    "source": "https://live.staticflickr.com/3388/3480258987_40218c8d1b_b.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3480258987/sizes/l/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Large 1600",
+                    "width": 1600,
+                    "height": 975,
+                    "source": "https://live.staticflickr.com/3388/3480258987_5a140d29a5_h.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3480258987/sizes/h/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Large 2048",
+                    "width": 2048,
+                    "height": 1248,
+                    "source": "https://live.staticflickr.com/3388/3480258987_05528c19a9_k.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3480258987/sizes/k/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Original",
+                    "width": 2297,
+                    "height": 1400,
+                    "source": "https://live.staticflickr.com/3388/3480258987_510ce24567_o.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3480258987/sizes/o/",
+                    "media": "photo"
+                }
+            ]
+        },
+        "stat": "ok"
+    }
+}

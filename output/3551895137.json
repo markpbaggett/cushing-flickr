@@ -1,0 +1,284 @@
+{
+    "metadata": {
+        "photo": {
+            "id": "3551895137",
+            "secret": "7b38cf522c",
+            "server": "3332",
+            "farm": 4,
+            "dateuploaded": "1242942131",
+            "isfavorite": 0,
+            "license": "3",
+            "safety_level": "0",
+            "rotation": 0,
+            "originalsecret": "79c212404c",
+            "originalformat": "jpg",
+            "owner": {
+                "nsid": "29072716@N04",
+                "username": "Cushing Memorial Library and Archives, Texas A&M",
+                "realname": "",
+                "location": "",
+                "iconserver": "3100",
+                "iconfarm": 4,
+                "path_alias": "cushinglibrary",
+                "gift": {
+                    "gift_eligible": true,
+                    "eligible_durations": [
+                        "year",
+                        "month",
+                        "week"
+                    ],
+                    "new_flow": true
+                }
+            },
+            "title": {
+                "_content": "Not Available"
+            },
+            "description": {
+                "_content": "<b>Title:</b> Not Available\n\n<b>Creator (Photographer):</b> Not Available\n\n<b>Publisher:</b>  Agricultural Communications Office of the Texas Agricultural Extension Service\n\n<b>Place of Publication:</b>   College Station, Texas\n\n<b>Year (Coverage):</b>  1938\n\n<b>Document Type:</b>  Image  \n\n<b>Format:</b>  Photographic photo\n\n<b>Dimensions:</b>   6 x 8  inches  \n\n<b>Digitization Date:</b>  May2009 \n\n<b>Description:</b>    Three cows in a pen.\n\n<b>Note:</b>    Mason County, Texas\n\n<b>Collection:</b>    Texas A&amp;M University Archives   \n   \n<b>Resource Identifier:</b>   Agricultural Communications Collection, Box 6, File 6-62\n\n<b>Institution:</b>  Texas A&amp;M University, College Station, Texas\n\n<b>Repository:</b>  Cushing Memorial Library and Archives     \n\n<b>Contact Information:</b>    Email: <a href=\"mailto:cushing-library@tamu.edu\" rel=\"noreferrer nofollow\">cushing-library@tamu.edu</a>   Phone: 979-845-1951    \n\n<b>Copyright:</b>  It is the users responsibility to secure permission from the copyright holders for publication of any materials. Permission must be obtained in writing prior to publication. Please contact the Cushing Memorial Library for further information\n"
+            },
+            "visibility": {
+                "ispublic": 1,
+                "isfriend": 0,
+                "isfamily": 0
+            },
+            "dates": {
+                "posted": "1242942131",
+                "taken": "2009-05-21 14:42:11",
+                "takengranularity": 0,
+                "takenunknown": 0,
+                "lastupdate": "1421775831"
+            },
+            "views": "326",
+            "editability": {
+                "cancomment": 0,
+                "canaddmeta": 0
+            },
+            "publiceditability": {
+                "cancomment": 1,
+                "canaddmeta": 1
+            },
+            "usage": {
+                "candownload": 1,
+                "canblog": 0,
+                "canprint": 0,
+                "canshare": 1
+            },
+            "comments": {
+                "_content": "0"
+            },
+            "notes": {
+                "note": []
+            },
+            "people": {
+                "haspeople": 0
+            },
+            "tags": {
+                "tag": []
+            },
+            "urls": {
+                "url": [
+                    {
+                        "type": "photopage",
+                        "_content": "https://www.flickr.com/photos/cushinglibrary/3551895137/"
+                    }
+                ]
+            },
+            "media": "photo",
+            "descriptive_metadata": {
+                "Title": "Not Available",
+                "Creator (Photographer)": "Not Available",
+                "Publisher": "Agricultural Communications Office of the Texas Agricultural Extension Service",
+                "Place of Publication": "College Station, Texas",
+                "Year (Coverage)": "1938",
+                "Document Type": "Image",
+                "Format": "Photographic photo",
+                "Dimensions": "6 x 8  inches",
+                "Digitization Date": "May2009",
+                "Description": "Three cows in a pen.",
+                "Note": "Mason County, Texas",
+                "Collection": "Texas A&amp;M University Archives",
+                "   ": "",
+                "Resource Identifier": "Agricultural Communications Collection, Box 6, File 6-62",
+                "Institution": "Texas A&amp;M University, College Station, Texas",
+                "Repository": "Cushing Memorial Library and Archives",
+                "Contact Information": "Email: <a href=\"mailto:cushing-library@tamu.edu\" rel=\"noreferrer nofollow\">cushing-library@tamu.edu</a>   Phone: 979-845-1951",
+                "Copyright": "It is the users responsibility to secure permission from the copyright holders for publication of any materials. Permission must be obtained in writing prior to publication. Please contact the Cushing Memorial Library for further information"
+            }
+        },
+        "stat": "ok"
+    },
+    "exif": {
+        "photo": {
+            "id": "3551895137",
+            "secret": "7b38cf522c",
+            "server": "3332",
+            "farm": 4,
+            "camera": "",
+            "exif": [
+                {
+                    "tagspace": "JFIF",
+                    "tagspaceid": 0,
+                    "tag": "JFIFVersion",
+                    "label": "JFIFVersion",
+                    "raw": {
+                        "_content": "1.02"
+                    }
+                },
+                {
+                    "tagspace": "JFIF",
+                    "tagspaceid": 0,
+                    "tag": "ResolutionUnit",
+                    "label": "Resolution Unit",
+                    "raw": {
+                        "_content": "inches"
+                    }
+                },
+                {
+                    "tagspace": "JFIF",
+                    "tagspaceid": 0,
+                    "tag": "XResolution",
+                    "label": "X-Resolution",
+                    "raw": {
+                        "_content": "400"
+                    },
+                    "clean": {
+                        "_content": "400 dpi"
+                    }
+                },
+                {
+                    "tagspace": "JFIF",
+                    "tagspaceid": 0,
+                    "tag": "YResolution",
+                    "label": "Y-Resolution",
+                    "raw": {
+                        "_content": "400"
+                    },
+                    "clean": {
+                        "_content": "400 dpi"
+                    }
+                }
+            ]
+        },
+        "stat": "ok"
+    },
+    "comments": {
+        "comments": {
+            "photo_id": "3551895137"
+        },
+        "stat": "ok"
+    },
+    "sizes": {
+        "sizes": {
+            "canblog": 0,
+            "canprint": 0,
+            "candownload": 1,
+            "size": [
+                {
+                    "label": "Square",
+                    "width": 75,
+                    "height": 75,
+                    "source": "https://live.staticflickr.com/3332/3551895137_7b38cf522c_s.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3551895137/sizes/sq/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Large Square",
+                    "width": 150,
+                    "height": 150,
+                    "source": "https://live.staticflickr.com/3332/3551895137_7b38cf522c_q.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3551895137/sizes/q/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Thumbnail",
+                    "width": 100,
+                    "height": 76,
+                    "source": "https://live.staticflickr.com/3332/3551895137_7b38cf522c_t.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3551895137/sizes/t/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Small",
+                    "width": 240,
+                    "height": 183,
+                    "source": "https://live.staticflickr.com/3332/3551895137_7b38cf522c_m.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3551895137/sizes/s/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Small 320",
+                    "width": 320,
+                    "height": 244,
+                    "source": "https://live.staticflickr.com/3332/3551895137_7b38cf522c_n.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3551895137/sizes/n/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Small 400",
+                    "width": 400,
+                    "height": 306,
+                    "source": "https://live.staticflickr.com/3332/3551895137_7b38cf522c_w.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3551895137/sizes/w/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Medium",
+                    "width": 500,
+                    "height": 382,
+                    "source": "https://live.staticflickr.com/3332/3551895137_7b38cf522c.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3551895137/sizes/m/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Medium 640",
+                    "width": 640,
+                    "height": 489,
+                    "source": "https://live.staticflickr.com/3332/3551895137_7b38cf522c_z.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3551895137/sizes/z/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Medium 800",
+                    "width": 800,
+                    "height": 611,
+                    "source": "https://live.staticflickr.com/3332/3551895137_7b38cf522c_c.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3551895137/sizes/c/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Large",
+                    "width": 1024,
+                    "height": 782,
+                    "source": "https://live.staticflickr.com/3332/3551895137_7b38cf522c_b.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3551895137/sizes/l/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Large 1600",
+                    "width": 1600,
+                    "height": 1222,
+                    "source": "https://live.staticflickr.com/3332/3551895137_2dc751c369_h.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3551895137/sizes/h/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Large 2048",
+                    "width": 2048,
+                    "height": 1564,
+                    "source": "https://live.staticflickr.com/3332/3551895137_48c391491e_k.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3551895137/sizes/k/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Original",
+                    "width": 3154,
+                    "height": 2409,
+                    "source": "https://live.staticflickr.com/3332/3551895137_79c212404c_o.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3551895137/sizes/o/",
+                    "media": "photo"
+                }
+            ]
+        },
+        "stat": "ok"
+    }
+}

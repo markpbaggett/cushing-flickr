@@ -1,0 +1,310 @@
+{
+    "metadata": {
+        "photo": {
+            "id": "3865670664",
+            "secret": "84ac3fb46d",
+            "server": "3472",
+            "farm": 4,
+            "dateuploaded": "1251484691",
+            "isfavorite": 0,
+            "license": "3",
+            "safety_level": "0",
+            "rotation": 0,
+            "originalsecret": "771ea38fac",
+            "originalformat": "jpg",
+            "owner": {
+                "nsid": "29072716@N04",
+                "username": "Cushing Memorial Library and Archives, Texas A&M",
+                "realname": "",
+                "location": "",
+                "iconserver": "3100",
+                "iconfarm": 4,
+                "path_alias": "cushinglibrary",
+                "gift": {
+                    "gift_eligible": true,
+                    "eligible_durations": [
+                        "year",
+                        "month",
+                        "week"
+                    ],
+                    "new_flow": true
+                }
+            },
+            "title": {
+                "_content": "maps_park_40-4_50-58"
+            },
+            "description": {
+                "_content": "<b>Title: </b> The Maps of Goliad State Park Project\n\n<b>Architect: </b> Raiford Stripling Associates Inc. Architects\n\n<b>Document Type: </b> Drawing\n\n<b>Format:</b>  Print\n\n<b>Physical Description:  </b> 50 x 58 cm    \n\n<b>Digitization Date: </b> 2009-06\n\n<b>Project Name: </b> Map of Goliad Mission Area and Other Historical Points of Interest as Prepared by the National Park Service and the Goliad State Park Commission Cooperating\n\n<b>Building Location: </b> Please contact the Cushing Library for further information    \n\n<b>Drawing Execution Date: </b> No Date\n\n<b>Descriptive Notes: </b> 1 print of map, 1 print of site map, 5 prints of maps \n\n<b>Repository: </b> Cushing Memorial Library and Archives, Texas A&amp; M University, College Station, Texas    \n\n<b>Repository Collection: </b> The Raiford Leak Stripling Architecture Collection\n\n<b>Order Number: </b> 40/4\n\n<b>Inventory Correspondence: </b> 19-1 \u2013 19-12, 20-1- 20-11, 21-1-21-25\n\n<b>Contact Information:</b>    Email: <a href=\"mailto:cushing-library@tamu.edu\" rel=\"noreferrer nofollow\">cushing-library@tamu.edu</a>   Phone: 979-845-1951.    \n\n<b>Copyright:</b>  It is the users responsibility to secure permission from the copyright holders for publication of any materials. Permission must be obtained in writing prior to publication. Please contact the Cushing Memorial Library for further information.\n"
+            },
+            "visibility": {
+                "ispublic": 1,
+                "isfriend": 0,
+                "isfamily": 0
+            },
+            "dates": {
+                "posted": "1251484691",
+                "taken": "2009-08-27 13:22:08",
+                "takengranularity": 0,
+                "takenunknown": 0,
+                "lastupdate": "1421776099"
+            },
+            "views": "302",
+            "editability": {
+                "cancomment": 0,
+                "canaddmeta": 0
+            },
+            "publiceditability": {
+                "cancomment": 1,
+                "canaddmeta": 1
+            },
+            "usage": {
+                "candownload": 1,
+                "canblog": 0,
+                "canprint": 0,
+                "canshare": 1
+            },
+            "comments": {
+                "_content": "0"
+            },
+            "notes": {
+                "note": []
+            },
+            "people": {
+                "haspeople": 0
+            },
+            "tags": {
+                "tag": []
+            },
+            "urls": {
+                "url": [
+                    {
+                        "type": "photopage",
+                        "_content": "https://www.flickr.com/photos/cushinglibrary/3865670664/"
+                    }
+                ]
+            },
+            "media": "photo",
+            "descriptive_metadata": {
+                "Title": "The Maps of Goliad State Park Project",
+                "Architect": "Raiford Stripling Associates Inc. Architects",
+                "Document Type": "Drawing",
+                "Format": "Print",
+                "Physical Description": "50 x 58 cm",
+                "Digitization Date": "2009-06",
+                "Project Name": "Map of Goliad Mission Area and Other Historical Points of Interest as Prepared by the National Park Service and the Goliad State Park Commission Cooperating",
+                "Building Location": "Please contact the Cushing Library for further information",
+                "Drawing Execution Date": "No Date",
+                "Descriptive Notes": "1 print of map, 1 print of site map, 5 prints of maps",
+                "Repository": "Cushing Memorial Library and Archives, Texas A&amp; M University, College Station, Texas",
+                "Repository Collection": "The Raiford Leak Stripling Architecture Collection",
+                "Order Number": "40/4",
+                "Inventory Correspondence": "19-1 \u2013 19-12, 20-1- 20-11, 21-1-21-25",
+                "Contact Information": "Email: <a href=\"mailto:cushing-library@tamu.edu\" rel=\"noreferrer nofollow\">cushing-library@tamu.edu</a>   Phone: 979-845-1951.",
+                "Copyright": "It is the users responsibility to secure permission from the copyright holders for publication of any materials. Permission must be obtained in writing prior to publication. Please contact the Cushing Memorial Library for further information."
+            }
+        },
+        "stat": "ok"
+    },
+    "exif": {
+        "photo": {
+            "id": "3865670664",
+            "secret": "84ac3fb46d",
+            "server": "3472",
+            "farm": 4,
+            "camera": "i2s Digibook Scanner Suprascan 10000 RGB",
+            "exif": [
+                {
+                    "tagspace": "JFIF",
+                    "tagspaceid": 0,
+                    "tag": "JFIFVersion",
+                    "label": "JFIFVersion",
+                    "raw": {
+                        "_content": "1.02"
+                    }
+                },
+                {
+                    "tagspace": "JFIF",
+                    "tagspaceid": 0,
+                    "tag": "ResolutionUnit",
+                    "label": "Resolution Unit",
+                    "raw": {
+                        "_content": "inches"
+                    }
+                },
+                {
+                    "tagspace": "JFIF",
+                    "tagspaceid": 0,
+                    "tag": "XResolution",
+                    "label": "X-Resolution",
+                    "raw": {
+                        "_content": "400"
+                    },
+                    "clean": {
+                        "_content": "400 dpi"
+                    }
+                },
+                {
+                    "tagspace": "JFIF",
+                    "tagspaceid": 0,
+                    "tag": "YResolution",
+                    "label": "Y-Resolution",
+                    "raw": {
+                        "_content": "400"
+                    },
+                    "clean": {
+                        "_content": "400 dpi"
+                    }
+                },
+                {
+                    "tagspace": "Photoshop",
+                    "tagspaceid": 0,
+                    "tag": "CopyrightFlag",
+                    "label": "Copyright Flag",
+                    "raw": {
+                        "_content": "False"
+                    }
+                },
+                {
+                    "tagspace": "Photoshop",
+                    "tagspaceid": 0,
+                    "tag": "GlobalAngle",
+                    "label": "Global Angle",
+                    "raw": {
+                        "_content": "30"
+                    }
+                },
+                {
+                    "tagspace": "Photoshop",
+                    "tagspaceid": 0,
+                    "tag": "GlobalAltitude",
+                    "label": "Global Altitude",
+                    "raw": {
+                        "_content": "30"
+                    }
+                },
+                {
+                    "tagspace": "Photoshop",
+                    "tagspaceid": 0,
+                    "tag": "IPTCDigest",
+                    "label": "IPTCDigest",
+                    "raw": {
+                        "_content": "00000000000000000000000000000000"
+                    }
+                }
+            ]
+        },
+        "stat": "ok"
+    },
+    "comments": {
+        "comments": {
+            "photo_id": "3865670664"
+        },
+        "stat": "ok"
+    },
+    "sizes": {
+        "sizes": {
+            "canblog": 0,
+            "canprint": 0,
+            "candownload": 1,
+            "size": [
+                {
+                    "label": "Square",
+                    "width": 75,
+                    "height": 75,
+                    "source": "https://live.staticflickr.com/3472/3865670664_84ac3fb46d_s.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3865670664/sizes/sq/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Large Square",
+                    "width": 150,
+                    "height": 150,
+                    "source": "https://live.staticflickr.com/3472/3865670664_84ac3fb46d_q.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3865670664/sizes/q/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Thumbnail",
+                    "width": 98,
+                    "height": 100,
+                    "source": "https://live.staticflickr.com/3472/3865670664_84ac3fb46d_t.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3865670664/sizes/t/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Small",
+                    "width": 234,
+                    "height": 240,
+                    "source": "https://live.staticflickr.com/3472/3865670664_84ac3fb46d_m.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3865670664/sizes/s/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Small 320",
+                    "width": 312,
+                    "height": 320,
+                    "source": "https://live.staticflickr.com/3472/3865670664_84ac3fb46d_n.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3865670664/sizes/n/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Small 400",
+                    "width": 390,
+                    "height": 400,
+                    "source": "https://live.staticflickr.com/3472/3865670664_84ac3fb46d_w.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3865670664/sizes/w/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Medium",
+                    "width": 488,
+                    "height": 500,
+                    "source": "https://live.staticflickr.com/3472/3865670664_84ac3fb46d.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3865670664/sizes/m/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Medium 640",
+                    "width": 624,
+                    "height": 640,
+                    "source": "https://live.staticflickr.com/3472/3865670664_84ac3fb46d_z.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3865670664/sizes/z/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Medium 800",
+                    "width": 780,
+                    "height": 800,
+                    "source": "https://live.staticflickr.com/3472/3865670664_84ac3fb46d_c.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3865670664/sizes/c/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Large",
+                    "width": 999,
+                    "height": 1024,
+                    "source": "https://live.staticflickr.com/3472/3865670664_84ac3fb46d_b.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3865670664/sizes/l/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Large 1600",
+                    "width": 1561,
+                    "height": 1600,
+                    "source": "https://live.staticflickr.com/3472/3865670664_db9e236c15_h.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3865670664/sizes/h/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Original",
+                    "width": 1600,
+                    "height": 1640,
+                    "source": "https://live.staticflickr.com/3472/3865670664_771ea38fac_o.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3865670664/sizes/o/",
+                    "media": "photo"
+                }
+            ]
+        },
+        "stat": "ok"
+    }
+}

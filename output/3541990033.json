@@ -1,0 +1,243 @@
+{
+    "metadata": {
+        "photo": {
+            "id": "3541990033",
+            "secret": "5227380e14",
+            "server": "3252",
+            "farm": 4,
+            "dateuploaded": "1242657055",
+            "isfavorite": 0,
+            "license": "3",
+            "safety_level": "0",
+            "rotation": 0,
+            "originalsecret": "af4062653b",
+            "originalformat": "jpg",
+            "owner": {
+                "nsid": "29072716@N04",
+                "username": "Cushing Memorial Library and Archives, Texas A&M",
+                "realname": "",
+                "location": "",
+                "iconserver": "3100",
+                "iconfarm": 4,
+                "path_alias": "cushinglibrary",
+                "gift": {
+                    "gift_eligible": true,
+                    "eligible_durations": [
+                        "year",
+                        "month",
+                        "week"
+                    ],
+                    "new_flow": true
+                }
+            },
+            "title": {
+                "_content": "Eller Oceanography and Meterology Building - 24"
+            },
+            "description": {
+                "_content": "<b>Title: </b>Eller Oceanography and Meterology Building - 24 \n<b>Digital Publisher: </b>Digital: Cushing Memorial Library and Archives, Texas A&amp;M University, College Station, Texas \n<b>Physical Publisher: </b>Physical: Cushing Memorial Library and Archives, Texas A&amp;M University \n<b>Description:</b> photograph date: Unknow; Buildings: Eller Oceanography and Meterology Building \n<b>Date Issued:</b> 2006 \n<b>Dimensions: </b>1 x 1.5 inches \n<b>Type: </b>image \n<b>Identifier:</b> Photograph Location: Building Files: Eller O&amp;M Building- 14; Reference Number: 6566 \n<b>Rights: </b>It is the users responsibility to secure permission from the copyright holders for publication of any materials. Permission must be obtained in writing prior to publication. Please contact the Cushing Memorial Library for further information \n"
+            },
+            "visibility": {
+                "ispublic": 1,
+                "isfriend": 0,
+                "isfamily": 0
+            },
+            "dates": {
+                "posted": "1242657055",
+                "taken": "2009-05-18 07:30:55",
+                "takengranularity": 0,
+                "takenunknown": 0,
+                "lastupdate": "1421775679"
+            },
+            "views": "331",
+            "editability": {
+                "cancomment": 0,
+                "canaddmeta": 0
+            },
+            "publiceditability": {
+                "cancomment": 1,
+                "canaddmeta": 1
+            },
+            "usage": {
+                "candownload": 1,
+                "canblog": 0,
+                "canprint": 0,
+                "canshare": 1
+            },
+            "comments": {
+                "_content": "0"
+            },
+            "notes": {
+                "note": []
+            },
+            "people": {
+                "haspeople": 0
+            },
+            "tags": {
+                "tag": []
+            },
+            "urls": {
+                "url": [
+                    {
+                        "type": "photopage",
+                        "_content": "https://www.flickr.com/photos/cushinglibrary/3541990033/"
+                    }
+                ]
+            },
+            "media": "photo",
+            "descriptive_metadata": {
+                "Title": "Eller Oceanography and Meterology Building - 24",
+                "Digital Publisher": "Digital: Cushing Memorial Library and Archives, Texas A&amp;M University, College Station, Texas",
+                "Physical Publisher": "Physical: Cushing Memorial Library and Archives, Texas A&amp;M University",
+                "Description": "photograph date: Unknow; Buildings: Eller Oceanography and Meterology Building",
+                "Date Issued": "2006",
+                "Dimensions": "1 x 1.5 inches",
+                "Type": "image",
+                "Identifier": "Photograph Location: Building Files: Eller O&amp;M Building- 14; Reference Number: 6566",
+                "Rights": "It is the users responsibility to secure permission from the copyright holders for publication of any materials. Permission must be obtained in writing prior to publication. Please contact the Cushing Memorial Library for further information"
+            }
+        },
+        "stat": "ok"
+    },
+    "exif": {
+        "photo": {
+            "id": "3541990033",
+            "secret": "5227380e14",
+            "server": "3252",
+            "farm": 4,
+            "camera": "",
+            "exif": [
+                {
+                    "tagspace": "JFIF",
+                    "tagspaceid": 0,
+                    "tag": "JFIFVersion",
+                    "label": "JFIFVersion",
+                    "raw": {
+                        "_content": "1.02"
+                    }
+                },
+                {
+                    "tagspace": "JFIF",
+                    "tagspaceid": 0,
+                    "tag": "ResolutionUnit",
+                    "label": "Resolution Unit",
+                    "raw": {
+                        "_content": "inches"
+                    }
+                },
+                {
+                    "tagspace": "JFIF",
+                    "tagspaceid": 0,
+                    "tag": "XResolution",
+                    "label": "X-Resolution",
+                    "raw": {
+                        "_content": "400"
+                    },
+                    "clean": {
+                        "_content": "400 dpi"
+                    }
+                },
+                {
+                    "tagspace": "JFIF",
+                    "tagspaceid": 0,
+                    "tag": "YResolution",
+                    "label": "Y-Resolution",
+                    "raw": {
+                        "_content": "400"
+                    },
+                    "clean": {
+                        "_content": "400 dpi"
+                    }
+                }
+            ]
+        },
+        "stat": "ok"
+    },
+    "comments": {
+        "comments": {
+            "photo_id": "3541990033"
+        },
+        "stat": "ok"
+    },
+    "sizes": {
+        "sizes": {
+            "canblog": 0,
+            "canprint": 0,
+            "candownload": 1,
+            "size": [
+                {
+                    "label": "Square",
+                    "width": 75,
+                    "height": 75,
+                    "source": "https://live.staticflickr.com/3252/3541990033_5227380e14_s.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3541990033/sizes/sq/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Large Square",
+                    "width": 150,
+                    "height": 150,
+                    "source": "https://live.staticflickr.com/3252/3541990033_5227380e14_q.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3541990033/sizes/q/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Thumbnail",
+                    "width": 68,
+                    "height": 100,
+                    "source": "https://live.staticflickr.com/3252/3541990033_5227380e14_t.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3541990033/sizes/t/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Small",
+                    "width": 163,
+                    "height": 240,
+                    "source": "https://live.staticflickr.com/3252/3541990033_5227380e14_m.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3541990033/sizes/s/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Small 320",
+                    "width": 218,
+                    "height": 320,
+                    "source": "https://live.staticflickr.com/3252/3541990033_5227380e14_n.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3541990033/sizes/n/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Small 400",
+                    "width": 272,
+                    "height": 400,
+                    "source": "https://live.staticflickr.com/3252/3541990033_5227380e14_w.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3541990033/sizes/w/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Medium",
+                    "width": 340,
+                    "height": 500,
+                    "source": "https://live.staticflickr.com/3252/3541990033_5227380e14.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3541990033/sizes/m/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Medium 640",
+                    "width": 390,
+                    "height": 573,
+                    "source": "https://live.staticflickr.com/3252/3541990033_5227380e14_z.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3541990033/sizes/z/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Original",
+                    "width": 390,
+                    "height": 573,
+                    "source": "https://live.staticflickr.com/3252/3541990033_af4062653b_o.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3541990033/sizes/o/",
+                    "media": "photo"
+                }
+            ]
+        },
+        "stat": "ok"
+    }
+}

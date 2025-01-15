@@ -1,0 +1,275 @@
+{
+    "metadata": {
+        "photo": {
+            "id": "2822971122",
+            "secret": "b643cfa8da",
+            "server": "2104",
+            "farm": 3,
+            "dateuploaded": "1220390590",
+            "isfavorite": 0,
+            "license": "3",
+            "safety_level": "0",
+            "rotation": 0,
+            "originalsecret": "1fdb25a21d",
+            "originalformat": "jpg",
+            "owner": {
+                "nsid": "29072716@N04",
+                "username": "Cushing Memorial Library and Archives, Texas A&M",
+                "realname": "",
+                "location": "",
+                "iconserver": "3100",
+                "iconfarm": 4,
+                "path_alias": "cushinglibrary",
+                "gift": {
+                    "gift_eligible": true,
+                    "eligible_durations": [
+                        "year",
+                        "month",
+                        "week"
+                    ],
+                    "new_flow": true
+                }
+            },
+            "title": {
+                "_content": "Harrington Education Center - 10"
+            },
+            "description": {
+                "_content": "<b>Title: </b>Harrington Education Center - 10 \n<b>Digital Publisher: </b>Digital: Cushing Memorial Library and Archives, Texas A&amp;M University, College Station, Texas \n<b>Physical Publisher: </b>Physical: Cushing Memorial Library and Archives, Texas A&amp;M University \n<b>Description:</b> 197; Buildings: Harrington Education Center \n<b>Date Issued:</b> 2005-06-30 \n<b>Dimensions: </b>6.578 x 4.487 inches \n<b>Type: </b>image \n<b>Identifier:</b> Photograph Location: Building Photos, Harrington Education Center 1; Reference Number: 98 \n<b>Rights: </b>It is the users responsibility to secure permission from the copyright holders for publication of any materials. Permission must be obtained in writing prior to publication. Please contact the Cushing Memorial Library for further information \n"
+            },
+            "visibility": {
+                "ispublic": 1,
+                "isfriend": 0,
+                "isfamily": 0
+            },
+            "dates": {
+                "posted": "1220390590",
+                "taken": "2008-09-02 14:23:10",
+                "takengranularity": 0,
+                "takenunknown": 0,
+                "lastupdate": "1421775360"
+            },
+            "views": "460",
+            "editability": {
+                "cancomment": 0,
+                "canaddmeta": 0
+            },
+            "publiceditability": {
+                "cancomment": 1,
+                "canaddmeta": 1
+            },
+            "usage": {
+                "candownload": 1,
+                "canblog": 0,
+                "canprint": 0,
+                "canshare": 1
+            },
+            "comments": {
+                "_content": "0"
+            },
+            "notes": {
+                "note": []
+            },
+            "people": {
+                "haspeople": 0
+            },
+            "tags": {
+                "tag": []
+            },
+            "urls": {
+                "url": [
+                    {
+                        "type": "photopage",
+                        "_content": "https://www.flickr.com/photos/cushinglibrary/2822971122/"
+                    }
+                ]
+            },
+            "media": "photo",
+            "descriptive_metadata": {
+                "Title": "Harrington Education Center - 10",
+                "Digital Publisher": "Digital: Cushing Memorial Library and Archives, Texas A&amp;M University, College Station, Texas",
+                "Physical Publisher": "Physical: Cushing Memorial Library and Archives, Texas A&amp;M University",
+                "Description": "197; Buildings: Harrington Education Center",
+                "Date Issued": "2005-06-30",
+                "Dimensions": "6.578 x 4.487 inches",
+                "Type": "image",
+                "Identifier": "Photograph Location: Building Photos, Harrington Education Center 1; Reference Number: 98",
+                "Rights": "It is the users responsibility to secure permission from the copyright holders for publication of any materials. Permission must be obtained in writing prior to publication. Please contact the Cushing Memorial Library for further information"
+            }
+        },
+        "stat": "ok"
+    },
+    "exif": {
+        "photo": {
+            "id": "2822971122",
+            "secret": "b643cfa8da",
+            "server": "2104",
+            "farm": 3,
+            "camera": "",
+            "exif": [
+                {
+                    "tagspace": "JFIF",
+                    "tagspaceid": 0,
+                    "tag": "JFIFVersion",
+                    "label": "JFIFVersion",
+                    "raw": {
+                        "_content": "1.02"
+                    }
+                },
+                {
+                    "tagspace": "JFIF",
+                    "tagspaceid": 0,
+                    "tag": "ResolutionUnit",
+                    "label": "Resolution Unit",
+                    "raw": {
+                        "_content": "inches"
+                    }
+                },
+                {
+                    "tagspace": "JFIF",
+                    "tagspaceid": 0,
+                    "tag": "XResolution",
+                    "label": "X-Resolution",
+                    "raw": {
+                        "_content": "400"
+                    },
+                    "clean": {
+                        "_content": "400 dpi"
+                    }
+                },
+                {
+                    "tagspace": "JFIF",
+                    "tagspaceid": 0,
+                    "tag": "YResolution",
+                    "label": "Y-Resolution",
+                    "raw": {
+                        "_content": "400"
+                    },
+                    "clean": {
+                        "_content": "400 dpi"
+                    }
+                }
+            ]
+        },
+        "stat": "ok"
+    },
+    "comments": {
+        "comments": {
+            "photo_id": "2822971122"
+        },
+        "stat": "ok"
+    },
+    "sizes": {
+        "sizes": {
+            "canblog": 0,
+            "canprint": 0,
+            "candownload": 1,
+            "size": [
+                {
+                    "label": "Square",
+                    "width": 75,
+                    "height": 75,
+                    "source": "https://live.staticflickr.com/2104/2822971122_b643cfa8da_s.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/2822971122/sizes/sq/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Large Square",
+                    "width": 150,
+                    "height": 150,
+                    "source": "https://live.staticflickr.com/2104/2822971122_b643cfa8da_q.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/2822971122/sizes/q/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Thumbnail",
+                    "width": 100,
+                    "height": 68,
+                    "source": "https://live.staticflickr.com/2104/2822971122_b643cfa8da_t.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/2822971122/sizes/t/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Small",
+                    "width": 240,
+                    "height": 164,
+                    "source": "https://live.staticflickr.com/2104/2822971122_b643cfa8da_m.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/2822971122/sizes/s/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Small 320",
+                    "width": 320,
+                    "height": 218,
+                    "source": "https://live.staticflickr.com/2104/2822971122_b643cfa8da_n.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/2822971122/sizes/n/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Small 400",
+                    "width": 400,
+                    "height": 273,
+                    "source": "https://live.staticflickr.com/2104/2822971122_b643cfa8da_w.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/2822971122/sizes/w/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Medium",
+                    "width": 500,
+                    "height": 341,
+                    "source": "https://live.staticflickr.com/2104/2822971122_b643cfa8da.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/2822971122/sizes/m/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Medium 640",
+                    "width": 640,
+                    "height": 437,
+                    "source": "https://live.staticflickr.com/2104/2822971122_b643cfa8da_z.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/2822971122/sizes/z/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Medium 800",
+                    "width": 800,
+                    "height": 546,
+                    "source": "https://live.staticflickr.com/2104/2822971122_b643cfa8da_c.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/2822971122/sizes/c/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Large",
+                    "width": 1024,
+                    "height": 699,
+                    "source": "https://live.staticflickr.com/2104/2822971122_b643cfa8da_b.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/2822971122/sizes/l/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Large 1600",
+                    "width": 1600,
+                    "height": 1092,
+                    "source": "https://live.staticflickr.com/2104/2822971122_53090172c1_h.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/2822971122/sizes/h/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Large 2048",
+                    "width": 2048,
+                    "height": 1397,
+                    "source": "https://live.staticflickr.com/2104/2822971122_db8d7a9d38_k.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/2822971122/sizes/k/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Original",
+                    "width": 2631,
+                    "height": 1795,
+                    "source": "https://live.staticflickr.com/2104/2822971122_1fdb25a21d_o.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/2822971122/sizes/o/",
+                    "media": "photo"
+                }
+            ]
+        },
+        "stat": "ok"
+    }
+}

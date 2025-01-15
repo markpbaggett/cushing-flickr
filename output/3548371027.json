@@ -1,0 +1,276 @@
+{
+    "metadata": {
+        "photo": {
+            "id": "3548371027",
+            "secret": "01d229fc6e",
+            "server": "3575",
+            "farm": 4,
+            "dateuploaded": "1242834051",
+            "isfavorite": 0,
+            "license": "3",
+            "safety_level": "0",
+            "rotation": 0,
+            "originalsecret": "76ab4e03c3",
+            "originalformat": "jpg",
+            "owner": {
+                "nsid": "29072716@N04",
+                "username": "Cushing Memorial Library and Archives, Texas A&M",
+                "realname": "",
+                "location": "",
+                "iconserver": "3100",
+                "iconfarm": 4,
+                "path_alias": "cushinglibrary",
+                "gift": {
+                    "gift_eligible": true,
+                    "eligible_durations": [
+                        "year",
+                        "month",
+                        "week"
+                    ],
+                    "new_flow": true
+                }
+            },
+            "title": {
+                "_content": "Yell Leaders & Yell Practice - 71"
+            },
+            "description": {
+                "_content": "<b>Title: </b>Yell Leaders &amp; Yell Practice - 71 \n<b>Digital Publisher: </b>Digital: Cushing Memorial Library and Archives, Texas A&amp;M University, College Station, Texas \n<b>Physical Publisher: </b>Physical: Cushing Memorial Library and Archives, Texas A&amp;M University \n<b>Description:</b> Former Students: Yell Leaders \n<b>Date Issued:</b> 2007-10-24 \n<b>Date Created:</b> 1979 \n<b>Dimensions: </b>8 x 10 inches \n<b>Type: </b>image \n<b>Identifier:</b> Photograph Location: Yell Leader 071; Reference Number: 8745 \n<b>Rights: </b>It is the users responsibility to secure permission from the copyright holders for publication of any materials. Permission must be obtained in writing prior to publication. Please contact the Cushing Memorial Library for further information \n"
+            },
+            "visibility": {
+                "ispublic": 1,
+                "isfriend": 0,
+                "isfamily": 0
+            },
+            "dates": {
+                "posted": "1242834051",
+                "taken": "2009-05-20 08:40:51",
+                "takengranularity": 0,
+                "takenunknown": 0,
+                "lastupdate": "1421775810"
+            },
+            "views": "1177",
+            "editability": {
+                "cancomment": 0,
+                "canaddmeta": 0
+            },
+            "publiceditability": {
+                "cancomment": 1,
+                "canaddmeta": 1
+            },
+            "usage": {
+                "candownload": 1,
+                "canblog": 0,
+                "canprint": 0,
+                "canshare": 1
+            },
+            "comments": {
+                "_content": "0"
+            },
+            "notes": {
+                "note": []
+            },
+            "people": {
+                "haspeople": 0
+            },
+            "tags": {
+                "tag": []
+            },
+            "urls": {
+                "url": [
+                    {
+                        "type": "photopage",
+                        "_content": "https://www.flickr.com/photos/cushinglibrary/3548371027/"
+                    }
+                ]
+            },
+            "media": "photo",
+            "descriptive_metadata": {
+                "Title": "Yell Leaders &amp; Yell Practice - 71",
+                "Digital Publisher": "Digital: Cushing Memorial Library and Archives, Texas A&amp;M University, College Station, Texas",
+                "Physical Publisher": "Physical: Cushing Memorial Library and Archives, Texas A&amp;M University",
+                "Description": "Former Students: Yell Leaders",
+                "Date Issued": "2007-10-24",
+                "Date Created": "1979",
+                "Dimensions": "8 x 10 inches",
+                "Type": "image",
+                "Identifier": "Photograph Location: Yell Leader 071; Reference Number: 8745",
+                "Rights": "It is the users responsibility to secure permission from the copyright holders for publication of any materials. Permission must be obtained in writing prior to publication. Please contact the Cushing Memorial Library for further information"
+            }
+        },
+        "stat": "ok"
+    },
+    "exif": {
+        "photo": {
+            "id": "3548371027",
+            "secret": "01d229fc6e",
+            "server": "3575",
+            "farm": 4,
+            "camera": "",
+            "exif": [
+                {
+                    "tagspace": "JFIF",
+                    "tagspaceid": 0,
+                    "tag": "JFIFVersion",
+                    "label": "JFIFVersion",
+                    "raw": {
+                        "_content": "1.02"
+                    }
+                },
+                {
+                    "tagspace": "JFIF",
+                    "tagspaceid": 0,
+                    "tag": "ResolutionUnit",
+                    "label": "Resolution Unit",
+                    "raw": {
+                        "_content": "inches"
+                    }
+                },
+                {
+                    "tagspace": "JFIF",
+                    "tagspaceid": 0,
+                    "tag": "XResolution",
+                    "label": "X-Resolution",
+                    "raw": {
+                        "_content": "400"
+                    },
+                    "clean": {
+                        "_content": "400 dpi"
+                    }
+                },
+                {
+                    "tagspace": "JFIF",
+                    "tagspaceid": 0,
+                    "tag": "YResolution",
+                    "label": "Y-Resolution",
+                    "raw": {
+                        "_content": "400"
+                    },
+                    "clean": {
+                        "_content": "400 dpi"
+                    }
+                }
+            ]
+        },
+        "stat": "ok"
+    },
+    "comments": {
+        "comments": {
+            "photo_id": "3548371027"
+        },
+        "stat": "ok"
+    },
+    "sizes": {
+        "sizes": {
+            "canblog": 0,
+            "canprint": 0,
+            "candownload": 1,
+            "size": [
+                {
+                    "label": "Square",
+                    "width": 75,
+                    "height": 75,
+                    "source": "https://live.staticflickr.com/3575/3548371027_01d229fc6e_s.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3548371027/sizes/sq/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Large Square",
+                    "width": 150,
+                    "height": 150,
+                    "source": "https://live.staticflickr.com/3575/3548371027_01d229fc6e_q.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3548371027/sizes/q/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Thumbnail",
+                    "width": 71,
+                    "height": 100,
+                    "source": "https://live.staticflickr.com/3575/3548371027_01d229fc6e_t.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3548371027/sizes/t/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Small",
+                    "width": 171,
+                    "height": 240,
+                    "source": "https://live.staticflickr.com/3575/3548371027_01d229fc6e_m.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3548371027/sizes/s/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Small 320",
+                    "width": 228,
+                    "height": 320,
+                    "source": "https://live.staticflickr.com/3575/3548371027_01d229fc6e_n.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3548371027/sizes/n/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Small 400",
+                    "width": 285,
+                    "height": 400,
+                    "source": "https://live.staticflickr.com/3575/3548371027_01d229fc6e_w.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3548371027/sizes/w/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Medium",
+                    "width": 356,
+                    "height": 500,
+                    "source": "https://live.staticflickr.com/3575/3548371027_01d229fc6e.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3548371027/sizes/m/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Medium 640",
+                    "width": 455,
+                    "height": 640,
+                    "source": "https://live.staticflickr.com/3575/3548371027_01d229fc6e_z.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3548371027/sizes/z/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Medium 800",
+                    "width": 569,
+                    "height": 800,
+                    "source": "https://live.staticflickr.com/3575/3548371027_01d229fc6e_c.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3548371027/sizes/c/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Large",
+                    "width": 729,
+                    "height": 1024,
+                    "source": "https://live.staticflickr.com/3575/3548371027_01d229fc6e_b.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3548371027/sizes/l/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Large 1600",
+                    "width": 1139,
+                    "height": 1600,
+                    "source": "https://live.staticflickr.com/3575/3548371027_0666c47484_h.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3548371027/sizes/h/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Large 2048",
+                    "width": 1457,
+                    "height": 2048,
+                    "source": "https://live.staticflickr.com/3575/3548371027_6624420a63_k.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3548371027/sizes/k/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Original",
+                    "width": 2663,
+                    "height": 3742,
+                    "source": "https://live.staticflickr.com/3575/3548371027_76ab4e03c3_o.jpg",
+                    "url": "https://www.flickr.com/photos/cushinglibrary/3548371027/sizes/o/",
+                    "media": "photo"
+                }
+            ]
+        },
+        "stat": "ok"
+    }
+}
