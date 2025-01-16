@@ -87,7 +87,7 @@ def main():
 
     connection = FlickrConnection(flickr_key, flickr_secret).connect
     x = FindImages(user_id="29072716@N04", connection=connection)
-    x.get_pages(start=16, until=25)
+    x.get_pages(start=1, until=47)
 
 
 if __name__ == '__main__':
