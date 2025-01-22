@@ -18,15 +18,25 @@ with open('unique_fields.txt', 'r') as uniques:
         fields_to_check.append(line.strip())
 
 
-with open('missint.txt', 'r') as f:
+with open('missing.txt', 'r') as f:
     for line in f:
         key = line.strip()
         metadata = all_files[key]['metadata']['photo']['descriptive_metadata']
-        record = {
-            # 'metadata': metadata,
-            'Item title': all_files[key]['metadata']['photo']['title']['_content'],
-            'Item link': [file['source'] for file in all_files[key]['sizes']['sizes']['size'] if file['label'] == "Original"][0],
-        }
+        try:
+            record = {
+                'Item title': all_files[key]['metadata']['photo']['title']['_content'],
+                'Item link': [file['source'] for file in all_files[key]['sizes']['sizes']['size'] if file['label'] == "Original"][0],
+                'Medium Image': [file['source'] for file in all_files[key]['sizes']['sizes']['size'] if file['label'] == "Medium"][0],
+            }
+        except IndexError as e:
+            record = {
+                'Item title': all_files[key]['metadata']['photo']['title']['_content'],
+                'Item link': [file['source'] for file in all_files[key]['sizes']['sizes']['size'] if
+                              file['label'] == "Original"][0],
+                'Medium Image':
+                    [file['source'] for file in all_files[key]['sizes']['sizes']['size'] if file['label'] == "Small 320"][
+                        0],
+            }
         for field in fields_to_check:
             record[field] = ""
         for k, v in metadata.items():
