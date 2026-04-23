@@ -1,0 +1,758 @@
+{
+    "metadata": {
+        "photo": {
+            "id": "54830162111",
+            "secret": "60d5fefacf",
+            "server": "65535",
+            "farm": 66,
+            "dateuploaded": "1759527773",
+            "isfavorite": 0,
+            "license": "0",
+            "safety_level": "0",
+            "rotation": 0,
+            "originalsecret": "596034e24d",
+            "originalformat": "jpg",
+            "owner": {
+                "nsid": "36274857@N05",
+                "username": "TAMULibraries",
+                "realname": "Texas A&M University Libraries",
+                "location": "College Station TX, USA",
+                "iconserver": "65535",
+                "iconfarm": 66,
+                "path_alias": "tamulibraries",
+                "gift": {
+                    "gift_eligible": true,
+                    "eligible_durations": [
+                        "year",
+                        "month",
+                        "week"
+                    ],
+                    "new_flow": true
+                }
+            },
+            "title": {
+                "_content": "Diana Gabaldon's Campus Visit and Tour of Cushing Memorial Library & Archives 2025"
+            },
+            "description": {
+                "_content": ""
+            },
+            "visibility": {
+                "ispublic": 1,
+                "isfriend": 0,
+                "isfamily": 0
+            },
+            "dates": {
+                "posted": "1759527773",
+                "taken": "2025-09-26 15:33:38",
+                "takengranularity": 0,
+                "takenunknown": "0",
+                "lastupdate": "1759528269"
+            },
+            "views": "6",
+            "editability": {
+                "cancomment": 0,
+                "canaddmeta": 0
+            },
+            "publiceditability": {
+                "cancomment": 1,
+                "canaddmeta": 0
+            },
+            "usage": {
+                "candownload": 1,
+                "canblog": 0,
+                "canprint": 0,
+                "canshare": 1
+            },
+            "comments": {
+                "_content": "0"
+            },
+            "notes": {
+                "note": []
+            },
+            "people": {
+                "haspeople": 0
+            },
+            "tags": {
+                "tag": []
+            },
+            "urls": {
+                "url": [
+                    {
+                        "type": "photopage",
+                        "_content": "https://www.flickr.com/photos/tamulibraries/54830162111/"
+                    }
+                ]
+            },
+            "media": "photo",
+            "descriptive_metadata": {}
+        },
+        "stat": "ok"
+    },
+    "exif": {
+        "photo": {
+            "id": "54830162111",
+            "secret": "60d5fefacf",
+            "server": "65535",
+            "farm": 66,
+            "camera": "Apple iPhone 12",
+            "exif": [
+                {
+                    "tagspace": "JFIF",
+                    "tagspaceid": 0,
+                    "tag": "JFIFVersion",
+                    "label": "JFIFVersion",
+                    "raw": {
+                        "_content": "1.02"
+                    }
+                },
+                {
+                    "tagspace": "JFIF",
+                    "tagspaceid": 0,
+                    "tag": "ResolutionUnit",
+                    "label": "Resolution Unit",
+                    "raw": {
+                        "_content": "inches"
+                    }
+                },
+                {
+                    "tagspace": "JFIF",
+                    "tagspaceid": 0,
+                    "tag": "XResolution",
+                    "label": "X-Resolution",
+                    "raw": {
+                        "_content": "72"
+                    },
+                    "clean": {
+                        "_content": "72 dpi"
+                    }
+                },
+                {
+                    "tagspace": "JFIF",
+                    "tagspaceid": 0,
+                    "tag": "YResolution",
+                    "label": "Y-Resolution",
+                    "raw": {
+                        "_content": "72"
+                    },
+                    "clean": {
+                        "_content": "72 dpi"
+                    }
+                },
+                {
+                    "tagspace": "IFD0",
+                    "tagspaceid": 0,
+                    "tag": "Make",
+                    "label": "Make",
+                    "raw": {
+                        "_content": "Apple"
+                    }
+                },
+                {
+                    "tagspace": "IFD0",
+                    "tagspaceid": 0,
+                    "tag": "Model",
+                    "label": "Model",
+                    "raw": {
+                        "_content": "iPhone 12"
+                    }
+                },
+                {
+                    "tagspace": "IFD0",
+                    "tagspaceid": 0,
+                    "tag": "Orientation",
+                    "label": "Orientation",
+                    "raw": {
+                        "_content": "Horizontal (normal)"
+                    }
+                },
+                {
+                    "tagspace": "IFD0",
+                    "tagspaceid": 0,
+                    "tag": "ResolutionUnit",
+                    "label": "Resolution Unit",
+                    "raw": {
+                        "_content": "inches"
+                    }
+                },
+                {
+                    "tagspace": "IFD0",
+                    "tagspaceid": 0,
+                    "tag": "Software",
+                    "label": "Software",
+                    "raw": {
+                        "_content": "17.1.1"
+                    }
+                },
+                {
+                    "tagspace": "IFD0",
+                    "tagspaceid": 0,
+                    "tag": "ModifyDate",
+                    "label": "Date and Time (Modified)",
+                    "raw": {
+                        "_content": "2025:09:26 15:33:38"
+                    }
+                },
+                {
+                    "tagspace": "IFD0",
+                    "tagspaceid": 0,
+                    "tag": "HostComputer",
+                    "label": "Host Computer",
+                    "raw": {
+                        "_content": "iPhone 12"
+                    }
+                },
+                {
+                    "tagspace": "IFD0",
+                    "tagspaceid": 0,
+                    "tag": "YCbCrPositioning",
+                    "label": "YCbCr Positioning",
+                    "raw": {
+                        "_content": "Centered"
+                    }
+                },
+                {
+                    "tagspace": "ExifIFD",
+                    "tagspaceid": 0,
+                    "tag": "ExposureTime",
+                    "label": "Exposure",
+                    "raw": {
+                        "_content": "1/121"
+                    },
+                    "clean": {
+                        "_content": "0.008 sec (1/121)"
+                    }
+                },
+                {
+                    "tagspace": "ExifIFD",
+                    "tagspaceid": 0,
+                    "tag": "FNumber",
+                    "label": "Aperture",
+                    "raw": {
+                        "_content": "1.6"
+                    },
+                    "clean": {
+                        "_content": "f/1.6"
+                    }
+                },
+                {
+                    "tagspace": "ExifIFD",
+                    "tagspaceid": 0,
+                    "tag": "ExposureProgram",
+                    "label": "Exposure Program",
+                    "raw": {
+                        "_content": "Program AE"
+                    }
+                },
+                {
+                    "tagspace": "ExifIFD",
+                    "tagspaceid": 0,
+                    "tag": "ISO",
+                    "label": "ISO Speed",
+                    "raw": {
+                        "_content": "125"
+                    }
+                },
+                {
+                    "tagspace": "ExifIFD",
+                    "tagspaceid": 0,
+                    "tag": "ExifVersion",
+                    "label": "Exif Version",
+                    "raw": {
+                        "_content": "0232"
+                    }
+                },
+                {
+                    "tagspace": "ExifIFD",
+                    "tagspaceid": 0,
+                    "tag": "DateTimeOriginal",
+                    "label": "Date and Time (Original)",
+                    "raw": {
+                        "_content": "2025:09:26 15:33:38"
+                    }
+                },
+                {
+                    "tagspace": "ExifIFD",
+                    "tagspaceid": 0,
+                    "tag": "CreateDate",
+                    "label": "Date and Time (Digitized)",
+                    "raw": {
+                        "_content": "2025:09:26 15:33:38"
+                    }
+                },
+                {
+                    "tagspace": "ExifIFD",
+                    "tagspaceid": 0,
+                    "tag": "OffsetTime",
+                    "label": "Offset Time",
+                    "raw": {
+                        "_content": "-05:00"
+                    }
+                },
+                {
+                    "tagspace": "ExifIFD",
+                    "tagspaceid": 0,
+                    "tag": "OffsetTimeOriginal",
+                    "label": "Offset Time Original",
+                    "raw": {
+                        "_content": "-05:00"
+                    }
+                },
+                {
+                    "tagspace": "ExifIFD",
+                    "tagspaceid": 0,
+                    "tag": "OffsetTimeDigitized",
+                    "label": "Offset Time Digitized",
+                    "raw": {
+                        "_content": "-05:00"
+                    }
+                },
+                {
+                    "tagspace": "ExifIFD",
+                    "tagspaceid": 0,
+                    "tag": "ComponentsConfiguration",
+                    "label": "Components Configuration",
+                    "raw": {
+                        "_content": "Y, Cb, Cr, -"
+                    }
+                },
+                {
+                    "tagspace": "ExifIFD",
+                    "tagspaceid": 0,
+                    "tag": "BrightnessValue",
+                    "label": "Brightness Value",
+                    "raw": {
+                        "_content": "3.415029948"
+                    }
+                },
+                {
+                    "tagspace": "ExifIFD",
+                    "tagspaceid": 0,
+                    "tag": "ExposureCompensation",
+                    "label": "Exposure Bias",
+                    "raw": {
+                        "_content": "0"
+                    },
+                    "clean": {
+                        "_content": "0 EV"
+                    }
+                },
+                {
+                    "tagspace": "ExifIFD",
+                    "tagspaceid": 0,
+                    "tag": "MeteringMode",
+                    "label": "Metering Mode",
+                    "raw": {
+                        "_content": "Multi-segment"
+                    }
+                },
+                {
+                    "tagspace": "ExifIFD",
+                    "tagspaceid": 0,
+                    "tag": "Flash",
+                    "label": "Flash",
+                    "raw": {
+                        "_content": "Off, Did not fire"
+                    }
+                },
+                {
+                    "tagspace": "ExifIFD",
+                    "tagspaceid": 0,
+                    "tag": "FocalLength",
+                    "label": "Focal Length",
+                    "raw": {
+                        "_content": "4.2 mm"
+                    }
+                },
+                {
+                    "tagspace": "ExifIFD",
+                    "tagspaceid": 0,
+                    "tag": "SubjectArea",
+                    "label": "Subject Area",
+                    "raw": {
+                        "_content": "3827 229 304 304"
+                    }
+                },
+                {
+                    "tagspace": "ExifIFD",
+                    "tagspaceid": 0,
+                    "tag": "SubSecTimeOriginal",
+                    "label": "Sub Sec Time Original",
+                    "raw": {
+                        "_content": "309"
+                    }
+                },
+                {
+                    "tagspace": "ExifIFD",
+                    "tagspaceid": 0,
+                    "tag": "SubSecTimeDigitized",
+                    "label": "Sub Sec Time Digitized",
+                    "raw": {
+                        "_content": "309"
+                    }
+                },
+                {
+                    "tagspace": "ExifIFD",
+                    "tagspaceid": 0,
+                    "tag": "ColorSpace",
+                    "label": "Color Space",
+                    "raw": {
+                        "_content": "Uncalibrated"
+                    }
+                },
+                {
+                    "tagspace": "ExifIFD",
+                    "tagspaceid": 0,
+                    "tag": "SensingMethod",
+                    "label": "Sensing Method",
+                    "raw": {
+                        "_content": "One-chip color area"
+                    }
+                },
+                {
+                    "tagspace": "ExifIFD",
+                    "tagspaceid": 0,
+                    "tag": "SceneType",
+                    "label": "Scene Type",
+                    "raw": {
+                        "_content": "Directly photographed"
+                    }
+                },
+                {
+                    "tagspace": "ExifIFD",
+                    "tagspaceid": 0,
+                    "tag": "ExposureMode",
+                    "label": "Exposure Mode",
+                    "raw": {
+                        "_content": "Auto"
+                    }
+                },
+                {
+                    "tagspace": "ExifIFD",
+                    "tagspaceid": 0,
+                    "tag": "WhiteBalance",
+                    "label": "White Balance",
+                    "raw": {
+                        "_content": "Auto"
+                    }
+                },
+                {
+                    "tagspace": "ExifIFD",
+                    "tagspaceid": 0,
+                    "tag": "FocalLengthIn35mmFormat",
+                    "label": "Focal Length (35mm format)",
+                    "raw": {
+                        "_content": "26 mm"
+                    }
+                },
+                {
+                    "tagspace": "ExifIFD",
+                    "tagspaceid": 0,
+                    "tag": "LensInfo",
+                    "label": "Lens Info",
+                    "raw": {
+                        "_content": "1.549999952-4.2mm f/1.6-2.4"
+                    }
+                },
+                {
+                    "tagspace": "ExifIFD",
+                    "tagspaceid": 0,
+                    "tag": "LensMake",
+                    "label": "Lens Make",
+                    "raw": {
+                        "_content": "Apple"
+                    }
+                },
+                {
+                    "tagspace": "ExifIFD",
+                    "tagspaceid": 0,
+                    "tag": "LensModel",
+                    "label": "Lens Model",
+                    "raw": {
+                        "_content": "iPhone 12 back dual wide camera 4.2mm f/1.6"
+                    }
+                },
+                {
+                    "tagspace": "ExifIFD",
+                    "tagspaceid": 0,
+                    "tag": "CompositeImage",
+                    "label": "Composite Image",
+                    "raw": {
+                        "_content": "General Composite Image"
+                    }
+                },
+                {
+                    "tagspace": "XMP-x",
+                    "tagspaceid": 0,
+                    "tag": "XMPToolkit",
+                    "label": "XMPToolkit",
+                    "raw": {
+                        "_content": "XMP Core 6.0.0"
+                    }
+                },
+                {
+                    "tagspace": "XMP-mwg-rs",
+                    "tagspaceid": 0,
+                    "tag": "RegionsAppliedToDimensionsH",
+                    "label": "Regions Applied To Dimensions H",
+                    "raw": {
+                        "_content": "3024"
+                    }
+                },
+                {
+                    "tagspace": "XMP-mwg-rs",
+                    "tagspaceid": 0,
+                    "tag": "RegionsAppliedToDimensionsUnit",
+                    "label": "Regions Applied To Dimensions Unit",
+                    "raw": {
+                        "_content": "pixel"
+                    }
+                },
+                {
+                    "tagspace": "XMP-mwg-rs",
+                    "tagspaceid": 0,
+                    "tag": "RegionsAppliedToDimensionsW",
+                    "label": "Regions Applied To Dimensions W",
+                    "raw": {
+                        "_content": "4032"
+                    }
+                },
+                {
+                    "tagspace": "XMP-mwg-rs",
+                    "tagspaceid": 0,
+                    "tag": "RegionsRegionListAreaH",
+                    "label": "Regions Region List Area H",
+                    "raw": {
+                        "_content": "0.07857142857142857"
+                    }
+                },
+                {
+                    "tagspace": "XMP-mwg-rs",
+                    "tagspaceid": 0,
+                    "tag": "RegionsRegionListAreaUnit",
+                    "label": "Regions Region List Area Unit",
+                    "raw": {
+                        "_content": "normalized"
+                    }
+                },
+                {
+                    "tagspace": "XMP-mwg-rs",
+                    "tagspaceid": 0,
+                    "tag": "RegionsRegionListAreaW",
+                    "label": "Regions Region List Area W",
+                    "raw": {
+                        "_content": "0.058666666666666645"
+                    }
+                },
+                {
+                    "tagspace": "XMP-mwg-rs",
+                    "tagspaceid": 0,
+                    "tag": "RegionsRegionListAreaX",
+                    "label": "Regions Region List Area X",
+                    "raw": {
+                        "_content": "0.38685714285714284"
+                    }
+                },
+                {
+                    "tagspace": "XMP-mwg-rs",
+                    "tagspaceid": 0,
+                    "tag": "RegionsRegionListAreaY",
+                    "label": "Regions Region List Area Y",
+                    "raw": {
+                        "_content": "0.08147619047619048"
+                    }
+                },
+                {
+                    "tagspace": "XMP-mwg-rs",
+                    "tagspaceid": 0,
+                    "tag": "RegionsRegionListExtensionsAngleInfoRoll",
+                    "label": "Regions Region List Extensions Angle Info Roll",
+                    "raw": {
+                        "_content": "0"
+                    }
+                },
+                {
+                    "tagspace": "XMP-mwg-rs",
+                    "tagspaceid": 0,
+                    "tag": "RegionsRegionListExtensionsAngleInfoYaw",
+                    "label": "Regions Region List Extensions Angle Info Yaw",
+                    "raw": {
+                        "_content": "0"
+                    }
+                },
+                {
+                    "tagspace": "XMP-mwg-rs",
+                    "tagspaceid": 0,
+                    "tag": "RegionsRegionListExtensionsConfidenceLevel",
+                    "label": "Regions Region List Extensions Confidence Level",
+                    "raw": {
+                        "_content": "617"
+                    }
+                },
+                {
+                    "tagspace": "XMP-mwg-rs",
+                    "tagspaceid": 0,
+                    "tag": "RegionsRegionListExtensionsFaceID",
+                    "label": "Regions Region List Extensions Face ID",
+                    "raw": {
+                        "_content": "3"
+                    }
+                },
+                {
+                    "tagspace": "XMP-mwg-rs",
+                    "tagspaceid": 0,
+                    "tag": "RegionsRegionListType",
+                    "label": "Regions Region List Type",
+                    "raw": {
+                        "_content": "Face"
+                    }
+                },
+                {
+                    "tagspace": "XMP-xmp",
+                    "tagspaceid": 0,
+                    "tag": "CreatorTool",
+                    "label": "Creator Tool",
+                    "raw": {
+                        "_content": "17.1.1"
+                    }
+                }
+            ]
+        },
+        "stat": "ok"
+    },
+    "comments": {
+        "comments": {
+            "photo_id": "54830162111"
+        },
+        "stat": "ok"
+    },
+    "sizes": {
+        "sizes": {
+            "canblog": 0,
+            "canprint": 0,
+            "candownload": 1,
+            "size": [
+                {
+                    "label": "Square",
+                    "width": 75,
+                    "height": 75,
+                    "source": "https://live.staticflickr.com/65535/54830162111_60d5fefacf_s.jpg",
+                    "url": "https://www.flickr.com/photos/tamulibraries/54830162111/sizes/sq/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Large Square",
+                    "width": 150,
+                    "height": 150,
+                    "source": "https://live.staticflickr.com/65535/54830162111_60d5fefacf_q.jpg",
+                    "url": "https://www.flickr.com/photos/tamulibraries/54830162111/sizes/q/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Thumbnail",
+                    "width": 100,
+                    "height": 75,
+                    "source": "https://live.staticflickr.com/65535/54830162111_60d5fefacf_t.jpg",
+                    "url": "https://www.flickr.com/photos/tamulibraries/54830162111/sizes/t/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Small",
+                    "width": 240,
+                    "height": 180,
+                    "source": "https://live.staticflickr.com/65535/54830162111_60d5fefacf_m.jpg",
+                    "url": "https://www.flickr.com/photos/tamulibraries/54830162111/sizes/s/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Small 320",
+                    "width": 320,
+                    "height": 240,
+                    "source": "https://live.staticflickr.com/65535/54830162111_60d5fefacf_n.jpg",
+                    "url": "https://www.flickr.com/photos/tamulibraries/54830162111/sizes/n/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Small 400",
+                    "width": 400,
+                    "height": 300,
+                    "source": "https://live.staticflickr.com/65535/54830162111_60d5fefacf_w.jpg",
+                    "url": "https://www.flickr.com/photos/tamulibraries/54830162111/sizes/w/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Medium",
+                    "width": 500,
+                    "height": 375,
+                    "source": "https://live.staticflickr.com/65535/54830162111_60d5fefacf.jpg",
+                    "url": "https://www.flickr.com/photos/tamulibraries/54830162111/sizes/m/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Medium 640",
+                    "width": 640,
+                    "height": 480,
+                    "source": "https://live.staticflickr.com/65535/54830162111_60d5fefacf_z.jpg",
+                    "url": "https://www.flickr.com/photos/tamulibraries/54830162111/sizes/z/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Medium 800",
+                    "width": 800,
+                    "height": 600,
+                    "source": "https://live.staticflickr.com/65535/54830162111_60d5fefacf_c.jpg",
+                    "url": "https://www.flickr.com/photos/tamulibraries/54830162111/sizes/c/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Large",
+                    "width": 1024,
+                    "height": 768,
+                    "source": "https://live.staticflickr.com/65535/54830162111_60d5fefacf_b.jpg",
+                    "url": "https://www.flickr.com/photos/tamulibraries/54830162111/sizes/l/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Large 1600",
+                    "width": 1600,
+                    "height": 1200,
+                    "source": "https://live.staticflickr.com/65535/54830162111_f84a3eda42_h.jpg",
+                    "url": "https://www.flickr.com/photos/tamulibraries/54830162111/sizes/h/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Large 2048",
+                    "width": 2048,
+                    "height": 1536,
+                    "source": "https://live.staticflickr.com/65535/54830162111_e1c0413cdc_k.jpg",
+                    "url": "https://www.flickr.com/photos/tamulibraries/54830162111/sizes/k/",
+                    "media": "photo"
+                },
+                {
+                    "label": "X-Large 3K",
+                    "width": 3072,
+                    "height": 2304,
+                    "source": "https://live.staticflickr.com/65535/54830162111_12b8639c8c_3k.jpg",
+                    "url": "https://www.flickr.com/photos/tamulibraries/54830162111/sizes/3k/",
+                    "media": "photo"
+                },
+                {
+                    "label": "X-Large 4K",
+                    "width": 4032,
+                    "height": 3024,
+                    "source": "https://live.staticflickr.com/65535/54830162111_ed395bf5fd_4k.jpg",
+                    "url": "https://www.flickr.com/photos/tamulibraries/54830162111/sizes/4k/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Original",
+                    "width": 4032,
+                    "height": 3024,
+                    "source": "https://live.staticflickr.com/65535/54830162111_596034e24d_o.jpg",
+                    "url": "https://www.flickr.com/photos/tamulibraries/54830162111/sizes/o/",
+                    "media": "photo"
+                }
+            ]
+        },
+        "stat": "ok"
+    }
+}

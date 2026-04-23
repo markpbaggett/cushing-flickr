@@ -1,0 +1,539 @@
+{
+    "metadata": {
+        "photo": {
+            "id": "3716616609",
+            "secret": "67f7044230",
+            "server": "2537",
+            "farm": 3,
+            "dateuploaded": "1247501778",
+            "isfavorite": 0,
+            "license": "0",
+            "safety_level": "0",
+            "rotation": 0,
+            "originalsecret": "fa515e5189",
+            "originalformat": "jpg",
+            "owner": {
+                "nsid": "36274857@N05",
+                "username": "TAMULibraries",
+                "realname": "Texas A&M University Libraries",
+                "location": "College Station TX, USA",
+                "iconserver": "65535",
+                "iconfarm": 66,
+                "path_alias": "tamulibraries",
+                "gift": {
+                    "gift_eligible": true,
+                    "eligible_durations": [
+                        "year",
+                        "month",
+                        "week"
+                    ],
+                    "new_flow": true
+                }
+            },
+            "title": {
+                "_content": "DSCF5629copy"
+            },
+            "description": {
+                "_content": ""
+            },
+            "visibility": {
+                "ispublic": 1,
+                "isfriend": 0,
+                "isfamily": 0
+            },
+            "dates": {
+                "posted": "1247501778",
+                "taken": "2009-06-24 15:08:41",
+                "takengranularity": 0,
+                "takenunknown": 0,
+                "lastupdate": "1247501784"
+            },
+            "views": "757",
+            "editability": {
+                "cancomment": 0,
+                "canaddmeta": 0
+            },
+            "publiceditability": {
+                "cancomment": 1,
+                "canaddmeta": 0
+            },
+            "usage": {
+                "candownload": 1,
+                "canblog": 0,
+                "canprint": 0,
+                "canshare": 1
+            },
+            "comments": {
+                "_content": "0"
+            },
+            "notes": {
+                "note": []
+            },
+            "people": {
+                "haspeople": 0
+            },
+            "tags": {
+                "tag": []
+            },
+            "urls": {
+                "url": [
+                    {
+                        "type": "photopage",
+                        "_content": "https://www.flickr.com/photos/tamulibraries/3716616609/"
+                    }
+                ]
+            },
+            "media": "photo",
+            "descriptive_metadata": {}
+        },
+        "stat": "ok"
+    },
+    "exif": {
+        "photo": {
+            "id": "3716616609",
+            "secret": "67f7044230",
+            "server": "2537",
+            "farm": 3,
+            "camera": "Fujifilm FinePix S3Pro",
+            "exif": [
+                {
+                    "tagspace": "IFD0",
+                    "tagspaceid": 0,
+                    "tag": "Make",
+                    "label": "Make",
+                    "raw": {
+                        "_content": "FUJIFILM"
+                    }
+                },
+                {
+                    "tagspace": "IFD0",
+                    "tagspaceid": 0,
+                    "tag": "Model",
+                    "label": "Model",
+                    "raw": {
+                        "_content": "FinePix S3Pro"
+                    }
+                },
+                {
+                    "tagspace": "IFD0",
+                    "tagspaceid": 0,
+                    "tag": "XResolution",
+                    "label": "X-Resolution",
+                    "raw": {
+                        "_content": "300"
+                    },
+                    "clean": {
+                        "_content": "300 dpi"
+                    }
+                },
+                {
+                    "tagspace": "IFD0",
+                    "tagspaceid": 0,
+                    "tag": "YResolution",
+                    "label": "Y-Resolution",
+                    "raw": {
+                        "_content": "300"
+                    },
+                    "clean": {
+                        "_content": "300 dpi"
+                    }
+                },
+                {
+                    "tagspace": "IFD0",
+                    "tagspaceid": 0,
+                    "tag": "ResolutionUnit",
+                    "label": "Resolution Unit",
+                    "raw": {
+                        "_content": "inches"
+                    }
+                },
+                {
+                    "tagspace": "IFD0",
+                    "tagspaceid": 0,
+                    "tag": "Software",
+                    "label": "Software",
+                    "raw": {
+                        "_content": "QuickTime 7.5.5"
+                    }
+                },
+                {
+                    "tagspace": "IFD0",
+                    "tagspaceid": 0,
+                    "tag": "ModifyDate",
+                    "label": "Date and Time (Modified)",
+                    "raw": {
+                        "_content": "2009:06:29 09:23:26"
+                    }
+                },
+                {
+                    "tagspace": "IFD0",
+                    "tagspaceid": 0,
+                    "tag": "YCbCrPositioning",
+                    "label": "YCbCr Positioning",
+                    "raw": {
+                        "_content": "Centered"
+                    }
+                },
+                {
+                    "tagspace": "ExifIFD",
+                    "tagspaceid": 0,
+                    "tag": "ExposureTime",
+                    "label": "Exposure",
+                    "raw": {
+                        "_content": "1/90"
+                    },
+                    "clean": {
+                        "_content": "0.011 sec (1/90)"
+                    }
+                },
+                {
+                    "tagspace": "ExifIFD",
+                    "tagspaceid": 0,
+                    "tag": "FNumber",
+                    "label": "Aperture",
+                    "raw": {
+                        "_content": "2.8"
+                    },
+                    "clean": {
+                        "_content": "f/2.8"
+                    }
+                },
+                {
+                    "tagspace": "ExifIFD",
+                    "tagspaceid": 0,
+                    "tag": "ExposureProgram",
+                    "label": "Exposure Program",
+                    "raw": {
+                        "_content": "Manual"
+                    }
+                },
+                {
+                    "tagspace": "ExifIFD",
+                    "tagspaceid": 0,
+                    "tag": "ISO",
+                    "label": "ISO Speed",
+                    "raw": {
+                        "_content": "800"
+                    }
+                },
+                {
+                    "tagspace": "ExifIFD",
+                    "tagspaceid": 0,
+                    "tag": "ExifVersion",
+                    "label": "Exif Version",
+                    "raw": {
+                        "_content": "0220"
+                    }
+                },
+                {
+                    "tagspace": "ExifIFD",
+                    "tagspaceid": 0,
+                    "tag": "DateTimeOriginal",
+                    "label": "Date and Time (Original)",
+                    "raw": {
+                        "_content": "2009:06:24 15:08:41"
+                    },
+                    "clean": {
+                        "_content": "2009:06:24 15:08:41-05:00"
+                    }
+                },
+                {
+                    "tagspace": "ExifIFD",
+                    "tagspaceid": 0,
+                    "tag": "CreateDate",
+                    "label": "Date and Time (Digitized)",
+                    "raw": {
+                        "_content": "2009:06:24 15:08:41"
+                    }
+                },
+                {
+                    "tagspace": "ExifIFD",
+                    "tagspaceid": 0,
+                    "tag": "ComponentsConfiguration",
+                    "label": "Components Configuration",
+                    "raw": {
+                        "_content": "Y, Cb, Cr, -"
+                    }
+                },
+                {
+                    "tagspace": "ExifIFD",
+                    "tagspaceid": 0,
+                    "tag": "BrightnessValue",
+                    "label": "Brightness Value",
+                    "raw": {
+                        "_content": "2"
+                    }
+                },
+                {
+                    "tagspace": "ExifIFD",
+                    "tagspaceid": 0,
+                    "tag": "ExposureCompensation",
+                    "label": "Exposure Bias",
+                    "raw": {
+                        "_content": "0"
+                    },
+                    "clean": {
+                        "_content": "0 EV"
+                    }
+                },
+                {
+                    "tagspace": "ExifIFD",
+                    "tagspaceid": 0,
+                    "tag": "MaxApertureValue",
+                    "label": "Max Aperture Value",
+                    "raw": {
+                        "_content": "2.8"
+                    }
+                },
+                {
+                    "tagspace": "ExifIFD",
+                    "tagspaceid": 0,
+                    "tag": "MeteringMode",
+                    "label": "Metering Mode",
+                    "raw": {
+                        "_content": "Multi-segment"
+                    }
+                },
+                {
+                    "tagspace": "ExifIFD",
+                    "tagspaceid": 0,
+                    "tag": "LightSource",
+                    "label": "Light Source",
+                    "raw": {
+                        "_content": "Unknown"
+                    }
+                },
+                {
+                    "tagspace": "ExifIFD",
+                    "tagspaceid": 0,
+                    "tag": "Flash",
+                    "label": "Flash",
+                    "raw": {
+                        "_content": "No Flash"
+                    }
+                },
+                {
+                    "tagspace": "ExifIFD",
+                    "tagspaceid": 0,
+                    "tag": "FocalLength",
+                    "label": "Focal Length",
+                    "raw": {
+                        "_content": "24.0 mm"
+                    },
+                    "clean": {
+                        "_content": "24 mm"
+                    }
+                },
+                {
+                    "tagspace": "ExifIFD",
+                    "tagspaceid": 0,
+                    "tag": "ColorSpace",
+                    "label": "Color Space",
+                    "raw": {
+                        "_content": "Uncalibrated"
+                    }
+                },
+                {
+                    "tagspace": "ExifIFD",
+                    "tagspaceid": 0,
+                    "tag": "SensingMethod",
+                    "label": "Sensing Method",
+                    "raw": {
+                        "_content": "One-chip color area"
+                    }
+                },
+                {
+                    "tagspace": "Photoshop",
+                    "tagspaceid": 0,
+                    "tag": "IPTCDigest",
+                    "label": "IPTCDigest",
+                    "raw": {
+                        "_content": "00000000000000000000000000000000"
+                    }
+                },
+                {
+                    "tagspace": "XMP-x",
+                    "tagspaceid": 0,
+                    "tag": "XMPToolkit",
+                    "label": "XMPToolkit",
+                    "raw": {
+                        "_content": "Adobe XMP Core 4.2-c020 1.124078, Tue Sep 11 2007 23:21:40        "
+                    }
+                },
+                {
+                    "tagspace": "XMP-tiff",
+                    "tagspaceid": 0,
+                    "tag": "Make",
+                    "label": "Make",
+                    "raw": {
+                        "_content": "FUJIFILM"
+                    }
+                },
+                {
+                    "tagspace": "XMP-tiff",
+                    "tagspaceid": 0,
+                    "tag": "Model",
+                    "label": "Model",
+                    "raw": {
+                        "_content": "FinePix S3Pro"
+                    }
+                },
+                {
+                    "tagspace": "XMP-tiff",
+                    "tagspaceid": 0,
+                    "tag": "ResolutionUnit",
+                    "label": "Resolution Unit",
+                    "raw": {
+                        "_content": "inches"
+                    }
+                },
+                {
+                    "tagspace": "XMP-xmp",
+                    "tagspaceid": 0,
+                    "tag": "CreatorTool",
+                    "label": "Creator Tool",
+                    "raw": {
+                        "_content": "QuickTime 7.5.5"
+                    }
+                }
+            ]
+        },
+        "stat": "ok"
+    },
+    "comments": {
+        "comments": {
+            "photo_id": "3716616609"
+        },
+        "stat": "ok"
+    },
+    "sizes": {
+        "sizes": {
+            "canblog": 0,
+            "canprint": 0,
+            "candownload": 1,
+            "size": [
+                {
+                    "label": "Square",
+                    "width": 75,
+                    "height": 75,
+                    "source": "https://live.staticflickr.com/2537/3716616609_67f7044230_s.jpg",
+                    "url": "https://www.flickr.com/photos/tamulibraries/3716616609/sizes/sq/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Large Square",
+                    "width": 150,
+                    "height": 150,
+                    "source": "https://live.staticflickr.com/2537/3716616609_67f7044230_q.jpg",
+                    "url": "https://www.flickr.com/photos/tamulibraries/3716616609/sizes/q/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Thumbnail",
+                    "width": 67,
+                    "height": 100,
+                    "source": "https://live.staticflickr.com/2537/3716616609_67f7044230_t.jpg",
+                    "url": "https://www.flickr.com/photos/tamulibraries/3716616609/sizes/t/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Small",
+                    "width": 161,
+                    "height": 240,
+                    "source": "https://live.staticflickr.com/2537/3716616609_67f7044230_m.jpg",
+                    "url": "https://www.flickr.com/photos/tamulibraries/3716616609/sizes/s/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Small 320",
+                    "width": 214,
+                    "height": 320,
+                    "source": "https://live.staticflickr.com/2537/3716616609_67f7044230_n.jpg",
+                    "url": "https://www.flickr.com/photos/tamulibraries/3716616609/sizes/n/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Small 400",
+                    "width": 268,
+                    "height": 400,
+                    "source": "https://live.staticflickr.com/2537/3716616609_67f7044230_w.jpg",
+                    "url": "https://www.flickr.com/photos/tamulibraries/3716616609/sizes/w/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Medium",
+                    "width": 335,
+                    "height": 500,
+                    "source": "https://live.staticflickr.com/2537/3716616609_67f7044230.jpg",
+                    "url": "https://www.flickr.com/photos/tamulibraries/3716616609/sizes/m/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Medium 640",
+                    "width": 428,
+                    "height": 640,
+                    "source": "https://live.staticflickr.com/2537/3716616609_67f7044230_z.jpg",
+                    "url": "https://www.flickr.com/photos/tamulibraries/3716616609/sizes/z/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Medium 800",
+                    "width": 535,
+                    "height": 800,
+                    "source": "https://live.staticflickr.com/2537/3716616609_67f7044230_c.jpg",
+                    "url": "https://www.flickr.com/photos/tamulibraries/3716616609/sizes/c/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Large",
+                    "width": 685,
+                    "height": 1024,
+                    "source": "https://live.staticflickr.com/2537/3716616609_67f7044230_b.jpg",
+                    "url": "https://www.flickr.com/photos/tamulibraries/3716616609/sizes/l/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Large 1600",
+                    "width": 1071,
+                    "height": 1600,
+                    "source": "https://live.staticflickr.com/2537/3716616609_2b90faabb4_h.jpg",
+                    "url": "https://www.flickr.com/photos/tamulibraries/3716616609/sizes/h/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Large 2048",
+                    "width": 1370,
+                    "height": 2048,
+                    "source": "https://live.staticflickr.com/2537/3716616609_00b5392497_k.jpg",
+                    "url": "https://www.flickr.com/photos/tamulibraries/3716616609/sizes/k/",
+                    "media": "photo"
+                },
+                {
+                    "label": "X-Large 3K",
+                    "width": 2056,
+                    "height": 3072,
+                    "source": "https://live.staticflickr.com/2537/3716616609_3263b97538_3k.jpg",
+                    "url": "https://www.flickr.com/photos/tamulibraries/3716616609/sizes/3k/",
+                    "media": "photo"
+                },
+                {
+                    "label": "X-Large 4K",
+                    "width": 2741,
+                    "height": 4096,
+                    "source": "https://live.staticflickr.com/2537/3716616609_2a7589b57c_4k.jpg",
+                    "url": "https://www.flickr.com/photos/tamulibraries/3716616609/sizes/4k/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Original",
+                    "width": 2848,
+                    "height": 4256,
+                    "source": "https://live.staticflickr.com/2537/3716616609_fa515e5189_o.jpg",
+                    "url": "https://www.flickr.com/photos/tamulibraries/3716616609/sizes/o/",
+                    "media": "photo"
+                }
+            ]
+        },
+        "stat": "ok"
+    }
+}

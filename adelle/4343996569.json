@@ -1,0 +1,500 @@
+{
+    "metadata": {
+        "photo": {
+            "id": "4343996569",
+            "secret": "63e39aa60c",
+            "server": "2623",
+            "farm": 3,
+            "dateuploaded": "1265754211",
+            "isfavorite": 0,
+            "license": "0",
+            "safety_level": "0",
+            "rotation": 0,
+            "originalsecret": "80faf2f725",
+            "originalformat": "jpg",
+            "owner": {
+                "nsid": "36274857@N05",
+                "username": "TAMULibraries",
+                "realname": "Texas A&M University Libraries",
+                "location": "College Station TX, USA",
+                "iconserver": "65535",
+                "iconfarm": 66,
+                "path_alias": "tamulibraries",
+                "gift": {
+                    "gift_eligible": true,
+                    "eligible_durations": [
+                        "year",
+                        "month",
+                        "week"
+                    ],
+                    "new_flow": true
+                }
+            },
+            "title": {
+                "_content": "DSC_0132"
+            },
+            "description": {
+                "_content": ""
+            },
+            "visibility": {
+                "ispublic": 1,
+                "isfriend": 0,
+                "isfamily": 0
+            },
+            "dates": {
+                "posted": "1265754211",
+                "taken": "2010-02-09 15:42:58",
+                "takengranularity": 0,
+                "takenunknown": 0,
+                "lastupdate": "1265754216"
+            },
+            "views": "57",
+            "editability": {
+                "cancomment": 0,
+                "canaddmeta": 0
+            },
+            "publiceditability": {
+                "cancomment": 1,
+                "canaddmeta": 0
+            },
+            "usage": {
+                "candownload": 1,
+                "canblog": 0,
+                "canprint": 0,
+                "canshare": 1
+            },
+            "comments": {
+                "_content": "0"
+            },
+            "notes": {
+                "note": []
+            },
+            "people": {
+                "haspeople": 0
+            },
+            "tags": {
+                "tag": []
+            },
+            "urls": {
+                "url": [
+                    {
+                        "type": "photopage",
+                        "_content": "https://www.flickr.com/photos/tamulibraries/4343996569/"
+                    }
+                ]
+            },
+            "media": "photo",
+            "descriptive_metadata": {}
+        },
+        "stat": "ok"
+    },
+    "exif": {
+        "photo": {
+            "id": "4343996569",
+            "secret": "63e39aa60c",
+            "server": "2623",
+            "farm": 3,
+            "camera": "Nikon D80",
+            "exif": [
+                {
+                    "tagspace": "IFD0",
+                    "tagspaceid": 0,
+                    "tag": "Compression",
+                    "label": "Compression",
+                    "raw": {
+                        "_content": "JPEG (old-style)"
+                    }
+                },
+                {
+                    "tagspace": "IFD0",
+                    "tagspaceid": 0,
+                    "tag": "Make",
+                    "label": "Make",
+                    "raw": {
+                        "_content": "NIKON CORPORATION"
+                    }
+                },
+                {
+                    "tagspace": "IFD0",
+                    "tagspaceid": 0,
+                    "tag": "Model",
+                    "label": "Model",
+                    "raw": {
+                        "_content": "NIKON D80"
+                    }
+                },
+                {
+                    "tagspace": "IFD0",
+                    "tagspaceid": 0,
+                    "tag": "Orientation",
+                    "label": "Orientation",
+                    "raw": {
+                        "_content": "Horizontal (normal)"
+                    }
+                },
+                {
+                    "tagspace": "IFD0",
+                    "tagspaceid": 0,
+                    "tag": "XResolution",
+                    "label": "X-Resolution",
+                    "raw": {
+                        "_content": "72"
+                    },
+                    "clean": {
+                        "_content": "72 dpi"
+                    }
+                },
+                {
+                    "tagspace": "IFD0",
+                    "tagspaceid": 0,
+                    "tag": "YResolution",
+                    "label": "Y-Resolution",
+                    "raw": {
+                        "_content": "72"
+                    },
+                    "clean": {
+                        "_content": "72 dpi"
+                    }
+                },
+                {
+                    "tagspace": "IFD0",
+                    "tagspaceid": 0,
+                    "tag": "ResolutionUnit",
+                    "label": "Resolution Unit",
+                    "raw": {
+                        "_content": "inches"
+                    }
+                },
+                {
+                    "tagspace": "IFD0",
+                    "tagspaceid": 0,
+                    "tag": "Software",
+                    "label": "Software",
+                    "raw": {
+                        "_content": "QuickTime 7.6.4"
+                    }
+                },
+                {
+                    "tagspace": "IFD0",
+                    "tagspaceid": 0,
+                    "tag": "ModifyDate",
+                    "label": "Date and Time (Modified)",
+                    "raw": {
+                        "_content": "2010:02:09 15:25:50"
+                    }
+                },
+                {
+                    "tagspace": "IFD0",
+                    "tagspaceid": 0,
+                    "tag": "HostComputer",
+                    "label": "Host Computer",
+                    "raw": {
+                        "_content": "Mac OS X 10.5.8"
+                    }
+                },
+                {
+                    "tagspace": "IFD0",
+                    "tagspaceid": 0,
+                    "tag": "YCbCrPositioning",
+                    "label": "YCbCr Positioning",
+                    "raw": {
+                        "_content": "Centered"
+                    }
+                },
+                {
+                    "tagspace": "ExifIFD",
+                    "tagspaceid": 0,
+                    "tag": "ExposureTime",
+                    "label": "Exposure",
+                    "raw": {
+                        "_content": "1/640"
+                    },
+                    "clean": {
+                        "_content": "0.002 sec (1/640)"
+                    }
+                },
+                {
+                    "tagspace": "ExifIFD",
+                    "tagspaceid": 0,
+                    "tag": "FNumber",
+                    "label": "Aperture",
+                    "raw": {
+                        "_content": "11.0"
+                    },
+                    "clean": {
+                        "_content": "f/11.0"
+                    }
+                },
+                {
+                    "tagspace": "ExifIFD",
+                    "tagspaceid": 0,
+                    "tag": "ExposureProgram",
+                    "label": "Exposure Program",
+                    "raw": {
+                        "_content": "Not Defined"
+                    }
+                },
+                {
+                    "tagspace": "ExifIFD",
+                    "tagspaceid": 0,
+                    "tag": "ISO",
+                    "label": "ISO Speed",
+                    "raw": {
+                        "_content": "500"
+                    }
+                },
+                {
+                    "tagspace": "ExifIFD",
+                    "tagspaceid": 0,
+                    "tag": "ExifVersion",
+                    "label": "Exif Version",
+                    "raw": {
+                        "_content": "0220"
+                    }
+                },
+                {
+                    "tagspace": "ExifIFD",
+                    "tagspaceid": 0,
+                    "tag": "DateTimeOriginal",
+                    "label": "Date and Time (Original)",
+                    "raw": {
+                        "_content": "2010:02:09 15:42:58"
+                    }
+                },
+                {
+                    "tagspace": "ExifIFD",
+                    "tagspaceid": 0,
+                    "tag": "CreateDate",
+                    "label": "Date and Time (Digitized)",
+                    "raw": {
+                        "_content": "2010:02:09 15:42:58"
+                    }
+                },
+                {
+                    "tagspace": "ExifIFD",
+                    "tagspaceid": 0,
+                    "tag": "ComponentsConfiguration",
+                    "label": "Components Configuration",
+                    "raw": {
+                        "_content": "Y, Cb, Cr, -"
+                    }
+                },
+                {
+                    "tagspace": "ExifIFD",
+                    "tagspaceid": 0,
+                    "tag": "ExposureCompensation",
+                    "label": "Exposure Bias",
+                    "raw": {
+                        "_content": "0"
+                    },
+                    "clean": {
+                        "_content": "0 EV"
+                    }
+                },
+                {
+                    "tagspace": "ExifIFD",
+                    "tagspaceid": 0,
+                    "tag": "MaxApertureValue",
+                    "label": "Max Aperture Value",
+                    "raw": {
+                        "_content": "4.8"
+                    }
+                },
+                {
+                    "tagspace": "ExifIFD",
+                    "tagspaceid": 0,
+                    "tag": "MeteringMode",
+                    "label": "Metering Mode",
+                    "raw": {
+                        "_content": "Multi-segment"
+                    }
+                },
+                {
+                    "tagspace": "ExifIFD",
+                    "tagspaceid": 0,
+                    "tag": "LightSource",
+                    "label": "Light Source",
+                    "raw": {
+                        "_content": "Unknown"
+                    }
+                },
+                {
+                    "tagspace": "ExifIFD",
+                    "tagspaceid": 0,
+                    "tag": "Flash",
+                    "label": "Flash",
+                    "raw": {
+                        "_content": "Off, Did not fire"
+                    }
+                },
+                {
+                    "tagspace": "ExifIFD",
+                    "tagspaceid": 0,
+                    "tag": "FocalLength",
+                    "label": "Focal Length",
+                    "raw": {
+                        "_content": "48.0 mm"
+                    },
+                    "clean": {
+                        "_content": "48 mm"
+                    }
+                },
+                {
+                    "tagspace": "ExifIFD",
+                    "tagspaceid": 0,
+                    "tag": "ColorSpace",
+                    "label": "Color Space",
+                    "raw": {
+                        "_content": "Uncalibrated"
+                    }
+                },
+                {
+                    "tagspace": "ExifIFD",
+                    "tagspaceid": 0,
+                    "tag": "SensingMethod",
+                    "label": "Sensing Method",
+                    "raw": {
+                        "_content": "One-chip color area"
+                    }
+                }
+            ]
+        },
+        "stat": "ok"
+    },
+    "comments": {
+        "comments": {
+            "photo_id": "4343996569"
+        },
+        "stat": "ok"
+    },
+    "sizes": {
+        "sizes": {
+            "canblog": 0,
+            "canprint": 0,
+            "candownload": 1,
+            "size": [
+                {
+                    "label": "Square",
+                    "width": 75,
+                    "height": 75,
+                    "source": "https://live.staticflickr.com/2623/4343996569_63e39aa60c_s.jpg",
+                    "url": "https://www.flickr.com/photos/tamulibraries/4343996569/sizes/sq/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Large Square",
+                    "width": 150,
+                    "height": 150,
+                    "source": "https://live.staticflickr.com/2623/4343996569_63e39aa60c_q.jpg",
+                    "url": "https://www.flickr.com/photos/tamulibraries/4343996569/sizes/q/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Thumbnail",
+                    "width": 67,
+                    "height": 100,
+                    "source": "https://live.staticflickr.com/2623/4343996569_63e39aa60c_t.jpg",
+                    "url": "https://www.flickr.com/photos/tamulibraries/4343996569/sizes/t/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Small",
+                    "width": 160,
+                    "height": 240,
+                    "source": "https://live.staticflickr.com/2623/4343996569_63e39aa60c_m.jpg",
+                    "url": "https://www.flickr.com/photos/tamulibraries/4343996569/sizes/s/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Small 320",
+                    "width": 214,
+                    "height": 320,
+                    "source": "https://live.staticflickr.com/2623/4343996569_63e39aa60c_n.jpg",
+                    "url": "https://www.flickr.com/photos/tamulibraries/4343996569/sizes/n/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Small 400",
+                    "width": 267,
+                    "height": 400,
+                    "source": "https://live.staticflickr.com/2623/4343996569_63e39aa60c_w.jpg",
+                    "url": "https://www.flickr.com/photos/tamulibraries/4343996569/sizes/w/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Medium",
+                    "width": 334,
+                    "height": 500,
+                    "source": "https://live.staticflickr.com/2623/4343996569_63e39aa60c.jpg",
+                    "url": "https://www.flickr.com/photos/tamulibraries/4343996569/sizes/m/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Medium 640",
+                    "width": 428,
+                    "height": 640,
+                    "source": "https://live.staticflickr.com/2623/4343996569_63e39aa60c_z.jpg",
+                    "url": "https://www.flickr.com/photos/tamulibraries/4343996569/sizes/z/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Medium 800",
+                    "width": 535,
+                    "height": 800,
+                    "source": "https://live.staticflickr.com/2623/4343996569_63e39aa60c_c.jpg",
+                    "url": "https://www.flickr.com/photos/tamulibraries/4343996569/sizes/c/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Large",
+                    "width": 685,
+                    "height": 1024,
+                    "source": "https://live.staticflickr.com/2623/4343996569_63e39aa60c_b.jpg",
+                    "url": "https://www.flickr.com/photos/tamulibraries/4343996569/sizes/l/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Large 1600",
+                    "width": 1070,
+                    "height": 1600,
+                    "source": "https://live.staticflickr.com/2623/4343996569_00023e20b1_h.jpg",
+                    "url": "https://www.flickr.com/photos/tamulibraries/4343996569/sizes/h/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Large 2048",
+                    "width": 1370,
+                    "height": 2048,
+                    "source": "https://live.staticflickr.com/2623/4343996569_71c5090451_k.jpg",
+                    "url": "https://www.flickr.com/photos/tamulibraries/4343996569/sizes/k/",
+                    "media": "photo"
+                },
+                {
+                    "label": "X-Large 3K",
+                    "width": 2054,
+                    "height": 3072,
+                    "source": "https://live.staticflickr.com/2623/4343996569_bd72c3d3f4_3k.jpg",
+                    "url": "https://www.flickr.com/photos/tamulibraries/4343996569/sizes/3k/",
+                    "media": "photo"
+                },
+                {
+                    "label": "X-Large 4K",
+                    "width": 2600,
+                    "height": 3888,
+                    "source": "https://live.staticflickr.com/2623/4343996569_7ceee9a6af_4k.jpg",
+                    "url": "https://www.flickr.com/photos/tamulibraries/4343996569/sizes/4k/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Original",
+                    "width": 2600,
+                    "height": 3888,
+                    "source": "https://live.staticflickr.com/2623/4343996569_80faf2f725_o.jpg",
+                    "url": "https://www.flickr.com/photos/tamulibraries/4343996569/sizes/o/",
+                    "media": "photo"
+                }
+            ]
+        },
+        "stat": "ok"
+    }
+}

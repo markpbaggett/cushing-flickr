@@ -1,0 +1,257 @@
+{
+    "metadata": {
+        "photo": {
+            "id": "8424592976",
+            "secret": "3c0a53dacc",
+            "server": "8368",
+            "farm": 9,
+            "dateuploaded": "1359394235",
+            "isfavorite": 0,
+            "license": "0",
+            "safety_level": "0",
+            "rotation": 0,
+            "originalsecret": "4fa757fb9c",
+            "originalformat": "jpg",
+            "owner": {
+                "nsid": "36274857@N05",
+                "username": "TAMULibraries",
+                "realname": "Texas A&M University Libraries",
+                "location": "College Station TX, USA",
+                "iconserver": "65535",
+                "iconfarm": 66,
+                "path_alias": "tamulibraries",
+                "gift": {
+                    "gift_eligible": true,
+                    "eligible_durations": [
+                        "year",
+                        "month",
+                        "week"
+                    ],
+                    "new_flow": true
+                }
+            },
+            "title": {
+                "_content": "Giles_cattle1"
+            },
+            "description": {
+                "_content": ""
+            },
+            "visibility": {
+                "ispublic": 1,
+                "isfriend": 0,
+                "isfamily": 0
+            },
+            "dates": {
+                "posted": "1359394235",
+                "taken": "2013-01-28 09:29:56",
+                "takengranularity": 0,
+                "takenunknown": 0,
+                "lastupdate": "1359394238"
+            },
+            "views": "162",
+            "editability": {
+                "cancomment": 0,
+                "canaddmeta": 0
+            },
+            "publiceditability": {
+                "cancomment": 1,
+                "canaddmeta": 0
+            },
+            "usage": {
+                "candownload": 1,
+                "canblog": 0,
+                "canprint": 0,
+                "canshare": 1
+            },
+            "comments": {
+                "_content": "0"
+            },
+            "notes": {
+                "note": []
+            },
+            "people": {
+                "haspeople": 0
+            },
+            "tags": {
+                "tag": []
+            },
+            "urls": {
+                "url": [
+                    {
+                        "type": "photopage",
+                        "_content": "https://www.flickr.com/photos/tamulibraries/8424592976/"
+                    }
+                ]
+            },
+            "media": "photo",
+            "descriptive_metadata": {}
+        },
+        "stat": "ok"
+    },
+    "exif": {
+        "photo": {
+            "id": "8424592976",
+            "secret": "3c0a53dacc",
+            "server": "8368",
+            "farm": 9,
+            "camera": "",
+            "exif": [
+                {
+                    "tagspace": "JFIF",
+                    "tagspaceid": 0,
+                    "tag": "JFIFVersion",
+                    "label": "JFIFVersion",
+                    "raw": {
+                        "_content": "1.02"
+                    }
+                },
+                {
+                    "tagspace": "JFIF",
+                    "tagspaceid": 0,
+                    "tag": "ResolutionUnit",
+                    "label": "Resolution Unit",
+                    "raw": {
+                        "_content": "inches"
+                    }
+                },
+                {
+                    "tagspace": "JFIF",
+                    "tagspaceid": 0,
+                    "tag": "XResolution",
+                    "label": "X-Resolution",
+                    "raw": {
+                        "_content": "300"
+                    },
+                    "clean": {
+                        "_content": "300 dpi"
+                    }
+                },
+                {
+                    "tagspace": "JFIF",
+                    "tagspaceid": 0,
+                    "tag": "YResolution",
+                    "label": "Y-Resolution",
+                    "raw": {
+                        "_content": "300"
+                    },
+                    "clean": {
+                        "_content": "300 dpi"
+                    }
+                }
+            ]
+        },
+        "stat": "ok"
+    },
+    "comments": {
+        "comments": {
+            "photo_id": "8424592976"
+        },
+        "stat": "ok"
+    },
+    "sizes": {
+        "sizes": {
+            "canblog": 0,
+            "canprint": 0,
+            "candownload": 1,
+            "size": [
+                {
+                    "label": "Square",
+                    "width": 75,
+                    "height": 75,
+                    "source": "https://live.staticflickr.com/8368/8424592976_3c0a53dacc_s.jpg",
+                    "url": "https://www.flickr.com/photos/tamulibraries/8424592976/sizes/sq/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Large Square",
+                    "width": 150,
+                    "height": 150,
+                    "source": "https://live.staticflickr.com/8368/8424592976_3c0a53dacc_q.jpg",
+                    "url": "https://www.flickr.com/photos/tamulibraries/8424592976/sizes/q/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Thumbnail",
+                    "width": 100,
+                    "height": 71,
+                    "source": "https://live.staticflickr.com/8368/8424592976_3c0a53dacc_t.jpg",
+                    "url": "https://www.flickr.com/photos/tamulibraries/8424592976/sizes/t/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Small",
+                    "width": 240,
+                    "height": 170,
+                    "source": "https://live.staticflickr.com/8368/8424592976_3c0a53dacc_m.jpg",
+                    "url": "https://www.flickr.com/photos/tamulibraries/8424592976/sizes/s/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Small 320",
+                    "width": 320,
+                    "height": 226,
+                    "source": "https://live.staticflickr.com/8368/8424592976_3c0a53dacc_n.jpg",
+                    "url": "https://www.flickr.com/photos/tamulibraries/8424592976/sizes/n/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Small 400",
+                    "width": 400,
+                    "height": 283,
+                    "source": "https://live.staticflickr.com/8368/8424592976_3c0a53dacc_w.jpg",
+                    "url": "https://www.flickr.com/photos/tamulibraries/8424592976/sizes/w/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Medium",
+                    "width": 500,
+                    "height": 353,
+                    "source": "https://live.staticflickr.com/8368/8424592976_3c0a53dacc.jpg",
+                    "url": "https://www.flickr.com/photos/tamulibraries/8424592976/sizes/m/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Medium 640",
+                    "width": 640,
+                    "height": 452,
+                    "source": "https://live.staticflickr.com/8368/8424592976_3c0a53dacc_z.jpg",
+                    "url": "https://www.flickr.com/photos/tamulibraries/8424592976/sizes/z/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Medium 800",
+                    "width": 800,
+                    "height": 565,
+                    "source": "https://live.staticflickr.com/8368/8424592976_3c0a53dacc_c.jpg",
+                    "url": "https://www.flickr.com/photos/tamulibraries/8424592976/sizes/c/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Large",
+                    "width": 1024,
+                    "height": 723,
+                    "source": "https://live.staticflickr.com/8368/8424592976_3c0a53dacc_b.jpg",
+                    "url": "https://www.flickr.com/photos/tamulibraries/8424592976/sizes/l/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Large 1600",
+                    "width": 1376,
+                    "height": 972,
+                    "source": "https://live.staticflickr.com/8368/8424592976_7b18200e64_h.jpg",
+                    "url": "https://www.flickr.com/photos/tamulibraries/8424592976/sizes/h/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Original",
+                    "width": 1376,
+                    "height": 972,
+                    "source": "https://live.staticflickr.com/8368/8424592976_4fa757fb9c_o.jpg",
+                    "url": "https://www.flickr.com/photos/tamulibraries/8424592976/sizes/o/",
+                    "media": "photo"
+                }
+            ]
+        },
+        "stat": "ok"
+    }
+}

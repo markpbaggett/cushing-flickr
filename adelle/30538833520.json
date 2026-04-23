@@ -1,0 +1,431 @@
+{
+    "metadata": {
+        "photo": {
+            "id": "30538833520",
+            "secret": "9a5f119ac5",
+            "server": "5573",
+            "farm": 6,
+            "dateuploaded": "1478531256",
+            "isfavorite": 0,
+            "license": "0",
+            "safety_level": "0",
+            "rotation": 0,
+            "originalsecret": "51993bfcef",
+            "originalformat": "jpg",
+            "owner": {
+                "nsid": "36274857@N05",
+                "username": "TAMULibraries",
+                "realname": "Texas A&M University Libraries",
+                "location": "College Station TX, USA",
+                "iconserver": "65535",
+                "iconfarm": 66,
+                "path_alias": "tamulibraries",
+                "gift": {
+                    "gift_eligible": true,
+                    "eligible_durations": [
+                        "year",
+                        "month",
+                        "week"
+                    ],
+                    "new_flow": true
+                }
+            },
+            "title": {
+                "_content": "RGS09-001-193"
+            },
+            "description": {
+                "_content": ""
+            },
+            "visibility": {
+                "ispublic": 1,
+                "isfriend": 0,
+                "isfamily": 0
+            },
+            "dates": {
+                "posted": "1478531256",
+                "taken": "2009-01-21 16:25:18",
+                "takengranularity": 0,
+                "takenunknown": "0",
+                "lastupdate": "1478531265"
+            },
+            "views": "161",
+            "editability": {
+                "cancomment": 0,
+                "canaddmeta": 0
+            },
+            "publiceditability": {
+                "cancomment": 1,
+                "canaddmeta": 0
+            },
+            "usage": {
+                "candownload": 1,
+                "canblog": 0,
+                "canprint": 0,
+                "canshare": 1
+            },
+            "comments": {
+                "_content": "0"
+            },
+            "notes": {
+                "note": []
+            },
+            "people": {
+                "haspeople": 0
+            },
+            "tags": {
+                "tag": [
+                    {
+                        "id": "36269517-30538833520-1720464",
+                        "author": "36274857@N05",
+                        "authorname": "TAMULibraries",
+                        "raw": "Cushing Library",
+                        "_content": "cushinglibrary",
+                        "machine_tag": 0
+                    },
+                    {
+                        "id": "36269517-30538833520-62702",
+                        "author": "36274857@N05",
+                        "authorname": "TAMULibraries",
+                        "raw": "artifacts",
+                        "_content": "artifacts",
+                        "machine_tag": 0
+                    },
+                    {
+                        "id": "36269517-30538833520-1568",
+                        "author": "36274857@N05",
+                        "authorname": "TAMULibraries",
+                        "raw": "studio",
+                        "_content": "studio",
+                        "machine_tag": 0
+                    },
+                    {
+                        "id": "36269517-30538833520-670501",
+                        "author": "36274857@N05",
+                        "authorname": "TAMULibraries",
+                        "raw": "Hand Mould",
+                        "_content": "handmould",
+                        "machine_tag": 0
+                    },
+                    {
+                        "id": "36269517-30538833520-66361804",
+                        "author": "36274857@N05",
+                        "authorname": "TAMULibraries",
+                        "raw": "Box of brass matrices",
+                        "_content": "boxofbrassmatrices",
+                        "machine_tag": 0
+                    },
+                    {
+                        "id": "36269517-30538833520-66361806",
+                        "author": "36274857@N05",
+                        "authorname": "TAMULibraries",
+                        "raw": "dipper and hag",
+                        "_content": "dipperandhag",
+                        "machine_tag": 0
+                    },
+                    {
+                        "id": "36269517-30538833520-66361808",
+                        "author": "36274857@N05",
+                        "authorname": "TAMULibraries",
+                        "raw": "Laughlin collection",
+                        "_content": "laughlincollection",
+                        "machine_tag": 0
+                    }
+                ]
+            },
+            "urls": {
+                "url": [
+                    {
+                        "type": "photopage",
+                        "_content": "https://www.flickr.com/photos/tamulibraries/30538833520/"
+                    }
+                ]
+            },
+            "media": "photo",
+            "descriptive_metadata": {}
+        },
+        "stat": "ok"
+    },
+    "exif": {
+        "photo": {
+            "id": "30538833520",
+            "secret": "9a5f119ac5",
+            "server": "5573",
+            "farm": 6,
+            "camera": "Nikon D300",
+            "exif": [
+                {
+                    "tagspace": "JFIF",
+                    "tagspaceid": 0,
+                    "tag": "JFIFVersion",
+                    "label": "JFIFVersion",
+                    "raw": {
+                        "_content": "1.02"
+                    }
+                },
+                {
+                    "tagspace": "JFIF",
+                    "tagspaceid": 0,
+                    "tag": "ResolutionUnit",
+                    "label": "Resolution Unit",
+                    "raw": {
+                        "_content": "inches"
+                    }
+                },
+                {
+                    "tagspace": "JFIF",
+                    "tagspaceid": 0,
+                    "tag": "XResolution",
+                    "label": "X-Resolution",
+                    "raw": {
+                        "_content": "240"
+                    },
+                    "clean": {
+                        "_content": "240 dpi"
+                    }
+                },
+                {
+                    "tagspace": "JFIF",
+                    "tagspaceid": 0,
+                    "tag": "YResolution",
+                    "label": "Y-Resolution",
+                    "raw": {
+                        "_content": "240"
+                    },
+                    "clean": {
+                        "_content": "240 dpi"
+                    }
+                },
+                {
+                    "tagspace": "IPTC",
+                    "tagspaceid": 0,
+                    "tag": "ApplicationRecordVersion",
+                    "label": "Application Record Version",
+                    "raw": {
+                        "_content": "0"
+                    }
+                },
+                {
+                    "tagspace": "IPTC",
+                    "tagspaceid": 0,
+                    "tag": "Keywords",
+                    "label": "Keywords",
+                    "raw": {
+                        "_content": "Cushing Library"
+                    },
+                    "clean": {
+                        "_content": "\"Cushing Library\" artifacts studio \"Hand Mould\" \"Box of brass matrices\" \"dipper and hag\" \"Laughlin collection\""
+                    }
+                },
+                {
+                    "tagspace": "IPTC",
+                    "tagspaceid": 0,
+                    "tag": "By-line",
+                    "label": "By-line",
+                    "raw": {
+                        "_content": "Jean Wulfson"
+                    }
+                },
+                {
+                    "tagspace": "IPTC",
+                    "tagspaceid": 0,
+                    "tag": "By-lineTitle",
+                    "label": "By-line Title",
+                    "raw": {
+                        "_content": "Digital Media Coordinator"
+                    }
+                },
+                {
+                    "tagspace": "IPTC",
+                    "tagspaceid": 0,
+                    "tag": "Credit",
+                    "label": "Credit",
+                    "raw": {
+                        "_content": "Jean Wulfson, Division of Resear"
+                    }
+                },
+                {
+                    "tagspace": "IPTC",
+                    "tagspaceid": 0,
+                    "tag": "CopyrightNotice",
+                    "label": "Copyright Notice",
+                    "raw": {
+                        "_content": "Copyright 2009 Texas A&M University"
+                    }
+                },
+                {
+                    "tagspace": "Photoshop",
+                    "tagspaceid": 0,
+                    "tag": "CopyrightFlag",
+                    "label": "Copyright Flag",
+                    "raw": {
+                        "_content": "True"
+                    }
+                },
+                {
+                    "tagspace": "Photoshop",
+                    "tagspaceid": 0,
+                    "tag": "GlobalAngle",
+                    "label": "Global Angle",
+                    "raw": {
+                        "_content": "30"
+                    }
+                },
+                {
+                    "tagspace": "Photoshop",
+                    "tagspaceid": 0,
+                    "tag": "GlobalAltitude",
+                    "label": "Global Altitude",
+                    "raw": {
+                        "_content": "30"
+                    }
+                },
+                {
+                    "tagspace": "Photoshop",
+                    "tagspaceid": 0,
+                    "tag": "IPTCDigest",
+                    "label": "IPTCDigest",
+                    "raw": {
+                        "_content": "7aefb3816ecdf78916bfe61182710191"
+                    }
+                }
+            ]
+        },
+        "stat": "ok"
+    },
+    "comments": {
+        "comments": {
+            "photo_id": "30538833520"
+        },
+        "stat": "ok"
+    },
+    "sizes": {
+        "sizes": {
+            "canblog": 0,
+            "canprint": 0,
+            "candownload": 1,
+            "size": [
+                {
+                    "label": "Square",
+                    "width": 75,
+                    "height": 75,
+                    "source": "https://live.staticflickr.com/5573/30538833520_9a5f119ac5_s.jpg",
+                    "url": "https://www.flickr.com/photos/tamulibraries/30538833520/sizes/sq/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Large Square",
+                    "width": 150,
+                    "height": 150,
+                    "source": "https://live.staticflickr.com/5573/30538833520_9a5f119ac5_q.jpg",
+                    "url": "https://www.flickr.com/photos/tamulibraries/30538833520/sizes/q/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Thumbnail",
+                    "width": 66,
+                    "height": 100,
+                    "source": "https://live.staticflickr.com/5573/30538833520_9a5f119ac5_t.jpg",
+                    "url": "https://www.flickr.com/photos/tamulibraries/30538833520/sizes/t/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Small",
+                    "width": 159,
+                    "height": 240,
+                    "source": "https://live.staticflickr.com/5573/30538833520_9a5f119ac5_m.jpg",
+                    "url": "https://www.flickr.com/photos/tamulibraries/30538833520/sizes/s/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Small 320",
+                    "width": 213,
+                    "height": 320,
+                    "source": "https://live.staticflickr.com/5573/30538833520_9a5f119ac5_n.jpg",
+                    "url": "https://www.flickr.com/photos/tamulibraries/30538833520/sizes/n/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Small 400",
+                    "width": 266,
+                    "height": 400,
+                    "source": "https://live.staticflickr.com/5573/30538833520_9a5f119ac5_w.jpg",
+                    "url": "https://www.flickr.com/photos/tamulibraries/30538833520/sizes/w/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Medium",
+                    "width": 332,
+                    "height": 500,
+                    "source": "https://live.staticflickr.com/5573/30538833520_9a5f119ac5.jpg",
+                    "url": "https://www.flickr.com/photos/tamulibraries/30538833520/sizes/m/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Medium 640",
+                    "width": 425,
+                    "height": 640,
+                    "source": "https://live.staticflickr.com/5573/30538833520_9a5f119ac5_z.jpg",
+                    "url": "https://www.flickr.com/photos/tamulibraries/30538833520/sizes/z/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Medium 800",
+                    "width": 531,
+                    "height": 800,
+                    "source": "https://live.staticflickr.com/5573/30538833520_9a5f119ac5_c.jpg",
+                    "url": "https://www.flickr.com/photos/tamulibraries/30538833520/sizes/c/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Large",
+                    "width": 680,
+                    "height": 1024,
+                    "source": "https://live.staticflickr.com/5573/30538833520_9a5f119ac5_b.jpg",
+                    "url": "https://www.flickr.com/photos/tamulibraries/30538833520/sizes/l/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Large 1600",
+                    "width": 1063,
+                    "height": 1600,
+                    "source": "https://live.staticflickr.com/5573/30538833520_f1a447cd46_h.jpg",
+                    "url": "https://www.flickr.com/photos/tamulibraries/30538833520/sizes/h/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Large 2048",
+                    "width": 1360,
+                    "height": 2048,
+                    "source": "https://live.staticflickr.com/5573/30538833520_ec9b0b291c_k.jpg",
+                    "url": "https://www.flickr.com/photos/tamulibraries/30538833520/sizes/k/",
+                    "media": "photo"
+                },
+                {
+                    "label": "X-Large 3K",
+                    "width": 2040,
+                    "height": 3072,
+                    "source": "https://live.staticflickr.com/5573/30538833520_bca7656f56_3k.jpg",
+                    "url": "https://www.flickr.com/photos/tamulibraries/30538833520/sizes/3k/",
+                    "media": "photo"
+                },
+                {
+                    "label": "X-Large 4K",
+                    "width": 2720,
+                    "height": 4096,
+                    "source": "https://live.staticflickr.com/5573/30538833520_04f45ea333_4k.jpg",
+                    "url": "https://www.flickr.com/photos/tamulibraries/30538833520/sizes/4k/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Original",
+                    "width": 2848,
+                    "height": 4288,
+                    "source": "https://live.staticflickr.com/5573/30538833520_51993bfcef_o.jpg",
+                    "url": "https://www.flickr.com/photos/tamulibraries/30538833520/sizes/o/",
+                    "media": "photo"
+                }
+            ]
+        },
+        "stat": "ok"
+    }
+}

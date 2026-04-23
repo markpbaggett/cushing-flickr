@@ -1,0 +1,634 @@
+{
+    "metadata": {
+        "photo": {
+            "id": "30839741735",
+            "secret": "fc4c689b00",
+            "server": "5522",
+            "farm": 6,
+            "dateuploaded": "1478531259",
+            "isfavorite": 0,
+            "license": "0",
+            "safety_level": "0",
+            "rotation": 0,
+            "originalsecret": "cfab0873eb",
+            "originalformat": "jpg",
+            "owner": {
+                "nsid": "36274857@N05",
+                "username": "TAMULibraries",
+                "realname": "Texas A&M University Libraries",
+                "location": "College Station TX, USA",
+                "iconserver": "65535",
+                "iconfarm": 66,
+                "path_alias": "tamulibraries",
+                "gift": {
+                    "gift_eligible": true,
+                    "eligible_durations": [
+                        "year",
+                        "month",
+                        "week"
+                    ],
+                    "new_flow": true
+                }
+            },
+            "title": {
+                "_content": "Steve's broadside"
+            },
+            "description": {
+                "_content": ""
+            },
+            "visibility": {
+                "ispublic": 1,
+                "isfriend": 0,
+                "isfamily": 0
+            },
+            "dates": {
+                "posted": "1478531259",
+                "taken": "2011-06-02 13:58:08",
+                "takengranularity": 0,
+                "takenunknown": "1",
+                "lastupdate": "1478531265"
+            },
+            "views": "155",
+            "editability": {
+                "cancomment": 0,
+                "canaddmeta": 0
+            },
+            "publiceditability": {
+                "cancomment": 1,
+                "canaddmeta": 0
+            },
+            "usage": {
+                "candownload": 1,
+                "canblog": 0,
+                "canprint": 0,
+                "canshare": 1
+            },
+            "comments": {
+                "_content": "0"
+            },
+            "notes": {
+                "note": []
+            },
+            "people": {
+                "haspeople": 0
+            },
+            "tags": {
+                "tag": []
+            },
+            "urls": {
+                "url": [
+                    {
+                        "type": "photopage",
+                        "_content": "https://www.flickr.com/photos/tamulibraries/30839741735/"
+                    }
+                ]
+            },
+            "media": "photo",
+            "descriptive_metadata": {}
+        },
+        "stat": "ok"
+    },
+    "exif": {
+        "photo": {
+            "id": "30839741735",
+            "secret": "fc4c689b00",
+            "server": "5522",
+            "farm": 6,
+            "camera": "i2s Digibook Scanner Suprascan 10000 RGB",
+            "exif": [
+                {
+                    "tagspace": "JFIF",
+                    "tagspaceid": 0,
+                    "tag": "JFIFVersion",
+                    "label": "JFIFVersion",
+                    "raw": {
+                        "_content": "1.02"
+                    }
+                },
+                {
+                    "tagspace": "JFIF",
+                    "tagspaceid": 0,
+                    "tag": "ResolutionUnit",
+                    "label": "Resolution Unit",
+                    "raw": {
+                        "_content": "inches"
+                    }
+                },
+                {
+                    "tagspace": "JFIF",
+                    "tagspaceid": 0,
+                    "tag": "XResolution",
+                    "label": "X-Resolution",
+                    "raw": {
+                        "_content": "450"
+                    },
+                    "clean": {
+                        "_content": "450 dpi"
+                    }
+                },
+                {
+                    "tagspace": "JFIF",
+                    "tagspaceid": 0,
+                    "tag": "YResolution",
+                    "label": "Y-Resolution",
+                    "raw": {
+                        "_content": "450"
+                    },
+                    "clean": {
+                        "_content": "450 dpi"
+                    }
+                },
+                {
+                    "tagspace": "IFD0",
+                    "tagspaceid": 0,
+                    "tag": "ImageWidth",
+                    "label": "Image Width",
+                    "raw": {
+                        "_content": "9936"
+                    }
+                },
+                {
+                    "tagspace": "IFD0",
+                    "tagspaceid": 0,
+                    "tag": "ImageHeight",
+                    "label": "Image Height",
+                    "raw": {
+                        "_content": "7696"
+                    }
+                },
+                {
+                    "tagspace": "IFD0",
+                    "tagspaceid": 0,
+                    "tag": "BitsPerSample",
+                    "label": "Bits Per Sample",
+                    "raw": {
+                        "_content": "8 8 8"
+                    }
+                },
+                {
+                    "tagspace": "IFD0",
+                    "tagspaceid": 0,
+                    "tag": "Compression",
+                    "label": "Compression",
+                    "raw": {
+                        "_content": "Uncompressed"
+                    }
+                },
+                {
+                    "tagspace": "IFD0",
+                    "tagspaceid": 0,
+                    "tag": "PhotometricInterpretation",
+                    "label": "Photometric Interpretation",
+                    "raw": {
+                        "_content": "RGB"
+                    }
+                },
+                {
+                    "tagspace": "IFD0",
+                    "tagspaceid": 0,
+                    "tag": "Make",
+                    "label": "Make",
+                    "raw": {
+                        "_content": "i2s Digibook Scanner"
+                    }
+                },
+                {
+                    "tagspace": "IFD0",
+                    "tagspaceid": 0,
+                    "tag": "Model",
+                    "label": "Model",
+                    "raw": {
+                        "_content": "Suprascan 10000 RGB"
+                    }
+                },
+                {
+                    "tagspace": "IFD0",
+                    "tagspaceid": 0,
+                    "tag": "Orientation",
+                    "label": "Orientation",
+                    "raw": {
+                        "_content": "Horizontal (normal)"
+                    }
+                },
+                {
+                    "tagspace": "IFD0",
+                    "tagspaceid": 0,
+                    "tag": "SamplesPerPixel",
+                    "label": "Samples Per Pixel",
+                    "raw": {
+                        "_content": "3"
+                    }
+                },
+                {
+                    "tagspace": "IFD0",
+                    "tagspaceid": 0,
+                    "tag": "PlanarConfiguration",
+                    "label": "Planar Configuration",
+                    "raw": {
+                        "_content": "Chunky"
+                    }
+                },
+                {
+                    "tagspace": "IFD0",
+                    "tagspaceid": 0,
+                    "tag": "ResolutionUnit",
+                    "label": "Resolution Unit",
+                    "raw": {
+                        "_content": "inches"
+                    }
+                },
+                {
+                    "tagspace": "IFD0",
+                    "tagspaceid": 0,
+                    "tag": "Software",
+                    "label": "Software",
+                    "raw": {
+                        "_content": "Adobe Photoshop CS4 Windows"
+                    }
+                },
+                {
+                    "tagspace": "IFD0",
+                    "tagspaceid": 0,
+                    "tag": "ModifyDate",
+                    "label": "Date and Time (Modified)",
+                    "raw": {
+                        "_content": "2011:06:02 13:58:08"
+                    }
+                },
+                {
+                    "tagspace": "IFD0",
+                    "tagspaceid": 0,
+                    "tag": "YCbCrPositioning",
+                    "label": "YCbCr Positioning",
+                    "raw": {
+                        "_content": "Centered"
+                    }
+                },
+                {
+                    "tagspace": "ExifIFD",
+                    "tagspaceid": 0,
+                    "tag": "ExifVersion",
+                    "label": "Exif Version",
+                    "raw": {
+                        "_content": "0232"
+                    }
+                },
+                {
+                    "tagspace": "ExifIFD",
+                    "tagspaceid": 0,
+                    "tag": "ComponentsConfiguration",
+                    "label": "Components Configuration",
+                    "raw": {
+                        "_content": "Y, Cb, Cr, -"
+                    }
+                },
+                {
+                    "tagspace": "ExifIFD",
+                    "tagspaceid": 0,
+                    "tag": "ColorSpace",
+                    "label": "Color Space",
+                    "raw": {
+                        "_content": "Uncalibrated"
+                    }
+                },
+                {
+                    "tagspace": "Photoshop",
+                    "tagspaceid": 0,
+                    "tag": "GlobalAngle",
+                    "label": "Global Angle",
+                    "raw": {
+                        "_content": "4294967236"
+                    }
+                },
+                {
+                    "tagspace": "Photoshop",
+                    "tagspaceid": 0,
+                    "tag": "GlobalAltitude",
+                    "label": "Global Altitude",
+                    "raw": {
+                        "_content": "30"
+                    }
+                },
+                {
+                    "tagspace": "Photoshop",
+                    "tagspaceid": 0,
+                    "tag": "IPTCDigest",
+                    "label": "IPTCDigest",
+                    "raw": {
+                        "_content": "00000000000000000000000000000000"
+                    }
+                },
+                {
+                    "tagspace": "XMP-x",
+                    "tagspaceid": 0,
+                    "tag": "XMPToolkit",
+                    "label": "XMPToolkit",
+                    "raw": {
+                        "_content": "Adobe XMP Core 4.2.2-c063 53.352624, 2008/07/30-18:12:18        "
+                    }
+                },
+                {
+                    "tagspace": "XMP-dc",
+                    "tagspaceid": 0,
+                    "tag": "Format",
+                    "label": "Format",
+                    "raw": {
+                        "_content": "image/jpeg"
+                    }
+                },
+                {
+                    "tagspace": "XMP-photoshop",
+                    "tagspaceid": 0,
+                    "tag": "ColorMode",
+                    "label": "Color Mode",
+                    "raw": {
+                        "_content": "RGB"
+                    }
+                },
+                {
+                    "tagspace": "XMP-tiff",
+                    "tagspaceid": 0,
+                    "tag": "BitsPerSample",
+                    "label": "Bits Per Sample",
+                    "raw": {
+                        "_content": "8"
+                    }
+                },
+                {
+                    "tagspace": "XMP-tiff",
+                    "tagspaceid": 0,
+                    "tag": "Compression",
+                    "label": "Compression",
+                    "raw": {
+                        "_content": "Uncompressed"
+                    }
+                },
+                {
+                    "tagspace": "XMP-tiff",
+                    "tagspaceid": 0,
+                    "tag": "Make",
+                    "label": "Make",
+                    "raw": {
+                        "_content": "i2s Digibook Scanner"
+                    }
+                },
+                {
+                    "tagspace": "XMP-tiff",
+                    "tagspaceid": 0,
+                    "tag": "Model",
+                    "label": "Model",
+                    "raw": {
+                        "_content": "Suprascan 10000 RGB"
+                    }
+                },
+                {
+                    "tagspace": "XMP-tiff",
+                    "tagspaceid": 0,
+                    "tag": "Orientation",
+                    "label": "Orientation",
+                    "raw": {
+                        "_content": "Horizontal (normal)"
+                    }
+                },
+                {
+                    "tagspace": "XMP-tiff",
+                    "tagspaceid": 0,
+                    "tag": "PhotometricInterpretation",
+                    "label": "Photometric Interpretation",
+                    "raw": {
+                        "_content": "RGB"
+                    }
+                },
+                {
+                    "tagspace": "XMP-tiff",
+                    "tagspaceid": 0,
+                    "tag": "PlanarConfiguration",
+                    "label": "Planar Configuration",
+                    "raw": {
+                        "_content": "Chunky"
+                    }
+                },
+                {
+                    "tagspace": "XMP-tiff",
+                    "tagspaceid": 0,
+                    "tag": "ResolutionUnit",
+                    "label": "Resolution Unit",
+                    "raw": {
+                        "_content": "inches"
+                    }
+                },
+                {
+                    "tagspace": "XMP-tiff",
+                    "tagspaceid": 0,
+                    "tag": "SamplesPerPixel",
+                    "label": "Samples Per Pixel",
+                    "raw": {
+                        "_content": "3"
+                    }
+                },
+                {
+                    "tagspace": "XMP-xmp",
+                    "tagspaceid": 0,
+                    "tag": "CreateDate",
+                    "label": "Date and Time (Digitized)",
+                    "raw": {
+                        "_content": "2011:05:31 15:57:36-05:00"
+                    }
+                },
+                {
+                    "tagspace": "XMP-xmp",
+                    "tagspaceid": 0,
+                    "tag": "CreatorTool",
+                    "label": "Creator Tool",
+                    "raw": {
+                        "_content": "Digibook Version :6, 2, 0, 359"
+                    }
+                },
+                {
+                    "tagspace": "XMP-xmp",
+                    "tagspaceid": 0,
+                    "tag": "MetadataDate",
+                    "label": "Metadata Date",
+                    "raw": {
+                        "_content": "2011:06:02 13:58:08-05:00"
+                    }
+                },
+                {
+                    "tagspace": "XMP-xmpMM",
+                    "tagspaceid": 0,
+                    "tag": "DerivedFromDocumentID",
+                    "label": "Derived From Document ID",
+                    "raw": {
+                        "_content": "xmp.did:20C3525F498DE011BD9A8934248BFCBD"
+                    }
+                },
+                {
+                    "tagspace": "XMP-xmpMM",
+                    "tagspaceid": 0,
+                    "tag": "DerivedFromInstanceID",
+                    "label": "Derived From Instance ID",
+                    "raw": {
+                        "_content": "xmp.iid:22C3525F498DE011BD9A8934248BFCBD"
+                    }
+                },
+                {
+                    "tagspace": "XMP-xmpMM",
+                    "tagspaceid": 0,
+                    "tag": "DerivedFromOriginalDocumentID",
+                    "label": "Derived From Original Document ID",
+                    "raw": {
+                        "_content": "xmp.did:20C3525F498DE011BD9A8934248BFCBD"
+                    }
+                },
+                {
+                    "tagspace": "XMP-xmpMM",
+                    "tagspaceid": 0,
+                    "tag": "DocumentID",
+                    "label": "Document ID",
+                    "raw": {
+                        "_content": "xmp.did:20C3525F498DE011BD9A8934248BFCBD"
+                    }
+                },
+                {
+                    "tagspace": "XMP-xmpMM",
+                    "tagspaceid": 0,
+                    "tag": "InstanceID",
+                    "label": "Instance ID",
+                    "raw": {
+                        "_content": "xmp.iid:23C3525F498DE011BD9A8934248BFCBD"
+                    }
+                },
+                {
+                    "tagspace": "XMP-xmpMM",
+                    "tagspaceid": 0,
+                    "tag": "OriginalDocumentID",
+                    "label": "Original Document ID",
+                    "raw": {
+                        "_content": "xmp.did:20C3525F498DE011BD9A8934248BFCBD"
+                    }
+                }
+            ]
+        },
+        "stat": "ok"
+    },
+    "comments": {
+        "comments": {
+            "photo_id": "30839741735"
+        },
+        "stat": "ok"
+    },
+    "sizes": {
+        "sizes": {
+            "canblog": 0,
+            "canprint": 0,
+            "candownload": 1,
+            "size": [
+                {
+                    "label": "Square",
+                    "width": 75,
+                    "height": 75,
+                    "source": "https://live.staticflickr.com/5522/30839741735_fc4c689b00_s.jpg",
+                    "url": "https://www.flickr.com/photos/tamulibraries/30839741735/sizes/sq/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Large Square",
+                    "width": 150,
+                    "height": 150,
+                    "source": "https://live.staticflickr.com/5522/30839741735_fc4c689b00_q.jpg",
+                    "url": "https://www.flickr.com/photos/tamulibraries/30839741735/sizes/q/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Thumbnail",
+                    "width": 81,
+                    "height": 100,
+                    "source": "https://live.staticflickr.com/5522/30839741735_fc4c689b00_t.jpg",
+                    "url": "https://www.flickr.com/photos/tamulibraries/30839741735/sizes/t/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Small",
+                    "width": 194,
+                    "height": 240,
+                    "source": "https://live.staticflickr.com/5522/30839741735_fc4c689b00_m.jpg",
+                    "url": "https://www.flickr.com/photos/tamulibraries/30839741735/sizes/s/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Small 320",
+                    "width": 259,
+                    "height": 320,
+                    "source": "https://live.staticflickr.com/5522/30839741735_fc4c689b00_n.jpg",
+                    "url": "https://www.flickr.com/photos/tamulibraries/30839741735/sizes/n/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Small 400",
+                    "width": 324,
+                    "height": 400,
+                    "source": "https://live.staticflickr.com/5522/30839741735_fc4c689b00_w.jpg",
+                    "url": "https://www.flickr.com/photos/tamulibraries/30839741735/sizes/w/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Medium",
+                    "width": 405,
+                    "height": 500,
+                    "source": "https://live.staticflickr.com/5522/30839741735_fc4c689b00.jpg",
+                    "url": "https://www.flickr.com/photos/tamulibraries/30839741735/sizes/m/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Medium 640",
+                    "width": 518,
+                    "height": 640,
+                    "source": "https://live.staticflickr.com/5522/30839741735_fc4c689b00_z.jpg",
+                    "url": "https://www.flickr.com/photos/tamulibraries/30839741735/sizes/z/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Medium 800",
+                    "width": 647,
+                    "height": 800,
+                    "source": "https://live.staticflickr.com/5522/30839741735_fc4c689b00_c.jpg",
+                    "url": "https://www.flickr.com/photos/tamulibraries/30839741735/sizes/c/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Large",
+                    "width": 829,
+                    "height": 1024,
+                    "source": "https://live.staticflickr.com/5522/30839741735_fc4c689b00_b.jpg",
+                    "url": "https://www.flickr.com/photos/tamulibraries/30839741735/sizes/l/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Large 1600",
+                    "width": 1295,
+                    "height": 1600,
+                    "source": "https://live.staticflickr.com/5522/30839741735_728d739206_h.jpg",
+                    "url": "https://www.flickr.com/photos/tamulibraries/30839741735/sizes/h/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Large 2048",
+                    "width": 1658,
+                    "height": 2048,
+                    "source": "https://live.staticflickr.com/5522/30839741735_da49c87b23_k.jpg",
+                    "url": "https://www.flickr.com/photos/tamulibraries/30839741735/sizes/k/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Original",
+                    "width": 1868,
+                    "height": 2308,
+                    "source": "https://live.staticflickr.com/5522/30839741735_cfab0873eb_o.jpg",
+                    "url": "https://www.flickr.com/photos/tamulibraries/30839741735/sizes/o/",
+                    "media": "photo"
+                }
+            ]
+        },
+        "stat": "ok"
+    }
+}

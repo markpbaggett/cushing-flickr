@@ -1,0 +1,900 @@
+{
+    "metadata": {
+        "photo": {
+            "id": "50090543132",
+            "secret": "bd28717cd3",
+            "server": "65535",
+            "farm": 66,
+            "dateuploaded": "1594214606",
+            "isfavorite": 0,
+            "license": "0",
+            "safety_level": "0",
+            "rotation": 0,
+            "originalsecret": "1cc0a577c7",
+            "originalformat": "jpg",
+            "owner": {
+                "nsid": "36274857@N05",
+                "username": "TAMULibraries",
+                "realname": "Texas A&M University Libraries",
+                "location": "College Station TX, USA",
+                "iconserver": "65535",
+                "iconfarm": 66,
+                "path_alias": "tamulibraries",
+                "gift": {
+                    "gift_eligible": true,
+                    "eligible_durations": [
+                        "year",
+                        "month",
+                        "week"
+                    ],
+                    "new_flow": true
+                }
+            },
+            "title": {
+                "_content": "PSEL"
+            },
+            "description": {
+                "_content": "The freedom monument outside of the Policy Sciences &amp; Economics Library."
+            },
+            "visibility": {
+                "ispublic": 1,
+                "isfriend": 0,
+                "isfamily": 0
+            },
+            "dates": {
+                "posted": "1594214606",
+                "taken": "2014-11-18 14:25:42",
+                "takengranularity": 0,
+                "takenunknown": "0",
+                "lastupdate": "1594238118"
+            },
+            "views": "282",
+            "editability": {
+                "cancomment": 0,
+                "canaddmeta": 0
+            },
+            "publiceditability": {
+                "cancomment": 1,
+                "canaddmeta": 0
+            },
+            "usage": {
+                "candownload": 1,
+                "canblog": 0,
+                "canprint": 0,
+                "canshare": 1
+            },
+            "comments": {
+                "_content": "0"
+            },
+            "notes": {
+                "note": []
+            },
+            "people": {
+                "haspeople": 0
+            },
+            "tags": {
+                "tag": [
+                    {
+                        "id": "36269517-50090543132-3810",
+                        "author": "36274857@N05",
+                        "authorname": "TAMULibraries",
+                        "raw": "Exterior",
+                        "_content": "exterior",
+                        "machine_tag": 0
+                    },
+                    {
+                        "id": "36269517-50090543132-4275267",
+                        "author": "36274857@N05",
+                        "authorname": "TAMULibraries",
+                        "raw": "PSEL",
+                        "_content": "psel",
+                        "machine_tag": 0
+                    },
+                    {
+                        "id": "36269517-50090543132-1000",
+                        "author": "36274857@N05",
+                        "authorname": "TAMULibraries",
+                        "raw": "statue",
+                        "_content": "statue",
+                        "machine_tag": 0
+                    },
+                    {
+                        "id": "36269517-50090543132-553",
+                        "author": "36274857@N05",
+                        "authorname": "TAMULibraries",
+                        "raw": "building",
+                        "_content": "building",
+                        "machine_tag": 0
+                    },
+                    {
+                        "id": "36269517-50090543132-238245",
+                        "author": "36274857@N05",
+                        "authorname": "TAMULibraries",
+                        "raw": "Texas A&M University",
+                        "_content": "texasamuniversity",
+                        "machine_tag": 0
+                    },
+                    {
+                        "id": "36269517-50090543132-325",
+                        "author": "36274857@N05",
+                        "authorname": "TAMULibraries",
+                        "raw": "horse",
+                        "_content": "horse",
+                        "machine_tag": 0
+                    },
+                    {
+                        "id": "36269517-50090543132-6839",
+                        "author": "36274857@N05",
+                        "authorname": "TAMULibraries",
+                        "raw": "stock",
+                        "_content": "stock",
+                        "machine_tag": 0
+                    },
+                    {
+                        "id": "36269517-50090543132-780",
+                        "author": "36274857@N05",
+                        "authorname": "TAMULibraries",
+                        "raw": "monument",
+                        "_content": "monument",
+                        "machine_tag": 0
+                    },
+                    {
+                        "id": "36269517-50090543132-15004",
+                        "author": "36274857@N05",
+                        "authorname": "TAMULibraries",
+                        "raw": "Berlin wall",
+                        "_content": "berlinwall",
+                        "machine_tag": 0
+                    },
+                    {
+                        "id": "36269517-50090543132-140",
+                        "author": "36274857@N05",
+                        "authorname": "TAMULibraries",
+                        "raw": "flowers",
+                        "_content": "flowers",
+                        "machine_tag": 0
+                    }
+                ]
+            },
+            "urls": {
+                "url": [
+                    {
+                        "type": "photopage",
+                        "_content": "https://www.flickr.com/photos/tamulibraries/50090543132/"
+                    }
+                ]
+            },
+            "media": "photo",
+            "descriptive_metadata": {
+                "The freedom monument outside of the Policy Sciences &amp; Economics Library.": ""
+            }
+        },
+        "stat": "ok"
+    },
+    "exif": {
+        "photo": {
+            "id": "50090543132",
+            "secret": "bd28717cd3",
+            "server": "65535",
+            "farm": 66,
+            "camera": "",
+            "exif": [
+                {
+                    "tagspace": "IFD0",
+                    "tagspaceid": 0,
+                    "tag": "ImageWidth",
+                    "label": "Image Width",
+                    "raw": {
+                        "_content": "1500"
+                    }
+                },
+                {
+                    "tagspace": "IFD0",
+                    "tagspaceid": 0,
+                    "tag": "ImageHeight",
+                    "label": "Image Height",
+                    "raw": {
+                        "_content": "1125"
+                    }
+                },
+                {
+                    "tagspace": "IFD0",
+                    "tagspaceid": 0,
+                    "tag": "BitsPerSample",
+                    "label": "Bits Per Sample",
+                    "raw": {
+                        "_content": "8 8 8"
+                    }
+                },
+                {
+                    "tagspace": "IFD0",
+                    "tagspaceid": 0,
+                    "tag": "Compression",
+                    "label": "Compression",
+                    "raw": {
+                        "_content": "JPEG (old-style)"
+                    }
+                },
+                {
+                    "tagspace": "IFD0",
+                    "tagspaceid": 0,
+                    "tag": "PhotometricInterpretation",
+                    "label": "Photometric Interpretation",
+                    "raw": {
+                        "_content": "RGB"
+                    }
+                },
+                {
+                    "tagspace": "IFD0",
+                    "tagspaceid": 0,
+                    "tag": "DocumentName",
+                    "label": "Document Name",
+                    "raw": {
+                        "_content": "PSEL_Homepage"
+                    }
+                },
+                {
+                    "tagspace": "IFD0",
+                    "tagspaceid": 0,
+                    "tag": "Orientation",
+                    "label": "Orientation",
+                    "raw": {
+                        "_content": "Horizontal (normal)"
+                    }
+                },
+                {
+                    "tagspace": "IFD0",
+                    "tagspaceid": 0,
+                    "tag": "SamplesPerPixel",
+                    "label": "Samples Per Pixel",
+                    "raw": {
+                        "_content": "3"
+                    }
+                },
+                {
+                    "tagspace": "IFD0",
+                    "tagspaceid": 0,
+                    "tag": "XResolution",
+                    "label": "X-Resolution",
+                    "raw": {
+                        "_content": "150"
+                    },
+                    "clean": {
+                        "_content": "150 dpi"
+                    }
+                },
+                {
+                    "tagspace": "IFD0",
+                    "tagspaceid": 0,
+                    "tag": "YResolution",
+                    "label": "Y-Resolution",
+                    "raw": {
+                        "_content": "150"
+                    },
+                    "clean": {
+                        "_content": "150 dpi"
+                    }
+                },
+                {
+                    "tagspace": "IFD0",
+                    "tagspaceid": 0,
+                    "tag": "ResolutionUnit",
+                    "label": "Resolution Unit",
+                    "raw": {
+                        "_content": "inches"
+                    }
+                },
+                {
+                    "tagspace": "IFD0",
+                    "tagspaceid": 0,
+                    "tag": "Software",
+                    "label": "Software",
+                    "raw": {
+                        "_content": "Photo Supreme Server Edition Version 4.1.0.1513"
+                    }
+                },
+                {
+                    "tagspace": "IFD0",
+                    "tagspaceid": 0,
+                    "tag": "ModifyDate",
+                    "label": "Date and Time (Modified)",
+                    "raw": {
+                        "_content": "2014:11:18 14:25:42"
+                    }
+                },
+                {
+                    "tagspace": "IFD0",
+                    "tagspaceid": 0,
+                    "tag": "YCbCrPositioning",
+                    "label": "YCbCr Positioning",
+                    "raw": {
+                        "_content": "Centered"
+                    }
+                },
+                {
+                    "tagspace": "IFD0",
+                    "tagspaceid": 0,
+                    "tag": "Rating",
+                    "label": "Rating",
+                    "raw": {
+                        "_content": "0"
+                    }
+                },
+                {
+                    "tagspace": "IFD0",
+                    "tagspaceid": 0,
+                    "tag": "RatingPercent",
+                    "label": "Rating Percent",
+                    "raw": {
+                        "_content": "0"
+                    }
+                },
+                {
+                    "tagspace": "ExifIFD",
+                    "tagspaceid": 0,
+                    "tag": "ExposureProgram",
+                    "label": "Exposure Program",
+                    "raw": {
+                        "_content": "Not Defined"
+                    }
+                },
+                {
+                    "tagspace": "ExifIFD",
+                    "tagspaceid": 0,
+                    "tag": "ExifVersion",
+                    "label": "Exif Version",
+                    "raw": {
+                        "_content": "0221"
+                    }
+                },
+                {
+                    "tagspace": "ExifIFD",
+                    "tagspaceid": 0,
+                    "tag": "DateTimeOriginal",
+                    "label": "Date and Time (Original)",
+                    "raw": {
+                        "_content": "2014:11:18 14:25:42"
+                    },
+                    "clean": {
+                        "_content": "2014:11:18 14:25:42-06:00"
+                    }
+                },
+                {
+                    "tagspace": "ExifIFD",
+                    "tagspaceid": 0,
+                    "tag": "CreateDate",
+                    "label": "Date and Time (Digitized)",
+                    "raw": {
+                        "_content": "2014:11:18 14:25:42"
+                    }
+                },
+                {
+                    "tagspace": "ExifIFD",
+                    "tagspaceid": 0,
+                    "tag": "ComponentsConfiguration",
+                    "label": "Components Configuration",
+                    "raw": {
+                        "_content": "Y, Cb, Cr, -"
+                    }
+                },
+                {
+                    "tagspace": "ExifIFD",
+                    "tagspaceid": 0,
+                    "tag": "ColorSpace",
+                    "label": "Color Space",
+                    "raw": {
+                        "_content": "sRGB"
+                    },
+                    "clean": {
+                        "_content": "Uncalibrated"
+                    }
+                },
+                {
+                    "tagspace": "IPTC",
+                    "tagspaceid": 0,
+                    "tag": "CodedCharacterSet",
+                    "label": "Coded Character Set",
+                    "raw": {
+                        "_content": "UTF8"
+                    }
+                },
+                {
+                    "tagspace": "IPTC",
+                    "tagspaceid": 0,
+                    "tag": "EnvelopeRecordVersion",
+                    "label": "Envelope Record Version",
+                    "raw": {
+                        "_content": "4"
+                    }
+                },
+                {
+                    "tagspace": "IPTC",
+                    "tagspaceid": 0,
+                    "tag": "ObjectName",
+                    "label": "Object Name",
+                    "raw": {
+                        "_content": "PSEL_Homepage"
+                    }
+                },
+                {
+                    "tagspace": "IPTC",
+                    "tagspaceid": 0,
+                    "tag": "Keywords",
+                    "label": "Keywords",
+                    "raw": {
+                        "_content": "Exterior"
+                    },
+                    "clean": {
+                        "_content": "Exterior PSEL"
+                    }
+                },
+                {
+                    "tagspace": "IPTC",
+                    "tagspaceid": 0,
+                    "tag": "DateCreated",
+                    "label": "Date Created",
+                    "raw": {
+                        "_content": "2014:11:18"
+                    }
+                },
+                {
+                    "tagspace": "IPTC",
+                    "tagspaceid": 0,
+                    "tag": "TimeCreated",
+                    "label": "Time Created",
+                    "raw": {
+                        "_content": "14:25:42-06:00"
+                    }
+                },
+                {
+                    "tagspace": "IPTC",
+                    "tagspaceid": 0,
+                    "tag": "OriginatingProgram",
+                    "label": "Originating Program",
+                    "raw": {
+                        "_content": "Photo Supreme Server Edition"
+                    }
+                },
+                {
+                    "tagspace": "IPTC",
+                    "tagspaceid": 0,
+                    "tag": "ProgramVersion",
+                    "label": "Program Version",
+                    "raw": {
+                        "_content": "4.1.0.1513"
+                    }
+                },
+                {
+                    "tagspace": "IPTC",
+                    "tagspaceid": 0,
+                    "tag": "ApplicationRecordVersion",
+                    "label": "Application Record Version",
+                    "raw": {
+                        "_content": "4"
+                    }
+                },
+                {
+                    "tagspace": "Photoshop",
+                    "tagspaceid": 0,
+                    "tag": "GlobalAngle",
+                    "label": "Global Angle",
+                    "raw": {
+                        "_content": "120"
+                    }
+                },
+                {
+                    "tagspace": "Photoshop",
+                    "tagspaceid": 0,
+                    "tag": "GlobalAltitude",
+                    "label": "Global Altitude",
+                    "raw": {
+                        "_content": "30"
+                    }
+                },
+                {
+                    "tagspace": "Photoshop",
+                    "tagspaceid": 0,
+                    "tag": "IPTCDigest",
+                    "label": "IPTCDigest",
+                    "raw": {
+                        "_content": "9a89ad5d286dba2102c8cba967053fdb"
+                    }
+                },
+                {
+                    "tagspace": "XMP-x",
+                    "tagspaceid": 0,
+                    "tag": "XMPToolkit",
+                    "label": "XMPToolkit",
+                    "raw": {
+                        "_content": "Toolkit=IDimager;Version=3.0.0.9;"
+                    }
+                },
+                {
+                    "tagspace": "XMP-microsoft",
+                    "tagspaceid": 0,
+                    "tag": "RatingPercent",
+                    "label": "Rating Percent",
+                    "raw": {
+                        "_content": "0"
+                    }
+                },
+                {
+                    "tagspace": "XMP-dc",
+                    "tagspaceid": 0,
+                    "tag": "Format",
+                    "label": "Format",
+                    "raw": {
+                        "_content": "image/jpeg"
+                    }
+                },
+                {
+                    "tagspace": "XMP-dc",
+                    "tagspaceid": 0,
+                    "tag": "Subject",
+                    "label": "Subject",
+                    "raw": {
+                        "_content": "PSEL"
+                    }
+                },
+                {
+                    "tagspace": "XMP-dc",
+                    "tagspaceid": 0,
+                    "tag": "Title",
+                    "label": "Title",
+                    "raw": {
+                        "_content": "PSEL_Homepage"
+                    }
+                },
+                {
+                    "tagspace": "XMP-ics",
+                    "tagspaceid": 0,
+                    "tag": "AppVersion",
+                    "label": "App Version",
+                    "raw": {
+                        "_content": "IDimagerSU 4.1.0.1513"
+                    }
+                },
+                {
+                    "tagspace": "XMP-ics",
+                    "tagspaceid": 0,
+                    "tag": "ImageRef",
+                    "label": "Image Ref",
+                    "raw": {
+                        "_content": "3AC033C15C573EDB39295167EF68775E"
+                    }
+                },
+                {
+                    "tagspace": "XMP-ics",
+                    "tagspaceid": 0,
+                    "tag": "LabelName1",
+                    "label": "Label Name1",
+                    "raw": {
+                        "_content": "Buildings"
+                    }
+                },
+                {
+                    "tagspace": "XMP-ics",
+                    "tagspaceid": 0,
+                    "tag": "Reference1",
+                    "label": "Reference1",
+                    "raw": {
+                        "_content": "F3807970987DAFEA5BA7E89055D45BFA"
+                    }
+                },
+                {
+                    "tagspace": "XMP-ics",
+                    "tagspaceid": 0,
+                    "tag": "LabelName2",
+                    "label": "Label Name2",
+                    "raw": {
+                        "_content": "PSEL"
+                    }
+                },
+                {
+                    "tagspace": "XMP-ics",
+                    "tagspaceid": 0,
+                    "tag": "Reference2",
+                    "label": "Reference2",
+                    "raw": {
+                        "_content": "A16A2286F85D839E3357C783781717A6"
+                    }
+                },
+                {
+                    "tagspace": "XMP-lr",
+                    "tagspaceid": 0,
+                    "tag": "HierarchicalSubject",
+                    "label": "Hierarchical Subject",
+                    "raw": {
+                        "_content": "Buildings|PSEL"
+                    }
+                },
+                {
+                    "tagspace": "XMP-photoshop",
+                    "tagspaceid": 0,
+                    "tag": "ColorMode",
+                    "label": "Color Mode",
+                    "raw": {
+                        "_content": "RGB"
+                    }
+                },
+                {
+                    "tagspace": "XMP-photoshop",
+                    "tagspaceid": 0,
+                    "tag": "ICCProfileName",
+                    "label": "ICCProfile Name",
+                    "raw": {
+                        "_content": "sRGB IEC61966-2.1"
+                    }
+                },
+                {
+                    "tagspace": "XMP-photoshop",
+                    "tagspaceid": 0,
+                    "tag": "LegacyIPTCDigest",
+                    "label": "Legacy IPTCDigest",
+                    "raw": {
+                        "_content": "D3C99F4B3D8DEA288548356A84159C2B"
+                    }
+                },
+                {
+                    "tagspace": "XMP-tiff",
+                    "tagspaceid": 0,
+                    "tag": "BitsPerSample",
+                    "label": "Bits Per Sample",
+                    "raw": {
+                        "_content": "8"
+                    }
+                },
+                {
+                    "tagspace": "XMP-tiff",
+                    "tagspaceid": 0,
+                    "tag": "Compression",
+                    "label": "Compression",
+                    "raw": {
+                        "_content": "JPEG (old-style)"
+                    }
+                },
+                {
+                    "tagspace": "XMP-tiff",
+                    "tagspaceid": 0,
+                    "tag": "DateTime",
+                    "label": "Date Time",
+                    "raw": {
+                        "_content": "2014:11:18 14:25:42-06:00"
+                    }
+                },
+                {
+                    "tagspace": "XMP-tiff",
+                    "tagspaceid": 0,
+                    "tag": "Orientation",
+                    "label": "Orientation",
+                    "raw": {
+                        "_content": "Horizontal (normal)"
+                    }
+                },
+                {
+                    "tagspace": "XMP-tiff",
+                    "tagspaceid": 0,
+                    "tag": "PhotometricInterpretation",
+                    "label": "Photometric Interpretation",
+                    "raw": {
+                        "_content": "RGB"
+                    }
+                },
+                {
+                    "tagspace": "XMP-tiff",
+                    "tagspaceid": 0,
+                    "tag": "ResolutionUnit",
+                    "label": "Resolution Unit",
+                    "raw": {
+                        "_content": "inches"
+                    }
+                },
+                {
+                    "tagspace": "XMP-tiff",
+                    "tagspaceid": 0,
+                    "tag": "SamplesPerPixel",
+                    "label": "Samples Per Pixel",
+                    "raw": {
+                        "_content": "3"
+                    }
+                },
+                {
+                    "tagspace": "XMP-tiff",
+                    "tagspaceid": 0,
+                    "tag": "Software",
+                    "label": "Software",
+                    "raw": {
+                        "_content": "Adobe Photoshop CS6 (Macintosh)"
+                    }
+                },
+                {
+                    "tagspace": "XMP-xmp",
+                    "tagspaceid": 0,
+                    "tag": "CreatorTool",
+                    "label": "Creator Tool",
+                    "raw": {
+                        "_content": "Adobe Photoshop CS6 (Macintosh)"
+                    }
+                },
+                {
+                    "tagspace": "XMP-xmp",
+                    "tagspaceid": 0,
+                    "tag": "MetadataDate",
+                    "label": "Metadata Date",
+                    "raw": {
+                        "_content": "2018:06:05 12:52:56.404-06:00"
+                    }
+                },
+                {
+                    "tagspace": "XMP-xmp",
+                    "tagspaceid": 0,
+                    "tag": "Rating",
+                    "label": "Rating",
+                    "raw": {
+                        "_content": "0"
+                    }
+                },
+                {
+                    "tagspace": "XMP-xmpMM",
+                    "tagspaceid": 0,
+                    "tag": "DerivedFromDocumentID",
+                    "label": "Derived From Document ID",
+                    "raw": {
+                        "_content": "xmp.did:0180117407206811822A9D340E2ABF51"
+                    }
+                },
+                {
+                    "tagspace": "XMP-xmpMM",
+                    "tagspaceid": 0,
+                    "tag": "DerivedFromInstanceID",
+                    "label": "Derived From Instance ID",
+                    "raw": {
+                        "_content": "xmp.iid:05801174072068118083F314FB5385D7"
+                    }
+                },
+                {
+                    "tagspace": "XMP-xmpMM",
+                    "tagspaceid": 0,
+                    "tag": "DerivedFromOriginalDocumentID",
+                    "label": "Derived From Original Document ID",
+                    "raw": {
+                        "_content": "xmp.did:0180117407206811822A9D340E2ABF51"
+                    }
+                },
+                {
+                    "tagspace": "XMP-xmpMM",
+                    "tagspaceid": 0,
+                    "tag": "DocumentID",
+                    "label": "Document ID",
+                    "raw": {
+                        "_content": "xmp.did:0180117407206811822A9D340E2ABF51"
+                    }
+                },
+                {
+                    "tagspace": "XMP-xmpMM",
+                    "tagspaceid": 0,
+                    "tag": "InstanceID",
+                    "label": "Instance ID",
+                    "raw": {
+                        "_content": "xmp.iid:479351122E2068118083F314FB5385D7"
+                    }
+                },
+                {
+                    "tagspace": "XMP-xmpMM",
+                    "tagspaceid": 0,
+                    "tag": "OriginalDocumentID",
+                    "label": "Original Document ID",
+                    "raw": {
+                        "_content": "xmp.did:0180117407206811822A9D340E2ABF51"
+                    }
+                },
+                {
+                    "tagspace": "XMP-xmpMM",
+                    "tagspaceid": 0,
+                    "tag": "PreservedFileName",
+                    "label": "Preserved File Name",
+                    "raw": {
+                        "_content": "PSEL_Homepage.jpg"
+                    }
+                }
+            ]
+        },
+        "stat": "ok"
+    },
+    "comments": {
+        "comments": {
+            "photo_id": "50090543132"
+        },
+        "stat": "ok"
+    },
+    "sizes": {
+        "sizes": {
+            "canblog": 0,
+            "canprint": 0,
+            "candownload": 1,
+            "size": [
+                {
+                    "label": "Square",
+                    "width": 75,
+                    "height": 75,
+                    "source": "https://live.staticflickr.com/65535/50090543132_bd28717cd3_s.jpg",
+                    "url": "https://www.flickr.com/photos/tamulibraries/50090543132/sizes/sq/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Large Square",
+                    "width": 150,
+                    "height": 150,
+                    "source": "https://live.staticflickr.com/65535/50090543132_bd28717cd3_q.jpg",
+                    "url": "https://www.flickr.com/photos/tamulibraries/50090543132/sizes/q/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Thumbnail",
+                    "width": 100,
+                    "height": 75,
+                    "source": "https://live.staticflickr.com/65535/50090543132_bd28717cd3_t.jpg",
+                    "url": "https://www.flickr.com/photos/tamulibraries/50090543132/sizes/t/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Small",
+                    "width": 240,
+                    "height": 180,
+                    "source": "https://live.staticflickr.com/65535/50090543132_bd28717cd3_m.jpg",
+                    "url": "https://www.flickr.com/photos/tamulibraries/50090543132/sizes/s/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Small 320",
+                    "width": 320,
+                    "height": 240,
+                    "source": "https://live.staticflickr.com/65535/50090543132_bd28717cd3_n.jpg",
+                    "url": "https://www.flickr.com/photos/tamulibraries/50090543132/sizes/n/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Small 400",
+                    "width": 400,
+                    "height": 300,
+                    "source": "https://live.staticflickr.com/65535/50090543132_bd28717cd3_w.jpg",
+                    "url": "https://www.flickr.com/photos/tamulibraries/50090543132/sizes/w/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Medium",
+                    "width": 500,
+                    "height": 375,
+                    "source": "https://live.staticflickr.com/65535/50090543132_bd28717cd3.jpg",
+                    "url": "https://www.flickr.com/photos/tamulibraries/50090543132/sizes/m/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Medium 640",
+                    "width": 640,
+                    "height": 480,
+                    "source": "https://live.staticflickr.com/65535/50090543132_bd28717cd3_z.jpg",
+                    "url": "https://www.flickr.com/photos/tamulibraries/50090543132/sizes/z/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Medium 800",
+                    "width": 800,
+                    "height": 600,
+                    "source": "https://live.staticflickr.com/65535/50090543132_bd28717cd3_c.jpg",
+                    "url": "https://www.flickr.com/photos/tamulibraries/50090543132/sizes/c/",
+                    "media": "photo"
+                },
+                {
+                    "label": "Original",
+                    "width": 900,
+                    "height": 675,
+                    "source": "https://live.staticflickr.com/65535/50090543132_1cc0a577c7_o.jpg",
+                    "url": "https://www.flickr.com/photos/tamulibraries/50090543132/sizes/o/",
+                    "media": "photo"
+                }
+            ]
+        },
+        "stat": "ok"
+    }
+}
